@@ -1,0 +1,2019 @@
+City ST Country,Population (k),Elevation (m),Avg. Temp (C),High Temp (C),Low Temp (C),Rainfall (cm),Snowfall (cm),Rel. Humid (%),Wind (km/h),Continent,Lat (N/S),Lon (E/W)
+Dawei Myanmar,147,15,26.5,32,21,530.7,0,76.8,4.6,Asia,14.08,98.19
+Kimbe Papua_New_Guinea,27,26,25.9,30,24,520.9,0,80.4,10.3,Oceania,-5.55,150.14
+Lae PNG,101,7,26,31,22,463,0,82.5,9,Oceania,-6.72,147.00
+Monrovia Liberia,421,17,26,31,23,462.4,0,83,12,Africa,6.29,-10.76
+Baguio Philippines,319,1512,19,25,12,454,0,88,4.7,Asia,16.40,120.60
+Padang Sumatra Indonesia,834,3,26,30,23,429,0,83.5,9,Oceania,-0.95,100.42
+Myeik Myanmar,284,22,26,32,20,412,0,83,4.3,Asia,12.45,98.63
+Mawlamyine Myanmar,326,25,26.3,33,19,406.7,0,76.3,3.4,Asia,16.45,97.64
+Yakutat AK USA,1,8,4.6,15.8,-5.3,394,364.2,78.5,9.5,North America,59.55,-139.73
+Pokhara Nepal,265,1004,18.4,30.6,7.1,390.1,0,69.5,4.5,Asia,28.24,84.00
+Ketchikan AK USA,8,116,7.2,18.4,-2.4,388.8,78.7,77,13.4,North America,55.34,-131.65
+Kuching Malaysia,325,27,27,32,22,388,0,87.9,8,Asia,1.61,110.38
+Douala Cameroon,2940,9,26,30,23,381,0,90,9,Africa,4.05,9.77
+Conakry Guinea,1668,25,27,30,24,378.4,0,79,16,Africa,9.64,-13.58
+Olongapo Philippines,221,16,28,35,22,359,0,75,12,Asia,14.84,120.28
+Arawa Papua_New_Guinea,36,73,25.1,29,22,350.9,0,81.7,6.1,Oceania,-6.23,155.57
+Colon Panama,78,3,26,30,23,346,0,84,8.4,Latin America,9.36,-79.90
+Limon Costa_Rica,58,-3,26,30,22,339,0,83.3,9,South America,9.99,-83.04
+Aberdeen WA USA,16,4,9.4,22.5,0.6,332.7,57.4,78.5,14.5,North America,46.98,-123.82
+Mangaluru KA India,499,99,27.3,34,20.8,329,0,78,14,Asia,12.91,74.86
+Toamasina Madagascar,275,4,23,30,17,325,0,84,6,Africa,-18.14,49.40
+Hilo HI USA,43,10,23.3,28.5,17.7,321.8,0,78.1,11.1,North America,19.71,-155.09
+Pontianak Kalimantan Indonesia,234,3,27,31,23,321,0,85,8,Oceania,-0.03,109.34
+Cayenne French_Guiana,121,9,26,31,22,320,0,84.5,14,South America,4.92,-52.31
+Amami Japan,43,23,20,31,11,316,0,76,7.4,Asia,28.27,129.36
+Makeni Sierra_Leone,88,84,28,31,24,314,0,79.1,4.8,Africa,8.87,-12.04
+Kailua HI USA,39,3,21.4,27.3,15.3,312.2,0,74,13.8,North America,21.40,-157.74
+Freetown Sierra_Leone,1050,4,25.5,31,23,311.3,0,78.9,16.2,Africa,8.47,-13.23
+Sandakan Malaysia,157,13,27,31,23,306,0,85.5,8,Asia,5.84,118.12
+Malang Java Indonesia,820,449,24.6,30.2,16.5,304.3,0,77.2,12.3,Oceania,-7.97,112.63
+Miri Malaysia,235,17,27,30,23,300,0,86,9,Asia,4.40,113.99
+Suva Fiji,74,6,24,30,20,297,0,77,10.6,Oceania,-18.12,178.45
+Chittagong Bangladesh,2582,6,25.9,32.3,13.9,291.9,0,77,12,Asia,22.36,91.78
+Iquitos Peru,371,125,26,31,21,290,0,88.3,16,South America,-3.74,-73.25
+Kuantan Malaysia,354,15,26,31,22,286,0,84.5,8,Asia,3.76,103.22
+La_Ceiba Honduras,204,3,26,31,20,285,0,84,14,Latin America,15.77,-86.79
+Apia Samoa,37,2,26,30,23,285,0,77,10.3,Oceania,-13.85,-171.75
+Sorong Papua Indonesia,220,3,28,32,25,284,0,83,8,Oceania,-0.88,131.26
+Manado Sulawesi Indonesia,410,79,26,30,23,284,0,83.8,9,Oceania,1.47,124.84
+Belem PA Brazil,143,16,25.9,32.3,21.6,279,0,86.8,12,South America,-1.46,-48.49
+Semarang Java Indonesia,1556,3,28,32,24,278,0,77,14,Oceania,-7.01,110.44
+Balikpapan Borneo Indonesia,558,3,27,30,25,278,0,84,12,Oceania,-1.24,116.85
+Pathein Myanmar,316,10,26,35,17,276,0,79,7.4,Asia,16.78,94.74
+Kochi KL India,2232,3,27,31,23,274,0,82.1,12,Asia,9.93,76.27
+Preah_Sihanouk Cambodia,200,10,27.2,31,24,272.5,0,78.5,7.8,Asia,10.76,103.82
+Kota_Bharu Malaysia,491,4,26,32,22,270,0,83,5.1,Asia,6.12,102.28
+Yangon Myanmar,7361,28,27,37,18,268.1,0,76.5,12,Asia,16.87,96.20
+Kenema Sierra_Leone,200,176,26,34,19,266.5,0,77.2,10.6,Africa,7.86,-11.20
+Petersburg AK USA,3,3,5.4,17.6,-6.2,266.2,195.6,75.5,6.4,North America,56.81,-132.96
+Bandar_Seri_Begawan Brunei,27,14,27,32,23,264,0,85,9,Oceania,4.90,114.94
+Mount_Hagen Papua_New_Guinea,46,1722,20.3,22,14,263.8,0,79,12.7,Oceania,-5.86,144.24
+Kota_Kinabalu Malaysia,207,3,26,31,22,262.1,0,85,5,Asia,5.98,116.07
+Prince_Rupert BC Canada,13,33,7.5,17,-0.8,261.9,92.4,84,12,North America,54.32,-130.32
+Coatzacoalcos VE Mexico,234,34,25,31,20,261,0,80.5,14,Latin America,18.13,-94.46
+Pekanbaru Sumatra Indonesia,898,31,27,31,23,258,0,82,12,Oceania,0.51,101.45
+Banjarmasin Kalimantan Indonesia,625,20,27,31,23,257,0,83,9,Oceania,-3.32,114.59
+Macapa AP Brazil,369,14,26.6,32.6,22.9,256.1,0,83.1,9,South America,0.04,-51.07
+David Panama,145,25,27.1,32,23,255,0,75.7,7.1,Latin America,8.40,-82.44
+Santiago Panama,89,87,27.1,31,22,254,0,74.8,7.3,Latin America,8.09,-80.98
+Moroni Comoros,31,17,25,30.6,20.6,253.2,0,81,9,Africa,-11.72,43.25
+Dededo Guam,45,111,25,30,21,253.1,0,73,11.9,Oceania,13.55,144.85
+Palembang Sumatra Indonesia,1455,10,27,31,23,246,0,83,9,Oceania,-2.98,104.78
+Mumbai MH India,12478,14,27.1,33.5,16.7,243.1,0,70.4,9,Asia,19.08,72.88
+Valdivia Chile,139,14,12,22,5,243,0,85,17,South America,-39.82,-73.24
+Kuala_Lumpur Malaysia,1768,21,27,32,22,242,0,81.7,9,Asia,3.14,101.69
+Bergen Norway,266,49,7.6,17.6,-0.5,241.2,25,76.5,16,Europe,60.39,5.32
+Sitka AK USA,9,2,6,16,-2,241,83.8,79,12.6,North America,57.05,-135.33
+Galle Sri_Lanka,99,13,26,31.7,22.8,240.3,0,81,9.3,Asia,6.05,80.22
+George_Town Malaysia,740,59,27.6,32.2,23.6,239.8,0,83.5,4.6,Asia,5.44,100.31
+Jayapura Papua Indonesia,257,28,27,32,24,239.8,0,80.4,7.6,Oceania,-2.59,140.67
+Batumi Georgia,126,6,14,25,3,239.2,2,74.5,19,Middle East,41.62,41.64
+Cordoba VE Mexico,141,781,22.5,31.7,13.1,236.4,0,80,4.6,Latin America,18.82,-97.16
+Victoria Seychelles,26,3,27,30,24,235,0,79.5,16,Asia,-4.62,55.45
+Gbarnga Liberia,34,243,24.8,33,18,234.7,0,80.3,5.9,Africa,7.00,-9.47
+Klawock AK USA,1,3,7.5,18.3,-0.5,234.7,37.9,78,24,North America,55.55,-133.10
+Ipoh Malaysia,658,37,27,33,22,234,0,78,2.7,Asia,4.60,101.09
+Tuxtepec OA Mexico,94,26,24.9,34.1,16.4,233.1,0,81.5,5,Latin America,18.08,-96.14
+Andapa Madagascar,190,502,21.3,28,16,232.1,0,81,10.7,Africa,-14.66,49.65
+Port_Harcourt Nigeria,1865,17,26,29,24,231.1,0,83,3.8,Africa,4.82,7.05
+Manaus AM Brazil,1793,84,27,32,23,230.7,0,83,12,South America,-3.12,-60.02
+Puerto_Ayacucho Venezuela,53,71,27.7,35.5,22.3,229,0,76.1,6.9,South America,5.66,-67.58
+Singapore Singapore,5535,15,27,31,23,227.1,0,82.5,12,Asia,1.35,103.82
+Georgetown Guyana,131,2,26,31.1,23.9,226,0,84,6.6,South America,6.80,-58.16
+Porto_Velho RO Brazil,369,88,25.6,34.3,18.3,225.5,0,86.1,12,South America,-8.76,-63.90
+Jambi Sumatra Indonesia,3412,25,26,32,22,225.4,0,82.4,2.5,Oceania,-1.49,102.44
+Hubli KA India,944,729,25.4,33.1,17,223.3,0,77,8.5,Asia,15.36,75.12
+Colombo Sri_Lanka,753,4,27,31,23,223,0,78.5,9,Asia,6.93,79.86
+Kagoshima Japan,606,4,18,31,3,223,4,69,8,Asia,31.60,130.56
+Paramaribo Suriname,241,14,27,33,22,222,0,78,9,South America,5.85,-55.20
+Bata Equatorial_Guinea,251,2,25,32,20,222,0,87,5.3,Africa,1.85,9.78
+Sao_Luis MA Brazil,959,53,26.1,31.4,22.6,219.6,0,84.9,14,South America,-2.54,-44.28
+Yogyakarta Java Indonesia,389,106,25,31,20,218,0,77,6.4,Oceania,-7.80,110.37
+Hong_Kong HK China,7299,24,23,31,14,218,0,75,17,Asia,22.40,114.11
+Crescent_City CA USA,8,17,10.9,16.9,5.1,217.2,1.8,49,13.8,North America,41.76,-124.20
+Honiara Solomon_Islands,65,54,26,30,22,217,0,83,9,Oceania,-9.45,159.97
+Port_Vila Vanuatu,44,21,24,30,17,217,0,86.3,9,Oceania,-17.73,168.33
+Pakse Laos,88,92,26,35,17,216,0,71,4.2,Asia,15.11,105.82
+Iloilo Philippines,425,7,28,33,23,215,0,82,12,Asia,10.72,122.56
+Shillong ML India,143,1598,16.7,24,4.4,215,0,59,4.6,Asia,25.58,91.89
+Dhaka Bangladesh,16970,9,26.1,33.7,12.7,214.8,0,75,6,Asia,23.81,90.41
+Myitkyina Myanmar,307,143,23,32,10,214,0,78,2,Asia,25.39,97.38
+Forks WA USA,4,54,4.4,18.8,-5.7,213.7,58.2,79,8,North America,47.95,-124.39
+Malacca Malaysia,873,9,27,32,22,213,0,82.5,9,Asia,2.19,102.25
+Naha Japan,316,53,22,30,14,213,0,74,17,Asia,26.21,127.68
+Ambanja Madagascar,28,21,25.4,33,21,211.2,0,79.8,8.2,Africa,-13.66,48.45
+Libreville Gabon,704,14,26,29,23,210,0,88.8,12,Africa,0.42,9.47
+Maceio AL Brazil,932,114,24.8,30.4,20.2,207.1,0,78.5,14,South America,-9.65,-35.71
+Taipei Taiwan,2704,6,22,33,12,207,0,78.3,16,Asia,25.03,121.57
+Kandy Sri_Lanka,125,477,24,32,18,206.6,0,74,7.6,Asia,7.29,80.63
+Santarem PA Brazil,206,71,27,32,23,206,0,78,16,South America,-2.45,-54.70
+Daru PNG,15,6,26,32,22,203.9,0,81.7,9.9,Oceania,-9.08,143.21
+Medan Sumatra Indonesia,2098,24,27,31,23,203,0,85,9,Oceania,3.60,98.67
+Bissau Guinea_Bissau,388,35,27,32,21,202.3,0,66,12,Africa,11.88,-15.62
+Fort_de_France Martinique,386,3,26,30,21,202,0,83,16,Latin America,14.62,-61.06
+Pyay Myanmar,135,35,27.6,36.6,16,200,0,71.9,18.2,Asia,18.84,95.26
+Maraba PA Brazil,186,95,26.3,33.4,21.1,200,0,82.6,4.1,South America,-5.38,-49.13
+Salvador BA Brazil,2902,6,25.3,30,21.2,199.5,0,80.9,17,South America,-12.97,-38.50
+Niksic Montenegro,57,646,11,26,-1,198.5,5,65,12,Europe,42.78,18.96
+Kodiak AK USA,6,33,4.9,16.3,-3.4,198.1,175,77.3,18,North America,57.79,-152.41
+Da_Nang Vietnam,1047,7,26,32,19,198,0,80.5,8,Asia,16.05,108.20
+Cairns QLD Australia,142,3,25,31,17,198,0,75.8,12,Oceania,-16.92,145.78
+Puerto_Montt Chile,221,85,10,19,3,198,0,84,17,South America,-41.47,-72.94
+Manila Philippines,1780,14,27,33,21,197,0,78.8,17,Asia,14.60,120.98
+Villahermosa TB Mexico,354,24,27.1,35.1,19.3,196.1,0,87,6.4,Latin America,17.84,-92.62
+Nagasaki Japan,444,35,17,30,3,196,4,66,9,Asia,32.75,129.88
+Male Maldives,117,2,28,31,25,195.3,0,83.3,8.7,Asia,4.18,73.51
+Port_Gentil Gabon,136,3,26,29,22,195.3,0,85.5,14,Africa,-0.74,8.76
+Ho_Chi_Minh_City Vietnam,8224,18,28,33,22,195,0,80.8,8,Asia,10.82,106.63
+Itaituba PA Brazil,98,45,26.7,33.6,21.3,194.8,0,87.8,1.7,South America,-4.27,-55.99
+Les_Cayes Haiti,88,10,25.8,31.1,18.3,194.1,0,73.2,40.7,Latin America,18.20,-73.75
+Wewak Papua_New_Guinea,25,2,26.5,29,25,193.2,0,81.2,8.6,Oceania,-3.58,143.66
+Dongguan GD China,8220,7,22.4,32,10,192.6,0,76.7,8.1,Asia,23.02,113.75
+Chapeco SC Brazil,166,679,18.7,28.8,10.2,192,0,73.5,4.2,South America,-27.10,-52.62
+Bairiki Kiribati,4,4,27,31,25,191.4,0,80,9.8,Oceania,1.33,172.98
+Vigo Spain,295,256,13.6,24.3,5,190.9,0,79,12,Europe,42.24,-8.72
+Panama_City Panama,881,13,27,32,24,190.7,0,81.5,17,Latin America,8.98,-79.52
+Port_Alberni BC Canada,18,2,9.7,25.5,0.2,190.7,80,77.9,5.8,North America,49.23,-124.81
+Joinville SC Brazil,487,2,24,31,18,189,0,86,3.7,South America,-26.30,-48.85
+Papeete Tahiti,26,2,26,31,20,188,0,80,10,Oceania,-17.55,-149.56
+Shenzhen GD China,10779,18,22,32,10,186.7,0,77,8.5,Asia,22.54,114.06
+Birgunj Nepal,139,90,24.9,37,10,186.2,0,69.5,4,Asia,27.04,84.87
+Seward AK USA,3,7,4.7,16.4,-5.4,186.2,163.6,76.1,14.9,North America,60.10,-149.44
+Franceville Gabon,111,437,24,30,17,186,0,81,1.7,Africa,-1.62,13.60
+Ciudad_del_Este Paraguay,321,206,22.3,31.6,11.5,185.2,0,73,3.6,South America,-25.51,-54.68
+Vinh Vietnam,490,4,24,34,15,185,0,85,6.9,Asia,18.68,105.68
+Kumamoto Japan,734,41,15,32,3,184,1,78,5.1,Asia,32.80,130.71
+Bandung Java Indonesia,2575,740,22,28,17,183,0,73,4.4,Oceania,-6.92,107.62
+Tawau Malaysia,114,17,26,32,21,182,0,83.6,3.7,Asia,4.24,117.89
+Jakarta Java Indonesia,10075,29,27,31,23,181.6,0,79.5,9,Oceania,-6.18,106.87
+Saint_Denis Reunion,145,24,24,29,18,181,0,74.2,20,Africa,-20.89,55.46
+Khulna Bangladesh,663,4,26.3,34.6,12.4,180.9,0,76,6,Asia,22.85,89.54
+Chilliwack BC Canada,84,9,10.9,25.1,-0.3,180.2,105,78,3.1,North America,49.16,-121.95
+Recife PE Brazil,1538,18,25.5,30.2,19.2,180,0,79.8,14,South America,-8.05,-34.88
+Belize_City Belize,57,4,26,30,21,180,0,83.5,12,Latin America,17.50,-88.20
+Thiruvananthapuram KL India,958,9,27,32.1,22.4,179.7,0,79,8.1,Asia,8.52,76.94
+Davao Philippines,1633,17,27,32,23,179.3,0,86,8,Asia,7.19,125.46
+Malabo Equatorial_Guinea,31,49,25,31,19,179,0,90,6.8,Africa,3.75,8.74
+Tainan Taiwan,1885,16,23,31,12,179,0,82,6.9,Asia,23.00,120.23
+San_Jose Costa_Rica,288,920,20,26,14,179,0,77,16,South America,9.93,-84.09
+Akita Japan,324,21,11,27,-2,178,377,73,16,Asia,39.72,140.10
+Port_of_Spain Trinidad_Tobago,43,14,26,31,21,177,0,83.5,14,Latin America,10.65,-61.50
+Haiphong Vietnam,1885,113,23,31,13,177,0,85,6.9,Asia,20.84,106.69
+Fianarantsoa Madagascar,190,1200,18.8,26.3,10.1,175.8,0,72,6.1,Africa,-21.45,47.09
+Veracruz VE Mexico,428,13,24,32,17,175.6,0,80,27,Latin America,19.17,-96.13
+Nzerekore Guinea,107,470,25,30,21,175.4,0,76.5,14,Africa,7.75,-8.83
+Valdez AK USA,4,10,3.9,16.8,-7.1,175.3,828.8,71.8,7,North America,61.13,-146.35
+Foshan GD China,6152,6,22.4,33,10,173.5,0,77,7.3,Asia,23.02,113.12
+Denpasar Bali Indonesia,789,34,28.1,34.4,22.5,173.2,0,82.5,6.3,Oceania,-8.67,115.21
+Puducherry PY India,242,1,28.5,36.8,20.3,172.8,0,80,8.4,Asia,11.91,79.81
+Nukualofa Tonga,24,3,24.1,29.9,18.1,172.1,0,76,12.5,Oceania,-21.14,-175.20
+Merida Venezuela,232,1497,20,25,15,172,0,70.4,12,South America,8.57,-71.18
+Mayaguez PR USA,88,9,22,30,19,171.3,0,78,13,North America,18.20,-67.15
+Boa_Vista RR Brazil,278,139,27.4,33.7,23.2,171,0,74.9,17,South America,2.82,-60.68
+Wenzhou ZJ China,3039,7,18,31,5,171,0,81.6,9,Asia,27.99,120.67
+Port_Louis Mauritius,140,56,23,28,18,171,0,79.5,16,Africa,-20.16,57.50
+Coffs_Harbour NSW Australia,69,4,18,26,7,171,0,72.5,17,Oceania,-30.30,153.11
+Astoria OR USA,10,2,10.7,20.4,2.6,170.9,13.2,82.8,13,North America,46.19,-123.83
+San_Salvador El_Salvador,282,620,24,30,18,170,0,74.5,12,Latin America,13.69,-89.22
+Enugu Nigeria,3268,136,27,30,25,169.5,0,75,5.1,Africa,6.46,7.55
+Aracaju SE Brazil,571,9,26,29.8,21.6,169.5,0,78.2,12,South America,-10.95,-37.07
+Guangzhou GD China,13081,7,22,32,10,169,0,75,8,Asia,23.13,113.26
+Bumba DRC,107,365,25.1,32,21,168.9,0,77.2,2.8,Africa,2.20,22.47
+Waimea HI USA,10,957,15.1,22.1,8.1,168.3,0,66,9.6,North America,20.02,-155.67
+Mobile AL USA,195,64,19.6,32.8,4.4,168.2,0.5,74.3,12.6,North America,30.70,-88.04
+Newport OR USA,10,48,10,17,3,168,0,81.5,14.4,North America,41.49,-71.31
+Khujand Tajikistan,163,402,14.7,35.5,-3.4,167.1,6,61,5.5,Asia,40.27,69.65
+Yokohama Japan,3726,42,15,28,2,167,1,69.2,14,Asia,35.44,139.64
+Mackay QLD Australia,85,29,22,30,12,166,0,77.5,22,Oceania,-21.14,149.18
+Pensacola FL USA,53,34,19.9,32.2,5.7,165.9,0,74.5,12.9,North America,30.42,-87.22
+Zhongshan GD China,3121,14,23.6,32,13,165.8,0,81.8,9.4,Asia,22.52,113.39
+Sochi Russia,343,15,14.1,25,2,165.4,6,75.5,12,Asia,43.60,39.73
+Gemena DRC,139,399,25.1,31.9,18.2,165.1,0,75.4,2.7,Africa,3.25,19.78
+Pedro_Juan_Caballero Paraguay,116,613,22,29.9,12.3,165.1,0,72,5.8,South America,-22.55,-55.73
+Darwin NT Australia,116,31,27,33,19,165,0,72.1,14,Oceania,-12.46,130.85
+Gulfport MS USA,71,9,19.8,32.6,5.2,164.3,0,76.2,10.3,North America,30.37,-89.09
+Batticaloa Sri_Lanka,92,11,28,32,24,164,0,80,12,Asia,7.73,81.67
+Molde Norway,26,3,6.7,17,-2,164,3,75.5,12,Europe,62.74,7.16
+Rivera Uruguay,200,241,17,30.1,7.5,163.9,0,75,13.1,South America,-30.92,-55.55
+Londrina PR Brazil,486,569,20.9,30.1,11.1,163.3,0,71.1,12,South America,-23.30,-51.17
+Adamstown Pitcairn,1,265,20,26.2,16,163.3,0,78,12,Oceania,-25.07,-130.10
+Trincomalee Sri_Lanka,99,7,28,33,25,163,0,77.5,16,Asia,8.59,81.22
+Lao_Cai Vietnam,657,1151,25.4,33.9,17.2,162,0,80,3.1,Asia,22.34,104.15
+Can_Tho Vietnam,1237,2,27,33,21,161,0,74,7.3,Asia,10.05,105.75
+Coos Bay OR USA,16,1,11.3,19.9,3.7,160.9,3,79,14.1,North America,43.37,-124.22
+Hanoi Vietnam,7233,6,23,32.2,15,160.7,0,85,5.7,Asia,21.03,105.83
+Barinas Venezuela,307,187,26.7,33,22,160.3,0,77.4,7,South America,8.62,-70.24
+Haikou HN China,2046,14,24,32,15,160,0,83.5,12,Asia,20.04,110.20
+Kindu DRC,172,516,25,31,19,159,0,81,1.5,Africa,-2.95,25.92
+Kolkata WB India,4487,12,26.7,36,14.2,158.6,0,80,6.4,Asia,22.57,88.36
+Port_de_Paix Haiti,462,16,26,31,24,158.4,0,77,9.6,Latin America,19.93,-72.83
+West_Palm_Beach FL USA,102,5,24.1,32.3,13.8,158.2,0,74.1,15.3,North America,26.72,-80.05
+Uige Angola,800,824,21.3,32,15,158.2,0,74.2,6.2,Africa,-7.61,15.06
+Puebla CP Mexico,1434,1250,19.8,29.4,10.4,158.2,0,58,5.4,Latin America,19.00,-98.27
+Imphal MN India,221,784,20.6,29.1,4,158.2,0,76.1,2.6,Asia,24.82,93.94
+Juneau AK USA,33,3,5.6,17.7,-4.6,158.2,198,75,12.1,North America,58.30,-134.42
+Belo_Horizonte MG Brazil,1433,916,21.1,28.8,13.1,158,0,72.2,4,South America,-19.92,-43.94
+Miami FL USA,418,3,25.1,32.8,15.5,157.2,0,72.7,14,North America,25.76,-80.19
+Goiania GO Brazil,1296,746,23.2,31.9,13.2,157.1,0,65.7,16,South America,-16.69,-49.26
+Kyoto Japan,1475,41,14,32,-1,157,18,67.5,7.3,Asia,35.01,135.77
+Medellin Colombia,2441,1494,22,26,17,157,0,70.5,14,South America,6.24,-75.58
+Puerto_Princesa Philippines,223,15,27,32,23,156.4,0,84.5,9,Asia,9.97,118.79
+Houma LA USA,34,3,20,32,7,156,1,66,11.2,North America,29.60,-90.72
+Taichung Taiwan,2935,112,22,31,11,156,0,83,6.7,Asia,24.15,120.67
+Mostar Bosnia_Herzegovina,106,107,15,29,2,156,6,61.5,16,Europe,43.34,17.81
+Bhubaneshwar OR India,838,44,27.4,37.5,15.2,155.4,0,73,7.2,Asia,20.30,85.82
+New_Orleans LA USA,379,0,20.4,32.7,6.2,155.3,0.5,74.2,12.9,North America,29.95,-90.07
+Biratnagar Nepal,205,79,24.2,39,11,155,0,73.4,3.7,Asia,26.45,87.27
+Mahajanga Madagascar,221,24,26,32,20,155,0,73,8,Africa,-15.69,46.33
+Taunggyi Myanmar,381,1436,19,28,7,155,0,72,4.5,Asia,20.79,97.03
+Kracheh Cambodia,319,26,27.1,39,21,154.9,0,76.6,7.7,Asia,12.86,105.97
+Bimbo CAR,124,373,25.4,34,18,154.3,0,73.6,2.3,Africa,4.33,18.52
+Rajshahi Bangladesh,764,20,25.7,35.7,11,154.2,0,76,6,Asia,24.36,88.62
+Brasilia DF Brazil,2556,1060,20.6,26.9,12.9,154.1,0,67.6,12,South America,-15.79,-47.88
+Cebu Philippines,866,8,28,32,23,154,0,85.4,12,Asia,10.61,123.89
+Hiroshima Japan,1174,53,15,30,1,154,12,68,9,Asia,34.39,132.46
+Yaounde Cameroon,3060,752,23,29,18,154,0,83,2.7,Africa,3.85,11.50
+Rijeka Croatia,129,85,14,27,2,154,1,61,12,Europe,45.33,14.44
+Lafayette LA USA,121,12,20.7,33.7,6.1,153.7,1,78,11.3,North America,30.22,-92.02
+Nagoya Japan,2283,17,15,31,0,153.5,16,66,14,Asia,35.18,136.91
+Saint_Johns NL Canada,206,139,5,20.7,-8.2,153.4,335,80.7,21.9,North America,47.56,-52.71
+Shantou GD China,5391,3,21,31,11,153,0,82.5,14,Asia,23.35,116.68
+Udine Italy,542,92,13,28,1,153,11,68,4.1,Europe,46.07,13.23
+New_Plymouth NZ,57,49,13,21,6,153,0,81,11.7,Oceania,-39.06,174.08
+Chaozhou GD China,2670,21,21.7,32,10,152.3,0,79.7,9.3,Asia,23.66,116.62
+Surat_Thani Thailand,1040,10,27,33,21,152,0,80.5,6,Asia,9.13,99.33
+Bangui CAR,734,365,26,32,20,152,0,75,6,Africa,4.39,18.56
+Gulu Uganda,150,1109,23,32,16,152,0,65,5.2,Africa,2.77,32.29
+Tokyo Japan,13513,7,15,30,1,152,11,62,19,Asia,35.69,139.69
+Haugesund Norway,38,24,6.9,15,0,152,5,80,22,Europe,59.41,5.27
+Florianopolis SC Brazil,249,4,20.4,28.4,13.3,151.8,0,82,14,South America,-27.59,-48.55
+Janakpur Nepal,169,77,24.7,36,10,151.7,0,70.3,3.5,Asia,26.73,85.94
+Sydney NS Canada,32,61,5.9,23.1,-9.6,151.7,283,77.5,17.5,North America,46.14,-60.19
+Sarasota FL USA,53,4,22.8,33.4,9.4,151.4,0,76,12.6,North America,27.34,-82.53
+Ngaoundere Cameroon,153,1114,22,31,12,151,0,66,5,Africa,7.34,13.57
+Alexandria LA USA,48,13,18.5,33.6,2.1,150.9,0.3,72,9.6,North America,31.31,-92.45
+Lagos Nigeria,16060,38,27,30,23,150.7,0,82.5,5.9,Africa,6.52,3.38
+Tallahassee FL USA,186,16,19.8,33.4,3.9,150.4,0.3,73.1,9.7,North America,30.44,-84.28
+Hattiesburg MS USA,48,46,18.9,33.4,2.9,150.4,1,74,7.2,North America,31.33,-89.29
+Busan South_Korea,3590,15,14.9,29.2,-0.7,149.2,4,66.3,9.8,Asia,35.18,129.08
+Savannakhet Laos,120,155,26,35,14,149,0,73,5.3,Asia,16.57,104.77
+Oban NZ,1,35,9.9,17.3,2.6,149,2,85.8,18,Oceania,-46.90,168.13
+Campbell_River BC Canada,35,103,9,23.3,-0.8,148.9,84.3,80,7.4,North America,50.03,-125.27
+Fort_Lauderdale FL USA,166,4,24.5,32.6,14.4,148.8,0,74.5,13.4,North America,26.12,-80.14
+Curitiba PR Brazil,1752,907,16.8,26.7,8.1,148.3,0,80.7,14,South America,-25.42,-49.27
+Kinshasa DRC,10130,311,26,30,20,148.2,0,74,8,Africa,-4.44,15.27
+Grytviken South_Georgia,1,3,2,8,-4.9,148,30,81.5,20,Antarctica,-54.28,-36.51
+Tshikapa DRC,588,464,24.9,34,18,147.8,0,74.9,4.5,Africa,-6.42,20.80
+Port_Saint_Lucie FL USA,171,0,23.6,32.6,13,147.3,0,77.5,10.7,North America,27.27,-80.36
+Jackson TN USA,68,127,15,32,3,147.3,12,69,11.3,North America,35.61,-88.81
+Baton_Rouge LA USA,229,19,19.9,33,5.3,147.1,0.5,75,10.5,North America,30.46,-91.14
+Naypyidaw Myanmar,925,118,27,40,16,147,0,68.4,3.3,Asia,19.76,96.08
+Surabaya Java Indonesia,2765,3,28,32,24,147,0,76,9,Oceania,-7.26,112.75
+Freeport Bahamas,27,10,25,31,17,147,0,74.2,16,Latin America,26.54,-78.65
+Torshavn Faroe_Islands,18,39,6,12,1,147,15,87.5,25,Europe,62.01,-6.79
+Wilmington NC USA,112,21,17.8,32.1,2,146.3,4.3,74,12.7,North America,34.23,-77.94
+Ubon_Ratchathani Thailand,200,121,26,35,16,146,0,70,6.6,Asia,15.24,104.85
+Cao_Bang Vietnam,518,263,22,32,9,146,0,81,6.3,Asia,22.64,106.25
+Gold_Coast QLD Australia,638,12,20.6,28.9,8.9,145.6,0,70,10.2,Oceania,-28.02,153.40
+Puerto_Vallarta JA Mexico,203,10,25,34,16,145.5,0,79,16,Latin America,20.65,-105.23
+Seoul South_Korea,9996,86,12,28,-6,145.1,8,66.5,8,Asia,37.57,126.98
+Bangkok Thailand,8281,20,28,34,21,145,0,73.8,9,Asia,13.76,100.50
+Phitsanulok Thailand,851,50,27,36,17,144,0,72,4.2,Asia,16.82,100.27
+Siem_Reap Cambodia,231,22,27,34,19,144,0,77,4.9,Asia,13.37,103.84
+Hangzhou ZJ China,3560,42,16,32,1,144,0,77.5,12,Asia,30.16,120.27
+Ulsan South_Korea,1164,32,14,28,-2,144,5,63.8,8,Asia,35.54,129.31
+Bar_Harbor ME USA,5,25,8.4,26.2,-10.2,144,169.7,71,11.6,North America,44.39,-68.20
+Xalapa VE Mexico,425,1365,19.2,27.7,10.4,143.6,0,66,5.8,Latin America,19.54,-96.91
+Tupelo MS USA,36,99,16.6,32.6,-1.2,143.3,7,71.3,10.4,North America,34.26,-88.70
+Meridian MS USA,41,89,17.6,33.2,0.6,142.8,1.5,74.7,9.7,North America,32.36,-88.70
+Thimphu Bhutan,104,2300,13.6,24.4,-2.6,142.7,13,45,3.8,Asia,27.47,89.64
+Fortaleza CE Brazil,863,24,26.6,30.7,22.4,142.5,0,78.8,16,South America,-3.73,-38.53
+Lake_Charles LA USA,74,0,20.1,32.9,5.6,142.3,0.5,77.1,12.6,North America,30.23,-93.22
+Camaguey Cuba,301,132,25,31,18,142,0,74.5,17,Latin America,21.39,-77.91
+Kilauea HI USA,3,58,23.9,29.2,18.6,142,0,75,20.9,North America,22.21,-159.41
+Beaumont TX USA,118,1,20.2,33.7,5.4,141.6,0.5,76,13.7,North America,30.08,-94.13
+Boone NC USA,19,1173,10.6,25.7,-4.2,141.3,90.9,69,11.1,North America,36.22,-81.67
+Wahiawa HI USA,18,294,21.4,27.7,15.2,141.2,0,69,17.7,North America,21.50,-158.02
+Cuiaba MG Brazil,580,189,26,33,16,141,0,72,5.4,South America,-15.60,-56.10
+Panama_City FL USA,37,5,20,31,7,141,0,76.8,10.5,North America,30.16,-85.66
+Kumasi Ghana,1723,292,26,29,22,140.2,0,78,6,Africa,6.67,-1.62
+Zanzibar Tanzania,1304,15,26,32,22,140,0,78,9.6,Africa,-6.14,39.36
+Hamilton Bermuda,65,33,22,30,15,140,0,73,20,North America,32.29,-64.79
+San_Juan PR USA,340,0,26.8,31.6,21.4,139.8,0,77.1,12.4,North America,18.47,-66.11
+Lakeland FL USA,101,43,22.6,32.8,9.8,139.2,0,72.5,8.9,North America,28.04,-81.95
+Mbabane Swaziland,39,511,19.1,26.1,9.9,139.1,0,72,5.2,Africa,-26.31,31.14
+Phnom_Penh Cambodia,2235,11,27,35,21,139,0,73,5.6,Asia,11.54,104.89
+Matsuyama Japan,517,3,15,31,1,139,5,77,6.1,Asia,33.84,132.77
+Campo_Grande MS Brazil,774,555,22.8,30.4,14.5,139,0,72.8,17,South America,-20.47,-54.62
+Adak AK USA,1,3,5.1,14,-2.2,138.9,260.1,76,25,North America,51.88,-176.66
+Cookeville TN USA,31,317,14.1,30.8,-2.9,138.8,21.6,74,8.8,North America,36.16,-85.50
+Key_Largo FL USA,11,3,24.6,31.8,15.6,138.7,0,75.5,11,North America,25.09,-80.45
+Arecibo PR USA,96,0,25.5,32.3,17.9,138.6,0,77,11,North America,18.44,-66.65
+Teresina PI Brazil,768,99,27,36,20,138.4,0,76,3,South America,-5.09,-42.80
+Rayong Thailand,674,4,28,32,21,138.3,0,75.5,12,Asia,12.68,101.28
+Udon_Thani Thailand,153,181,27,35,16,138,0,68.5,6,Asia,17.41,102.79
+Santo_Domingo DR,2925,14,26,30,21,138,0,85,8,Latin America,18.49,-69.93
+Brazzaville Congo,1827,315,25,30,19,138,0,75,6,Africa,-4.26,15.24
+Alesund Norway,45,21,7,15,1,138,4,74.5,19,Europe,62.47,6.15
+Unalaska AK USA,4,3,5,15,-2,138,182,74.5,16.1,North America,53.88,-166.53
+Huntsville AL USA,186,190,16.7,32.7,-0.1,137.9,6.1,71.2,12.1,North America,34.73,-86.59
+Pelotas RS Brazil,306,13,17.8,28.8,8,137.9,0,79.8,16,South America,-31.77,-52.34
+Valdosta GA USA,56,71,19.4,33,3.8,137.7,0,70.9,9.6,North America,30.83,-83.28
+Gadsden AL USA,37,279,16.3,32.4,-0.8,137.7,1,70,7.3,North America,34.01,-86.01
+Grass_Valley CA USA,13,801,12.2,31.3,-0.9,137.6,63,38,6.4,North America,39.22,-121.06
+Dothan AL USA,68,114,19.2,33.3,3.2,137.2,0,70.4,12.1,North America,31.22,-85.39
+Hot_Springs AR USA,36,163,17,34,1,137,9,68,14.2,North America,34.50,-93.06
+Asuncion Paraguay,2827,100,23,32,13,137,0,72.1,14,South America,-25.26,-57.58
+Changsha HN China,7044,67,17,32,3,137,0,80,12,Asia,28.23,112.94
+Natal RN Brazil,804,52,26,31,21,137,0,79,14,South America,-5.78,-35.20
+Aomori Japan,1383,3,10,27,-6,137,669,78,9,Asia,40.82,140.75
+Birmingham AL USA,212,188,17.4,32.7,1,136.4,4.1,69.1,10.3,North America,33.52,-86.80
+Cape_Coral FL USA,166,4,23.3,32.5,12.1,136.1,0,74,12.3,North America,26.56,-81.95
+Ocala FL USA,57,24,21,33,8,136,0,73.5,7.7,North America,29.19,-82.14
+Daejeon South_Korea,1552,78,12,30,-6,136,9,70,6.7,Asia,36.35,127.38
+Kathmandu Nepal,1003,1336,18,26,4,136,3,81,9,Asia,27.72,85.32
+Antananarivo Madagascar,1300,1275,18,25,10,136,0,73,14,Africa,-18.88,47.51
+Jabalpur MP India,1082,392,25.2,41.3,9.3,135.9,0,62.5,4,Asia,23.18,79.99
+Franklin NC USA,4,631,13.3,29.5,-3.5,135.7,17.3,67,3.8,North America,35.18,-83.38
+Gainesville GA USA,36,340,15.4,30.9,-0.1,135.6,8.4,66.5,10.5,North America,34.30,-83.82
+Neiva Colombia,379,495,27.7,34.6,22.1,135.4,0,80,4.5,South America,2.93,-75.28
+Orlando FL USA,255,33,22.9,33.2,9.9,135.1,0,73,12.1,North America,28.54,-81.38
+Sokode Togo,113,386,26,34,19,135,0,67,9,Africa,8.98,1.14
+Puerto_Maldonado Peru,74,256,25,33,15,135,0,62,1.6,South America,-12.59,-69.20
+Kisumu Kenya,259,1145,23,29,17,135,0,71.3,12,Africa,-0.09,34.77
+Sao_Paulo SP Brazil,12038,802,20,28,12,135,0,78.8,12,South America,-23.55,-46.63
+Montgomery AL USA,201,67,18.4,33.4,2.1,134.9,1,71.1,9.8,North America,32.37,-86.30
+Imperatriz MA Brazil,235,123,26.3,34.4,19.4,134.7,0,74.9,5,South America,-5.52,-47.47
+Chuncheon South_Korea,282,74,11,16,-8,134.7,6,69,8,Asia,37.88,127.73
+Chetumal QR Mexico,151,9,26.6,32.9,18.5,134.1,0,82,4.5,Latin America,18.50,-88.30
+Terrace BC Canada,11,217,6.6,21.4,-5,134.1,331.5,75.5,13.1,North America,54.52,-128.60
+Nanning GX China,6914,72,22,32,10,134,0,77,8,Asia,22.61,108.17
+Osaka Japan,2691,14,28,32,0,134,3,65.4,12,Asia,34.69,135.50
+Florence AL USA,40,145,15,32.8,-0.8,133.7,12.7,76.9,13.2,North America,34.80,-87.68
+Greenville MS USA,33,38,17.4,33.4,0.4,133.6,1.3,74,12.4,North America,33.40,-91.04
+Chattanooga TN USA,173,204,16.1,32.3,-0.7,133.4,9.9,70.3,8.5,North America,35.05,-85.31
+Jacksonville FL USA,843,7,20.3,33.3,5.2,133.1,0,77,10.9,North America,30.33,-81.66
+Resistencia Argentina,292,52,21,33.5,10.1,133,0,76.3,8.1,South America,-27.45,-58.99
+Jacksonville NC USA,70,7,17,31,1,133,0,72.6,11.3,North America,34.75,-77.43
+Salzburg Austria,146,436,9,24.4,-4,133,112.5,73.2,8.6,Europe,47.81,13.06
+Memphis TN USA,653,74,16.8,33.1,-0.2,132.8,11.7,66.3,13.2,North America,35.15,-90.05
+Torrington CT USA,36,209,9.7,27.4,-10.4,132.8,118.9,68,9.1,North America,41.80,-73.12
+Porto_Novo Benin,267,9,26,32,24,132.6,0,83,6.3,Africa,6.50,2.63
+Gangneung South_Korea,230,27,11,28,-4,132.6,8,71,8.7,Asia,37.75,128.88
+Acapulco GR Mexico,673,20,27.9,32.3,22,132.4,0,77.5,17,Latin America,16.85,-99.82
+LaGrange GA USA,30,237,17.1,32.2,1.3,132.2,2,75.5,5.4,North America,33.04,-85.03
+Dickson TN USA,15,250,14.8,31.9,-2.2,132.2,19.3,69,12.5,North America,36.08,-87.39
+Lihue HI USA,7,31,23.1,28.7,16.7,132.1,0,74.8,21.6,North America,21.98,-159.37
+Port_au_Prince Haiti,987,28,28,33,23,132,0,64,17,Latin America,18.59,-72.31
+Oxford MS USA,21,135,17,33,1,132,8,72.5,5.2,North America,34.37,-89.52
+Uruguaiana RS Brazil,116,62,19.7,32.1,9.9,132,0,70.6,7.4,South America,-29.76,-57.09
+Palm_Bay FL USA,105,6,22,31,12,132,0,78,13.7,North America,28.03,-80.59
+Porto_Alegre RS Brazil,1409,3,19.5,30.2,10.7,132,0,84,14,South America,-30.03,-51.22
+Uberlandia MG Brazil,584,922,22,29,13,132,0,69,6.8,South America,-18.91,-48.28
+Kristiansand Norway,87,16,7,21,-3,132,50.5,78,9.1,Europe,58.16,8.02
+Tuscaloosa AL USA,95,51,17,33,1,131.8,2,69.5,8.5,North America,33.21,-87.57
+Naples FL USA,21,2,23.9,32.9,12.3,131.8,0,74.5,11.1,North America,26.14,-81.79
+Bishop CA USA,4,1256,13.6,36.9,-5.5,131.6,17.3,37.1,12.1,North America,37.36,-118.40
+Spring_Hill FL USA,99,1,21.4,33,6.8,131.5,0,76.5,9,North America,28.48,-82.54
+Kobe Japan,1536,59,16,30,2,131.5,3,66,14,Asia,34.69,135.20
+Jos Nigeria,900,1284,22,26,18,131.5,0,54.5,6.2,Africa,9.90,8.86
+Halifax NS Canada,390,145,6,22,-10,131.4,154.2,79,17,North America,44.65,-63.58
+Belle_Glade FL USA,18,5,23.1,33.7,9.9,131.3,0,75,8.8,North America,26.68,-80.67
+Nha_Trang Vietnam,402,10,27,31,21,131,0,81.7,12,Asia,12.24,109.20
+Cotonou Benin,779,9,27,31,23,130.8,0,82.5,17,Africa,6.37,2.39
+Olympia WA USA,48,58,10.6,25.8,0.2,130.7,29.7,71,9.8,North America,47.04,-122.90
+Shreveport LA USA,200,77,18.7,34.5,2.3,130.6,2.5,70.5,11.9,North America,32.53,-93.75
+Monroe LA USA,50,23,17,33,2,130.6,1.3,73,9.7,North America,32.51,-92.12
+Myrtle_Beach SC USA,29,10,17,31.1,1.1,130.6,2,72.9,11.3,North America,33.69,-78.89
+Pahala HI USA,2,274,21.8,28.1,15.7,130.3,0,78,10.4,North America,19.20,-155.48
+Norwich CT USA,40,48,10.4,16.3,-7.6,130.2,57.1,72.5,14.3,North America,41.52,-72.08
+Quanzhou FJ China,8129,15,21.3,33,9,130,0,78,10.4,Asia,24.90,118.60
+Cancun QR Mexico,628,9,27.3,32,19.9,130,0,79,14,Latin America,21.16,-86.85
+Rome GA USA,36,196,15,32,0,130,4,72,6.4,North America,34.26,-85.16
+Tauranga NZ,118,3,14.4,23.7,5.1,130,0,75,15.4,Oceania,-37.69,176.17
+Valencia Venezuela,918,459,24.1,33,19,129.7,0,76,7.5,South America,10.16,-68.00
+Kill_Devil_Hills NC USA,7,0,16.7,30.6,2.1,129.6,3,75,10.4,North America,36.03,-75.68
+Saint_John NB Canada,68,109,5.2,22.6,-13.3,129.6,239.6,74.3,15.2,North America,45.27,-66.06
+Charleston SC USA,128,12,18.8,32.8,3.1,129.5,1.3,73.6,12.9,North America,32.78,-79.93
+Takoradi Ghana,445,19,26.1,31,23,129.2,0,86.4,5.7,Africa,4.90,-1.78
+Galveston TX USA,49,2,21.8,32.4,9.2,129,0.2,76.5,17.5,North America,29.30,-94.80
+Brunswick GA USA,16,7,19,32,5,129,0,70,10.3,North America,31.15,-81.49
+Kutaisi Georgia,197,116,15,28,3,129,2,72,3.1,Middle East,42.27,42.72
+Corner_Brook NL Canada,19,5,5.2,22,-9.6,128.6,401.3,81,6.6,North America,48.95,-57.95
+Sheffield England UK,552,132,8,21.1,1.7,128.6,5,79,10.1,Europe,53.38,-1.47
+Dire Mali,111,207,27.6,39,20,128.5,0,56,5,Africa,16.27,-3.40
+Butembo DRC,670,1729,16.6,25,13,128.4,0,81.4,5.2,Africa,0.11,29.30
+Podgorica Montenegro,186,53,15,33,2,128,0,61,6,Europe,42.43,19.26
+Montego_Bay Jamaica,110,3,26,31,22,128,0,80.8,22,Latin America,18.48,-77.89
+Nassau Bahamas,244,7,25,31,17,128,0,77.5,14,Latin America,25.05,-77.36
+Concepcion Chile,224,15,12,21,6,128,0,79.6,25,South America,-36.82,-73.04
+Murfreesboro TN USA,117,169,15,31.8,-1.8,127.9,14.5,69,10.9,North America,35.85,-86.39
+Gwangju South_Korea,1467,70,12,30,-4,127.5,8,68.8,7,Asia,35.16,126.85
+Guatemala_City Guatemala,1022,1498,19,25,12,127.5,0,75,19,Latin America,14.63,-90.51
+Stamford CT USA,126,79,10.6,29.2,-7.5,127.1,84.8,71,12.6,North America,41.05,-73.54
+Jaffna Sri_Lanka,88,10,27,32,22,127,0,79,12,Asia,9.66,80.03
+Salto Uruguay,104,34,18.1,31.5,7.2,127,0,72,12.5,South America,-31.39,-57.96
+Maturin Venezuela,445,65,27,31,23,127,0,71.7,12,South America,9.73,-63.19
+Kasama Zambia,113,1385,20,30,10,127,0,64,7.2,Africa,-10.23,31.19
+Somerset KY USA,11,316,13.2,30.2,-4.1,126.7,25.9,73.5,7.2,North America,37.09,-84.60
+Houston TX USA,2196,29,21.1,34.7,6.2,126.5,0.3,74.1,12.2,North America,29.76,-95.37
+Little_Rock AR USA,197,78,17.1,33.7,-0.4,126.5,8.9,69.6,11.4,North America,34.75,-92.29
+Altoona PA USA,46,444,8.4,25.9,-9.4,126.3,94.5,74,12.1,North America,40.52,-78.39
+Atlanta GA USA,448,307,17,31.7,1.3,126.2,7.4,67.4,13.8,North America,33.75,-84.39
+Chennai TN India,7088,15,28.5,37.4,20.4,126,0,75,9,Asia,13.08,80.27
+Daytona_Beach FL USA,62,8,21.6,32.3,8.5,126,0,76.1,11.7,North America,29.21,-81.02
+Pointe_Noire Congo,715,17,25,29,20,126,0,79.5,12,Africa,-4.77,11.87
+Tepic NA Mexico,333,935,20,30,7.6,125.5,0,71,4.4,Latin America,21.50,-104.89
+Porto Portugal,230,72,14.7,25,5,125.4,0,81.7,14,Europe,41.16,-8.63
+San_Cristobal Venezuela,271,893,21.1,26.2,14.2,125.2,0,79.8,38.5,South America,7.77,-72.23
+Kitwe Zambia,504,1225,20.4,31.6,5.2,125.1,0,65,4.7,Africa,-12.82,28.22
+Formosa Argentina,258,67,22,35,12,125,0,74,14.3,South America,-26.19,-58.18
+Tirana Albania,418,73,15,32,2,125,1,76,6,Europe,41.33,19.82
+Greenville SC USA,61,290,15.7,31.6,-0.5,125,13.2,67.2,11.1,North America,34.85,-82.39
+Stavanger Norway,128,9,7.5,17.6,-1.4,125,5,77,17,Europe,58.97,5.73
+Jackson MS USA,173,92,18.4,33.8,2.8,124.9,3.6,73.1,10.1,North America,32.30,-90.18
+Saint_Gallen Switzerland,74,776,7.4,20.5,-3.8,124.8,198.2,79.6,7.2,Europe,47.42,9.38
+Djougou Benin,237,442,26.6,36.5,20.6,124.6,0,62.6,6.4,Africa,9.71,1.67
+Lufkin TX USA,36,87,19.3,34.5,3.5,124.5,0.3,72,10.3,North America,31.34,-94.73
+Poplar_Bluff MO USA,18,100,14.5,32.1,-2.9,124,22,69,10.5,North America,36.76,-90.39
+Tacuarembo Uruguay,55,74,17.7,30.9,7,124,0,74,12.1,South America,-31.72,-55.99
+Albany GA USA,76,59,19.4,33.8,3.3,123.4,0,74,9.9,North America,31.58,-84.16
+Ibadan Nigeria,3160,227,26,30,23,123.3,0,79.5,4.3,Africa,7.38,3.95
+El_Dorado AR USA,18,76,16,33,1,123.2,3.3,74.2,8.6,North America,33.21,-92.67
+Greenville NC USA,90,7,16,32,1,123,3,73,8.8,North America,35.61,-77.37
+Abidjan Ivory_Coast,4765,7,26,30,24,123,0,90.4,8,Africa,5.36,-4.01
+Santa_Cruz Bolivia,1450,413,23,30,16,123,0,70.4,25,South America,-17.81,-63.16
+Arusha Tanzania,416,1386,17,28,8,123,0,75,7,Africa,-3.39,36.68
+Toms_River NJ USA,92,0,11.6,29.7,-5.8,122.7,39.1,64,10.4,North America,39.95,-74.20
+Jonesboro AR USA,72,80,15.6,32.7,-1.8,122.2,16,67,12.4,North America,35.84,-90.70
+Nashville TN USA,679,173,15.3,32.1,-1.9,122.2,24.6,67.5,11.7,North America,36.16,-86.78
+Bowling_Green KY USA,61,164,14,32,-2,122.2,0.8,72,11.2,North America,36.97,-86.48
+Moundou Chad,138,427,27,41,14,122,0,62,5.3,Africa,8.59,16.08
+Texarkana AR USA,66,118,18,35,2,122,4,71.8,11.2,North America,33.44,-94.04
+Lubumbashi DRC,1794,1286,20,32,6,122,0,67,6,Africa,-11.69,27.50
+George_Town Grand_Cayman,29,3,27,30,22,122,0,79.6,14,Latin America,19.29,-81.37
+Wellington NZ,204,128,12.9,20.6,6.3,122,0,77.9,19.2,Oceania,-41.29,174.78
+Savannah GA USA,143,14,19.3,33.6,3.7,121.9,0.8,74.1,11.1,North America,32.08,-81.10
+Zonguldak Turkey,109,135,13,23,3,121.7,1,72,10,Middle East,41.45,31.79
+New_Haven CT USA,131,4,12,29.9,-4.8,121.6,15.8,72,12.9,North America,41.31,-72.93
+Barnstable MA USA,45,15,10.3,26.6,-5.4,121.2,91,77,15.6,North America,41.70,-70.30
+Kampala Uganda,1189,1140,20,26.1,17.8,121.2,0,58,4.8,Africa,0.35,32.58
+San_Pedro_Sula Honduras,489,31,27,33,20,121,0,79,16,Latin America,15.51,-87.99
+Waycross GA USA,14,43,19,33,5,121,0,73,8.9,North America,31.21,-82.35
+Guiyang GZ China,2955,1071,16,28,2,121,0,76,7.7,Asia,22.96,113.41
+Addis_Ababa Ethiopia,3104,2354,16,22,10,121,0,67,17,Africa,8.98,38.76
+Brest France,141,103,11.5,20.8,4.1,121,4,83,16,Europe,48.39,-4.49
+Bloomington IN USA,83,256,11.7,29.1,-6.4,120.9,49,71,11.4,North America,39.17,-86.53
+Managua Nicaragua,2206,49,27,33,21,120.4,0,73,8,Latin America,12.11,-86.24
+Paducah KY USA,25,117,14.1,32.4,-4.4,120.4,22.9,70.7,11.4,North America,37.08,-88.60
+Westerly RI USA,19,25,10.1,26.3,-6.2,120.4,76.2,71,11.4,North America,41.38,-71.83
+Knoxville TN USA,183,283,15.1,31.1,-0.9,120.3,24.4,70.9,9.7,North America,35.96,-83.92
+Dessie Ethiopia,579,2498,15.2,25,7,120.2,0,61,6,Africa,11.13,39.64
+Gainesville FL USA,127,42,20.5,32.7,5.7,120.1,0,76.2,10,North America,29.65,-82.32
+Chiang_Mai Thailand,148,313,26,36,14,120,0,72.9,8,Asia,18.71,98.98
+Wuhan HB China,6886,22,17,32,1,120,6,76.5,12,Asia,30.58,114.29
+Quito Ecuador,2671,2811,14,20,9,120,0,75,12,South America,-0.18,-78.47
+Hana HI USA,2,65,22.8,28.8,17,119.7,0,79,19.3,North America,20.76,-155.99
+Fayetteville NC USA,204,26,16.4,32.3,-0.1,119.6,7.1,71,11.3,North America,35.05,-78.88
+London KY USA,8,366,13.7,30.2,-3.1,119.6,26.2,71,8.3,North America,37.13,-84.08
+Bilbao Spain,347,34,14.3,25.5,4.7,119.5,0,72,14,Europe,43.26,-2.93
+Elizabethtown KY USA,30,24,13.2,31.4,-4.3,119.4,28.2,74,8.9,North America,37.70,-85.86
+Winston_Salem NC USA,236,294,15.3,31.4,-1.1,119.1,15.2,64.6,9.3,North America,36.10,-80.24
+Ioannina Greece,168,484,15,33,1,119,2,70,4.9,Europe,39.67,20.85
+Zamboanga Philippines,807,6,28,32,23,119,0,83,9,Asia,6.92,122.08
+Brisbane QLD Australia,2309,3,20,28,9,119,0,72.5,14,Oceania,-27.47,153.03
+Taupo NZ,24,472,12.2,23.6,2.1,119,1,81,5,Oceania,-38.69,176.07
+Temuco Chile,265,120,12,22,4,119,0,76,14,South America,-38.74,-72.59
+Muskogee OK USA,39,185,15.8,33.8,-2.6,118.9,17,66,14.5,North America,35.75,-95.37
+Columbus GA USA,203,136,18.7,33.4,2.7,118.9,1,66.9,10,North America,32.46,-84.99
+Havana Cuba,2105,59,25,31,17,118.9,0,79.5,17,Latin America,23.11,-82.37
+Vancouver BC Canada,604,2,10.4,22.2,0.8,118.9,38.1,78.1,12.2,North America,49.28,-123.12
+Charlottetown PE Canada,36,55,5.9,23.4,-11.8,118.7,266.3,74,15.5,North America,46.24,-63.13
+Queensbury NY USA,28,153,7.4,28.6,-14.7,118.6,153.4,76,9.1,North America,43.35,-73.68
+Tyler TX USA,100,165,18.7,34.4,2.4,118.4,3.3,71,12.6,North America,32.35,-95.30
+Sapporo Japan,1918,10,8,25,-8,118.1,597,70.8,20,Asia,43.06,141.35
+Xiamen FJ China,3531,139,20,32,10,118,0,76.5,9.7,Asia,24.51,118.09
+Elizabeth_City NC USA,18,4,15,31,1,118,8,74,14.2,North America,36.29,-76.25
+Jervis_Bay ACT Australia,1,109,16,26,6,118,0,65,19,Oceania,-35.05,150.74
+Nakuru Kenya,286,2762,13,20,7,118,0,65,5.6,Africa,-0.30,36.08
+Hickory NC USA,40,347,14,31,0,117.8,1.5,70,9.2,North America,35.73,-81.34
+Athens GA USA,120,244,17,33,0.6,117.6,7.4,69,10.1,North America,33.95,-83.36
+Tampa FL USA,353,5,23,32.3,10.9,117.6,0,73.9,11.4,North America,27.95,-82.46
+Newark NJ USA,278,9,12.7,30,-4.2,117.6,72.4,62.2,16.3,North America,40.74,-74.17
+Bucaramanga Colombia,522,1027,21.9,25.8,18.2,117.6,0,82,2.9,South America,7.12,-73.12
+Islip NY USA,336,25,11.3,27.6,-4.8,117.4,63,69.4,14.8,North America,40.73,-73.21
+Eugene OR USA,159,110,11.4,28.2,1,117.1,12.4,77.7,11.6,North America,44.05,-123.09
+Luzern Switzerland,79,454,8.7,23.5,-3.1,117.1,66,77.9,5,Europe,47.05,8.31
+Nagpur MH India,2406,309,26.9,42.5,12.1,117,0,58.5,8,Asia,21.15,79.09
+Port_Moresby Papua_New_Guinea,400,35,27,31,21,117,0,79.5,16,Oceania,-9.48,147.15
+Poughkeepsie NY USA,31,50,10,29.1,-7.9,116.9,110,75,8.9,North America,41.70,-73.92
+Corvallis OR USA,55,74,11.2,27.3,1,116.6,14.5,63,10.1,North America,44.56,-123.26
+Elkins WV USA,7,603,10.2,27.2,-7,116.6,212.1,69.5,9.7,North America,38.93,-79.85
+Providence RI USA,178,2,10.5,27.9,-6.2,116.3,90.2,67.6,15.4,North America,41.82,-71.41
+Eastport ME USA,2,20,6.8,23.4,-10.2,116.3,146.8,80,7.3,North America,44.91,-66.99
+Macon GA USA,90,110,18.1,33.7,1.6,116.1,1.8,71.2,10,North America,32.84,-83.63
+Kengtung Myanmar,367,827,22,33,10,116,0,67,7,Asia,21.28,99.62
+Phan_Thiet Vietnam,335,11,26,32,20,116,0,80,8.6,Asia,10.98,108.26
+Athens TN USA,14,254,15,31,0,116,26,69,8.8,North America,35.44,-84.59
+Springfield MO USA,164,386,13.5,31.7,-5.3,115.8,43.2,70.2,14.8,North America,37.21,-93.29
+Reading PA USA,88,99,10.5,29.3,-7.4,115.8,75.4,67.5,10.7,North America,40.34,-75.93
+Asheville NC USA,87,682,13.3,28.9,-2.9,115.8,25.1,68.5,10.9,North America,35.60,-82.55
+Henderson NC USA,15,116,14.8,31.5,-2.1,115.7,17,67.5,9,North America,36.33,-78.40
+San_Salvador Argentina,238,72,18.4,28,6,115.7,0,72.8,10.4,South America,-24.19,-65.30
+Abuja Nigeria,2440,360,23,37,19,115.6,0,82.2,4.5,Africa,9.08,7.40
+Fort_Smith AR USA,88,136,16.5,34.1,-1.7,115.6,12.4,69.7,11.6,North America,35.39,-94.40
+Allentown PA USA,119,118,10.7,29,-6.9,115.3,83.6,67.6,12.7,North America,40.61,-75.49
+Trenton NJ USA,84,6,12.2,29.6,-4.9,115.1,57.4,64.8,12.3,North America,40.22,-74.74
+Townsville QLD Australia,172,4,24,31,13,115,0,70,16,Oceania,-19.26,146.82
+Fayetteville AR USA,79,381,14,31,-3,115,21,69.5,10.8,North America,36.08,-94.17
+Hakodate Japan,279,35,8,25,-6,115,378,74.5,12,Asia,41.77,140.73
+Auckland NZ,1495,6,15.5,24.1,7.5,115,0,80.4,17.8,Oceania,-36.85,174.76
+Parakou Benin,207,392,26,35,19,114.9,0,63,8,Africa,9.35,2.61
+Hartford CT USA,125,55,10.1,29.2,-8.3,114.9,123.4,66.7,12.6,North America,41.76,-72.69
+Lexington KY USA,308,294,13.1,30.1,-3.9,114.8,33,70.8,12.9,North America,38.04,-84.50
+Salisbury NC USA,34,233,15.6,32.1,-0.9,114.6,14.5,68,7.3,North America,35.67,-80.47
+Burlington NC USA,52,194,14.9,31.6,-2,114.6,19,70,8.9,North America,36.10,-79.44
+Louisville KY USA,613,145,14.6,31.5,-2.9,114.1,31.8,67.3,12.7,North America,38.25,-85.76
+Johnson_City TN USA,65,529,13.6,29.7,-2.9,114.1,20.8,74,5.6,North America,36.31,-82.35
+Sarh Chad,103,365,28,40,16,114,0,46,5.5,Africa,9.14,18.37
+Shanghai SH China,24257,7,16,31,1,114,1,78,12,Asia,31.24,121.49
+Greenwood SC USA,23,192,16.5,32.6,0.4,113.5,5,69,9,North America,34.20,-82.16
+Dover DE USA,38,7,13.4,30.6,-3,113.5,45.7,73,12.9,North America,39.16,-75.52
+New_York NY USA,8406,39,13.1,29.6,-3,113.5,68.3,69,18.8,North America,40.71,-74.01
+Gondar Ethiopia,207,2194,19.7,29,11,113.5,0,52.6,6.2,Africa,12.60,37.45
+Zurich Switzerland,379,569,9.3,24,-2,113.4,85,77.6,7.6,Europe,47.38,8.54
+Poza_Rica VE Mexico,185,50,25,34.7,14.4,113.3,0,78,5.9,Latin America,20.53,-97.46
+Columbia SC USA,133,64,17.7,33.7,0.9,113.3,3.8,68.1,10.3,North America,34.00,-81.03
+Carbondale IL USA,26,125,13.6,31.4,-4.2,113.3,27.9,72,11.2,North America,37.73,-89.22
+Owensboro KY USA,58,124,13,31,-3,113.3,15,71,10.6,North America,37.77,-87.11
+Newton NJ USA,8,221,9.4,28.8,-8.7,113.2,101.3,68,5.6,North America,41.06,-74.75
+Chanute KS USA,9,305,13.7,32.3,-5.7,113,35,67,16.9,North America,37.68,-95.46
+Statesboro GA USA,30,56,17,32,3,113,1,72,5.3,North America,32.45,-81.78
+Santiago_de_Cuba Cuba,431,54,26,30,21,113,0,80.5,19,Latin America,20.02,-75.83
+Malanje Angola,157,1168,21,30,9,113,0,67,5.4,Africa,-9.54,16.33
+Lankaran Azerbaijan,233,-10,14,30,0,113,10,83,5.6,Middle East,38.75,48.85
+Sendai Japan,1046,1,11,27,-4,113,71,77,7.6,Asia,38.27,140.87
+Hanga_Roa Easter_Island,3,46,21,26,16,113,0,80,16,South America,-27.15,-109.43
+Wollongong NSW Australia,296,30,17,26,7.9,113,0,69,10.6,Oceania,-34.43,150.89
+Sydney NSW Australia,4921,6,17,26,7,113,0,69.5,17,Oceania,-33.87,151.21
+Newcastle NSW Australia,308,33,17,25.6,8.3,113,0,70,6.5,Oceania,-32.93,151.78
+Quebec_City QC Canada,517,72,4,24,-16,113,303.4,70,16,North America,46.81,-71.21
+Patna BR India,2047,60,25.5,38.4,9.3,112.8,0,72.5,8,Asia,25.59,85.14
+Danville VA USA,43,177,14.7,31.1,-1.7,112.8,24,71,9.9,North America,36.59,-79.40
+Yamoussoukro Ivory_Coast,107,213,26,33,20,112.6,0,77.5,9,Africa,6.83,-5.29
+Virginia_Beach VA USA,448,6,15.5,30.9,-0.1,112.5,17.8,70.1,16.2,North America,36.85,-75.98
+Mykonos Greece,10,9,16.9,30,6.1,112.4,0,70,11.6,Europe,37.45,25.33
+Moncton NB Canada,139,70,6.1,25.3,-13.1,112.4,282,78,5.2,North America,46.09,-64.78
+Columbus IN USA,45,186,11.9,29.8,-6.3,112.3,41.4,73,12.6,North America,39.20,-85.92
+Mansfield OH USA,46,395,9.7,27.6,-7.6,112.3,122.7,73.5,16.4,North America,40.76,-82.52
+Portland ME USA,66,2,7.6,25.7,-10.4,112.2,181.4,69.9,13,North America,43.66,-70.26
+Paris TX USA,25,177,17.7,35.1,-0.2,112,6.6,69,14.5,North America,33.66,-95.56
+Mombasa Kenya,915,54,26,31,21,112,0,79,16,Africa,-4.04,39.67
+Nantucket MA USA,10,14,9,23,-2,112,80,83,16.2,North America,41.28,-70.10
+Sept_Iles QC Canada,25,54,1,19.5,-20.8,112,384.6,80,14.2,North America,50.21,-66.38
+Brasov Romania,276,2503,4,9,-13,112,15,87,4.3,Europe,45.66,25.60
+Surat GJ India,4462,11,27.6,37.2,14.7,111.7,0,65.5,6,Asia,21.17,72.83
+Lausanne Switzerland,130,456,10,24.2,-0.5,111.6,35.1,71.7,6.5,Europe,46.52,6.63
+Pikeville KY USA,7,21,14.5,31.7,-2.3,111.5,37.6,70,9.6,North America,37.48,-82.52
+Drummondville QC Canada,72,82,6.4,25.8,-14.9,111.4,241.7,77,6.5,North America,45.88,-72.48
+Bohicon Benin,149,167,27,35,22,111.2,0,75.5,8,Africa,7.18,2.07
+Effingham IL USA,13,191,11.9,30.6,-6.8,111,38.6,68,10.9,North America,39.12,-88.54
+Pinar_del_Rio Cuba,140,40,25,30,18,111,0,80,9,Latin America,22.41,-83.85
+Makaha HI USA,8,256,22,28,16,111,0,77,11.3,North America,21.46,-158.22
+Suzhou JS China,10651,11,15.9,33,0,110.9,1,77.6,10.1,Asia,31.33,120.73
+Augusta GA USA,198,45,17.7,34.1,0.4,110.7,2.3,72.1,9.2,North America,33.47,-82.01
+Richmond VA USA,214,49,14.9,32.1,-2.1,110.7,26.2,68.1,12.6,North America,37.54,-77.44
+Kingsport TN USA,53,386,14.2,30.9,-2.2,110.7,30.5,71,7.5,North America,36.55,-82.56
+Keene NH USA,23,146,7.8,28.1,-12.6,110.7,138.7,67.9,7.1,North America,42.93,-72.28
+Cascavel PR Brazil,267,350,25.6,35,17.1,110.4,0,74,3.2,South America,-24.96,-53.46
+Florence SC USA,38,35,17.6,32.7,1.7,110.1,4.8,71,11.7,North America,34.20,-79.76
+Wau South_Sudan,128,437,28,37,20,110,0,53,6,Africa,7.71,27.98
+Korhogo Ivory_Coast,286,381,27,34,20,110,0,65.4,9,Africa,9.47,-5.61
+Raleigh NC USA,432,114,16,32.3,-0.6,110,15.5,69,10.9,North America,35.78,-78.64
+Bouake Ivory_Coast,536,375,26,32,21,110,0,73.5,9,Africa,7.69,-5.04
+Charleston WV USA,51,228,12.9,29.7,-3.8,110,86.4,71.8,7.6,North America,38.35,-81.63
+Longview WA USA,37,7,10,25,1,110,47,75.3,8.4,North America,46.14,-122.94
+Amherst MA USA,38,51,8.8,28.3,-9.9,109.8,112.8,68,10.4,North America,42.37,-72.52
+Yacuiba Bolivia,97,597,21.9,30,10,109.7,0,68.2,7,South America,-22.02,-63.68
+Millville NJ USA,28,18,12.4,29.9,-4.4,109.7,34.8,71,13.9,North America,39.40,-75.04
+Visakhapatnam AP India,2036,31,26.7,36.7,17,109.4,0,75,8.2,Asia,17.69,83.22
+New_Brunswick NJ USA,56,27,11.6,29.5,-4.9,109.4,62,68,6.5,North America,40.49,-74.45
+Islamabad Pakistan,1900,507,21,36,5,109,0,62.1,9,Asia,33.66,73.23
+Tamale Ghana,361,172,28,34,25,109,0,63.5,6,Africa,9.40,-0.84
+Rio_de_Janeiro RJ Brazil,6430,6,24.2,32.9,16.9,109,0,75.6,12,South America,-22.91,-43.17
+Jamestown NY USA,31,525,9,27,-7,109,221,74.5,13.1,North America,42.10,-79.24
+Santander Spain,176,64,14.1,23.7,5.6,109,0,75,14,Europe,43.46,-3.81
+Bobo_Dioulasso Burkina_Faso,538,459,27,35,20,108.8,0,54,9,Africa,11.16,-4.31
+Charlottesville VA USA,44,193,13.1,30.1,-3.3,108.5,37,66,8.2,North America,38.03,-78.48
+Millinocket ME USA,5,124,5.9,25.7,-15.4,108.5,244.6,73,8.8,North America,45.66,-68.71
+Angra_Heroismo Azores,35,1,17,24.8,11.1,108.5,0,82,18,Europe,38.66,-27.23
+San_Cristobal CP Mexico,186,2200,15.1,24.1,3.8,108.5,0,78,4.1,Latin America,16.75,-92.65
+Guyana Venezuela,850,104,27.1,34,22,108.4,0,76.2,7.7,South America,8.37,-62.65
+Lugo Spain,99,445,11.5,24.1,1.5,108.4,2,78,4,Europe,43.01,-7.56
+Wuxi JS China,3542,8,15.6,31.8,0.2,108.3,4,77.4,10.1,Asia,31.91,120.27
+Columbia MO USA,115,270,12.6,30.9,-6.2,108.2,45.7,71.2,15.4,North America,38.95,-92.33
+Milan Italy,1360,210,11.4,28.6,-4.4,108.2,2,75.2,9,Europe,45.46,9.19
+McAlester OK USA,19,234,16,35,-1,108,15,63,12.9,North America,34.93,-95.77
+Chongqing CQ China,8190,350,18,32,7,108,0,78,6,Asia,29.56,106.59
+Palu Sulawesi Indonesia,335,6,27,31,24,108,0,75,16,Oceania,-0.90,119.88
+Guayaquil Ecuador,2291,9,26,31,20,108,0,75,12,South America,-2.17,-79.92
+Asahikawa Japan,347,114,6,26,-13,108,743,77,6.6,Asia,43.77,142.36
+Fredericton NB Canada,58,20,5,25,-16,108,242,80,11.8,North America,45.96,-66.64
+Cork Ireland,119,161,9.9,18.7,3,108,8,87.9,10.5,Europe,51.90,-8.49
+Indianapolis IN USA,853,241,11.8,29.4,-6.4,107.7,65.8,70.9,15.3,North America,39.77,-86.16
+Portsmouth NH USA,22,39,8,26,-9,107.5,139.7,67,12.2,North America,43.07,-70.76
+Genoa Italy,583,3,15.6,27.2,5,107.2,0,65.8,17,Europe,44.41,8.95
+Campana Argentina,94,16,17.1,27,6,107.2,0,72.8,10.5,South America,-34.16,-58.96
+Erie PA USA,101,223,9.9,26.6,-6.2,107.2,256.3,70.9,16.4,North America,42.13,-80.09
+Miramichi NB Canada,18,33,4.9,25.2,-16.6,107.2,291.4,72.6,13.5,North America,47.03,-65.51
+Boston MA USA,646,1,10.7,27.6,-5.4,107.1,106.2,66.1,19,North America,42.36,-71.06
+General_Santos Philippines,538,14,28,32,23,107,0,84,8,Asia,6.12,125.17
+Cienfuegos Cuba,147,29,25,32,16,107,0,75,8.7,Latin America,22.16,-80.44
+Santa_Clara Cuba,212,100,25,32,16,107,0,75,8.1,Latin America,22.42,-79.94
+Parkersburg WV USA,31,200,12.7,30.5,-4.6,106.9,28.7,70.2,9.4,North America,39.27,-81.56
+Wilmington DE USA,72,15,12.4,29.9,-4.4,106.9,53.3,68.1,14,North America,39.74,-75.54
+Huntington WV USA,49,221,12.9,29.7,-4.2,106.7,63,69.9,9.8,North America,38.42,-82.45
+Baltimore MD USA,622,59,12.8,30.7,-4.2,106.4,51.1,67.4,12.2,North America,39.29,-76.61
+Bangor ME USA,33,58,6.8,26.3,-14.1,106.4,167.9,71,12.6,North America,44.80,-68.78
+Zunyi GZ China,6127,845,15,30,2,106.3,0,58,6.2,Asia,27.72,106.93
+Atlantic City NJ USA,40,42,12.4,29.7,-4.2,106.2,41.9,71,14.2,North America,39.36,-74.42
+Worcester MA USA,183,299,8.9,27.2,-8.1,106.1,146.8,67.7,15.9,North America,42.26,-71.80
+Antalya Turkey,2288,56,18,33,5,106,0,63.8,12,Middle East,36.90,30.71
+Wheeling WV USA,28,322,11.6,29.8,-6.4,106,46.7,70,11.1,North America,40.06,-80.72
+Los_Angeles Chile,146,130,13,28,3,106,0,73,4,South America,-37.46,-72.36
+Invercargill NZ,50,1,10,18.7,1,106,3,77,17.6,Oceania,-46.41,168.35
+Derry Northern_Ireland UK,247,3,9,18,0,105.9,8,81.5,12.4,Europe,55.00,-7.31
+Huaraz Peru,101,3059,5.1,13.9,-3.3,105.9,3,56.1,4.4,South America,-9.53,-77.53
+Cincinnati OH USA,298,171,12.6,30.4,-5.2,105.8,37.6,74,13.7,North America,39.10,-84.51
+Noumea New_Caledonia,98,71,23.4,29.3,17.2,105.8,0,77.9,19,Oceania,-22.26,166.45
+Charlotte NC USA,793,213,15.5,31.7,-1.3,105.7,10.9,66.1,10.6,North America,35.23,-80.84
+Evansville IN USA,120,115,13.6,31.4,-4.4,105.7,30,70.9,11.4,North America,37.97,-87.57
+Lynchburg VA USA,78,295,13.1,30.3,-4,105.7,32.8,67.8,10.3,North America,37.41,-79.14
+Laconia NH USA,16,168,8.2,27.4,-11.3,105.6,171.4,75,10.2,North America,43.53,-71.47
+Philadelphia PA USA,1553,3,13.3,30.6,-3.6,105.4,56.9,64.8,15,North America,39.95,-75.17
+Utica NY USA,62,176,7,28,-11,105.3,228.6,76,11.2,North America,43.10,-75.23
+Terre_Haute IN USA,61,178,11.7,30.7,-7.9,105.1,34.5,76,12.2,North America,39.47,-87.41
+Vijayawada AP India,1491,21,27,37,18,105,0,77,7,Asia,16.51,80.65
+Ziguinchor Senegal,337,22,27,35,17,105,0,67.5,8,Africa,12.56,-16.26
+Sebring FL USA,10,19,23,33,10,105,0,75,8.7,North America,27.50,-81.44
+Dar_es_Salaam Tanzania,4365,54,26,31,19,105,0,81.7,14,Africa,-6.79,39.21
+Kaunakakai HI USA,3,256,23.5,29.1,17.9,105,0,74,18.5,North America,21.09,-157.02
+Durban South_Africa,3442,7,21,27,12,105,0,76.7,19,Africa,-29.86,31.02
+Beckley WV USA,18,736,10.8,26.4,-5.6,105,156.7,68,11.7,North America,37.78,-81.19
+Banja_Luka Bosnia_Herzegovina,196,156,11,26,-3,105,9,73,4,Europe,44.77,17.19
+Roanoke VA USA,98,350,13.9,30.6,-2.5,104.9,42.2,63.6,11.1,North America,37.27,-79.94
+Fredericksburg VA USA,28,35,13.5,31.3,-3.9,104.8,39.4,69,8,North America,38.30,-77.46
+Portsmouth OH USA,20,197,13,31,-4.2,104.8,34.5,69,9.1,North America,38.73,-83.00
+Trieste Italy,201,20,14.4,28.1,3.1,104.5,0,65,16,Europe,45.65,13.78
+North_Bay ON Canada,53,370,4.2,24,-17.4,104.5,299.6,72.7,13.2,North America,46.31,-79.46
+Banjul The_Gambia,35,15,25.9,35,18,104.4,0,63,8.6,Africa,13.45,-16.58
+Dayton OH USA,144,303,11.1,28.8,-6.5,104.4,59.2,70.3,15.1,North America,39.76,-84.19
+Saint_Louis MO USA,318,163,13.9,31.7,-4.6,104.1,45,66.5,15,North America,38.63,-90.20
+Augusta ME USA,19,108,6,27,-11,104,197,71,13.7,North America,44.31,-69.78
+Harrisburg PA USA,49,103,11.8,29.6,-5,103.9,71.6,66.3,12,North America,40.27,-76.89
+Pittsfield MA USA,45,356,7.4,26.9,-10.7,103.5,186.7,66.5,9.8,North America,42.45,-73.25
+Watertown NY USA,28,99,7,26,-10,103.5,204.2,74,13.6,North America,43.97,-75.91
+Arendal Norway,42,7,7.1,17,-1,103.5,10,82.5,25,Europe,58.46,8.77
+Montreal QC Canada,1958,35,7.5,26.8,-12.4,103.4,189.9,69.5,16,North America,45.50,-73.57
+Bennington VT USA,16,252,7.8,26.3,-11.3,103.4,190.8,70,9.6,North America,42.88,-73.20
+Tromso Norway,72,10,2.5,15.3,-6.5,103.1,6,82.9,17,Europe,69.65,18.96
+Placerville CA USA,10,789,12,33,0,103,15,58,10.6,North America,38.73,-120.80
+Zihuatanejo GR Mexico,120,20,26.8,32.7,20,103,0,79.5,5.2,Latin America,17.64,-101.55
+Salisbury MD USA,32,15,12,30,-2,103,15,76,12.1,North America,38.36,-75.60
+Blacksburg VA USA,44,631,10.9,28.1,-6.3,103,58.9,68,8,North America,37.23,-80.41
+Saint_Georges QC Canada,31,168,4.5,25.1,-18,103,201,78,5,North America,46.12,-70.67
+Trois_Rivieres QC Canada,131,57,5,25,-17,103,207,74,5.3,North America,46.35,-72.58
+Fort_Bragg CA USA,8,2,11,18,4,103,0,49,6.4,North America,39.45,-123.81
+Buffalo NY USA,259,214,9.1,26.6,-7.5,102.9,240.5,71.3,16.7,North America,42.89,-78.88
+Bern Switzerland,127,509,7.9,23.3,-3.7,102.8,52.6,78.2,5.8,Europe,46.95,7.45
+Tripoli Lebanon,500,10,18,30,9,102,0,69,12,Asia,34.43,35.84
+Cali Colombia,2401,968,23,29,18,102,0,74.5,16,South America,3.45,-76.53
+Manchester NH USA,110,93,7.9,27.7,-12.4,102,125.2,65,10.3,North America,43.00,-71.45
+Horta Azores,14,40,17,24,12,102,0,83,19,Europe,38.53,-28.63
+College_Station TX USA,100,97,20.6,35.7,5.1,101.9,1.5,71,12.3,North America,30.63,-96.33
+Victoria TX USA,65,3,21.3,34.6,6.2,101.8,0.2,77,15.1,North America,28.81,-97.00
+Aberystwyth Wales UK,13,99,8.9,19.4,2.1,101.8,3,82,11,Europe,52.42,-4.08
+Lawrence KS USA,91,26,13.2,31.4,-7.6,101.4,46,70.5,14.3,North America,38.97,-95.24
+Cornwall ON Canada,46,64,7.6,27,-12.6,101.2,180,77,5.4,North America,45.02,-74.73
+Key_West FL USA,26,1,25.4,31.9,17.9,101.1,0,74.8,16.6,North America,24.56,-81.78
+Lucknow UP India,2816,121,25,40,8,101,0,66,5.4,Asia,26.85,80.95
+Matadi DRC,306,355,27,34,20,101,0,74,3.2,Africa,-5.85,13.46
+San_Miguel_Tucuman Argentina,781,449,19.3,31.3,6.8,101,0,74,7.9,South America,-26.81,-65.22
+Chincoteague VA USA,3,12,13,28,-2,101,22,72.5,14.3,North America,37.93,-75.38
+Morgantown WV USA,31,382,11,28,-3,101,71,72,8.7,North America,39.63,-79.96
+Gisborne NZ,32,5,14.5,24.7,5.2,101,0,78,11.4,Oceania,-38.66,178.02
+Cambridge OH USA,11,268,11.4,29.4,-6.5,100.9,52.3,74,10.8,North America,40.03,-81.59
+Washington DC USA,659,3,14.6,31.3,-1.9,100.8,39.1,65,14.6,North America,38.91,-77.04
+Salem OR USA,161,59,11.7,28,1.1,100.8,15.7,74.6,10.8,North America,42.52,-70.90
+Kandi Benin,178,291,27,37,17,100.7,0,54,8,Africa,11.13,2.93
+Naples Italy,960,88,15.5,29.5,3.8,100.7,0,72.3,12,Europe,40.85,14.27
+Akron OH USA,198,368,9.9,27.8,-7.2,100.6,120.7,72.8,14.8,North America,41.08,-81.52
+Rolla MO USA,20,334,13,31,-5.9,100.5,39.4,75,15.3,North America,37.95,-91.77
+Geneva Switzerland,189,415,10.5,26.5,-1.3,100.5,32.1,73.3,8.6,Europe,46.20,6.14
+A_Coruna Spain,245,67,13,22.5,7.6,100.5,0,77,7.8,Europe,43.36,-8.41
+Jefferson_City MO USA,43,190,12.8,32.2,-5.7,100.2,41.4,70.7,11.9,North America,38.58,-92.17
+Rio_Branco AC Brazil,308,142,24.8,32.8,16.5,100,0,83.8,1.5,South America,-9.98,-67.82
+Xai_Xai Mozambique,116,5,23,31.2,12.1,100,0,77,8.6,Africa,-25.06,33.70
+Cumana Venezuela,341,3,27,31,23,100,0,83,19,South America,10.43,-64.18
+Nanjing JS China,8230,11,15,31,-1,100,3,76,12,Asia,32.05,118.78
+Mwanza Tanzania,700,1139,22,29,16,100,0,64,7.5,Africa,-2.52,32.92
+Sorel QC Canada,35,15,6.3,26.4,-15.5,100,198.7,79,7.1,North America,46.04,-73.11
+Klagenfurt Austria,95,440,7,25,-8,100,84.1,81,5,Europe,46.64,14.31
+Hagerstown MD USA,41,214,11.9,29.6,-4.8,99.8,53,65,11.5,North America,39.64,-77.72
+Columbus OH USA,823,247,11.9,29.4,-5.2,99.8,67.8,68.5,12.4,North America,39.96,-83.00
+Mont_Laurier QC Canada,14,244,4.1,24.8,-19,99.7,215.8,76.5,4.8,North America,46.55,-75.50
+Lake_Placid NY USA,3,605,4.7,24.7,-15.4,99.7,303,68.5,8.8,North America,44.28,-73.98
+Tacoma WA USA,203,1,11.9,25,2.1,99.6,1.3,71,10.8,North America,47.25,-122.44
+Cleveland OH USA,390,234,10.8,28.1,-5.7,99.3,173,70.8,15.6,North America,41.50,-81.69
+Bamako Mali,1809,381,28,38,18,99.1,0,48.5,12,Africa,12.64,-8.00
+Garoua Cameroon,236,241,28,40,19,99,0,56,5.1,Africa,9.32,13.39
+Muncie IN USA,70,285,11,29.2,-7.3,99,47.2,69.5,14.9,North America,40.19,-85.39
+Bundaberg QLD Australia,71,31,21,29,9,99,0,71,14,Oceania,-24.87,152.35
+Waterford Ireland,54,41,9,19,2,99,5,88,11.7,Europe,52.26,-7.11
+Kansas_City MO USA,467,296,12.6,31.3,-6.9,98.8,43.2,69.6,16.9,North America,39.10,-94.58
+Youngstown OH USA,65,359,9.5,27.4,-7.2,98.8,159.3,72.1,14.2,North America,41.10,-80.65
+Vlore Albania,105,5,16,31.1,5,98.7,0,73,6.8,Europe,40.47,19.49
+Gonaives Haiti,300,8,26.1,34,22,98.5,0,73.7,9.8,Latin America,19.45,-72.68
+Ayr Scotland UK,46,20,9.4,18.5,1.8,98.4,1,80,18,Europe,55.46,-4.63
+Williamsport PA USA,29,159,10.4,29.4,-6.3,98.3,91.7,69,11.1,North America,41.24,-77.00
+Daegu South_Korea,2493,61,12,31,-5,98.2,6,68,6.8,Asia,35.87,128.60
+Ada OK USA,17,307,16,34,-1,98,13,62,14.6,North America,34.77,-96.68
+Chengdu SC China,4742,507,16,28,2,98,0,81.3,8,Asia,30.57,104.07
+Bodo Norway,50,42,4.5,15.5,-4.6,98,4,75,22,Europe,67.28,14.40
+Syracuse NY USA,145,128,9.1,27.6,-9.1,97.8,314.5,70.6,13.5,North America,43.05,-76.15
+Fort_Wayne IN USA,256,242,10.3,29.1,-8.1,97.3,85.1,73.3,14.8,North America,41.08,-85.14
+Grand_Rapids MI USA,192,215,9.5,28.2,-7.7,97.3,190.2,72.1,15.4,North America,42.96,-85.67
+Ponta_Delgada Azores,69,71,17.1,25,11.1,97.2,0,82.5,16,Europe,37.74,-25.68
+Gijon Spain,276,10,13.8,23.2,4.7,97.1,0,79,12,Europe,43.53,-5.66
+Salina_Cruz OA Mexico,74,56,26,32,22,97,0,67,11.8,Latin America,16.18,-95.21
+Rosario Argentina,1194,24,17.3,31.2,4.9,97,0,76,16.1,South America,-32.94,-60.65
+Buenos_Aires Argentina,3054,20,17.7,30.4,7.4,97,0,72,10.4,South America,-34.60,-58.38
+Pittsburgh PA USA,306,350,10.8,28.1,-4.6,97,74.4,68.9,13,North America,40.44,-80.00
+London ON Canada,366,277,7,27,-9,97,232,79,10,North America,42.98,-81.25
+Berlin NH USA,10,352,4.7,25.9,-17.7,97,258,67.5,6.4,North America,44.47,-71.19
+King Cove AK USA,1,3,3.5,13.3,-4.7,96.9,156.7,79,27.4,North America,55.06,-162.31
+Manzanillo CL Mexico,111,7,26,31,19,96.8,0,79.5,17,Latin America,19.11,-104.34
+Tulsa OK USA,398,203,16,33.9,-2.5,96.7,21.8,66.1,15.1,North America,36.15,-95.99
+Champaign IL USA,84,224,11.1,29.9,-7.7,96.7,57.9,70,16,North America,40.12,-88.24
+Andorra_la_Vella Andorra,23,1001,8,22,-4,96.7,16,50,5.8,Europe,42.51,1.52
+South_Bend IN USA,101,235,9.9,28.3,-8,96.5,169.2,71.5,15,North America,41.68,-86.25
+San_Luis_Obispo CA USA,46,15,27.5,37.1,16.6,96.2,0,60,12.7,North America,35.28,-120.66
+Sherman TX USA,39,227,17,35,2,96,11,64,16.8,North America,33.64,-96.61
+Joplin MO USA,51,298,14,32,-3,96,32,66,14.2,North America,37.08,-94.51
+Kirksville MO USA,18,294,10.6,30.1,-10.2,96,67.8,71,15.1,North America,40.19,-92.58
+Nelson NZ,50,5,12,23,2,96,0,71,11.7,Oceania,-41.27,173.28
+Plymouth England UK,256,27,11.1,20,3.6,96,1,83,19.1,Europe,50.38,-4.14
+Bogota Colombia,7777,2547,13,19,6,96,0,82.5,12,South America,4.71,-74.07
+Eureka CA USA,27,17,11,17,5,96,0,46,10,North America,40.80,-124.16
+Rimouski QC Canada,49,24,4.4,23.3,-15.4,95.9,273.5,78,7.6,North America,48.44,-68.53
+Colima CL Mexico,137,500,24,34.4,15.4,95.7,0,58,4.8,Latin America,19.25,-103.72
+Winchester VA USA,27,194,12.3,30.6,-4.8,95.7,57.1,68,9.7,North America,39.19,-78.16
+Tuxtla CP Mexico,537,570,25.8,35.6,16.2,95.5,0,80,5.2,Latin America,19.54,-99.18
+Juba South_Sudan,300,456,27,31,23,95.4,0,54.5,7,Africa,4.86,31.57
+Seattle WA USA,652,37,11.4,24.6,2,95.3,17.3,77,12.9,North America,47.61,-122.33
+Vaduz Leichtenstein,37,674,9.9,23.9,-2.8,95.3,7,74.2,3.6,Europe,47.14,9.52
+Kigali Rwanda,1257,1496,21,25,18,95.1,0,73.5,9,Africa,-1.97,30.10
+Ukiah CA USA,16,187,14.8,33.4,2.1,95,21.8,45,6.2,North America,39.15,-123.21
+Springfield IL USA,117,181,11.7,30.1,-7.4,95,53.1,71.1,15.4,North America,39.78,-89.65
+Harrisonburg VA USA,51,361,12,30,-3,95,62,84,6.5,North America,38.45,-78.87
+Nanaimo BC Canada,84,30,9,22,0,95,62,77,4.2,North America,49.17,-123.94
+Quincy IL USA,41,234,11.5,29.9,-7.5,94.7,52.6,73,15.2,North America,39.94,-91.41
+Cuernavaca MR Mexico,339,1614,21.7,31.3,13.1,94.4,0,57,4.2,Latin America,18.92,-99.22
+Nampo North_Korea,311,46,11,27,-7,94.4,9,72,12,Asia,38.75,125.32
+Maxixe Mozambique,106,19,23.8,30,19,94.3,0,76.9,8.2,Africa,-23.86,35.34
+Scranton PA USA,76,271,9.7,27.8,-7.4,94.3,121.2,67.9,12,North America,41.41,-75.66
+Montevideo Uruguay,1305,21,16,28,6,94,0,74,13.3,South America,-34.90,-56.16
+Rutland VT USA,16,239,7,27,-12,94,143,68,11.4,North America,43.61,-72.97
+Kitchener ON Canada,205,328,7,26,-10.3,94,162.7,78,12.6,North America,43.45,-80.48
+Sherbrooke QC Canada,155,238,5,25,-15,94,256,78,9.4,North America,45.40,-71.88
+Chicago IL USA,2719,205,9.9,28.9,-8.6,93.7,92.2,69.4,16.1,North America,41.88,-87.63
+Windsor ON Canada,211,190,9.9,28.1,-7.3,93.5,129.3,69.8,15.5,North America,42.31,-83.04
+Barrie ON Canada,141,221,6.9,26.3,-12.4,93.3,223,79,8.1,North America,44.39,-79.69
+Neuchatel Switzerland,33,485,9.3,23.9,-1.4,93.2,15,74.6,9,Europe,46.99,6.93
+Pyongyang North_Korea,3255,38,10,28,-10,93,8,72.1,9,Asia,39.04,125.76
+Hamilton ON Canada,520,236,7.9,26.5,-9.3,93,156.5,71,16.2,North America,43.26,-79.87
+Dunedin NZ,128,1,10,18,2,93,1,72,11.4,Oceania,-45.88,170.50
+Topeka KS USA,128,267,12.8,31.9,-6.9,92.7,45.2,68.2,13.2,North America,39.06,-95.69
+Peoria IL USA,117,198,11.1,29.8,-8.3,92.7,62.5,71,13.8,North America,40.69,-89.59
+Santa_Rosa CA USA,172,38,14.2,28.5,2.5,92.2,0,67.5,8,North America,38.44,-122.71
+Elmira NY USA,29,257,8.6,27.9,-9.4,92.2,96.3,72.5,10.9,North America,42.09,-76.81
+Dubuque IA USA,58,324,8.5,27.7,-11.6,92.2,106.4,73.4,17.1,North America,42.50,-90.66
+Rawalpindi Pakistan,3199,510,21,40,3,92,0,51,4.5,Asia,33.57,73.02
+Bloomington IL USA,79,266,11,31,-7,92,60,75,17.9,North America,40.48,-88.99
+Cartagena Colombia,972,1,27,30,23,92,0,81,17,South America,10.39,-75.48
+Kigoma Tanzania,135,884,23,29,17,92,0,72,5.2,Africa,-4.88,29.66
+Toowoomba QLD Australia,111,585,16,27,5,92,0,61,6.9,Oceania,-27.56,151.95
+Ottawa ON Canada,883,113,6.6,26.6,-14.4,92,175.4,69,14,North America,45.42,-75.70
+Newport VT USA,5,28,5,26,-15,92,205,77,9.8,North America,44.94,-72.21
+Dolbeau_Mistassini QC Canada,15,122,1.4,23.9,-24.9,92,237.8,77,5.1,North America,48.88,-72.23
+Cardiff Wales UK,341,67,11.5,22,4,92,1,78,15,Europe,51.48,-3.18
+Munich Germany,1388,528,8,22,-4,92,3,79.6,17,Europe,48.14,11.58
+Dallas TX USA,1258,175,19.1,35.6,1.9,91.7,3,64.3,16.9,North America,32.78,-96.80
+Caracas Venezuela,2104,834,23,27,17,91.6,0,78.5,9,South America,10.48,-66.90
+Des_Moines IA USA,208,285,10.5,29.8,-9.8,91.4,89.7,69.5,15.9,North America,41.60,-93.61
+Turin Italy,871,286,11.6,27.6,-3.3,91.4,5,74.8,8,Europe,45.07,7.69
+Portland OR USA,609,6,12.5,27.3,1.8,91.4,10.9,67.5,12.4,North America,45.52,-122.68
+Belleville ON Canada,49,97,8.1,26.8,-11.1,91.2,139.7,78,7.2,North America,44.16,-77.38
+Indore MP India,1994,566,24.9,40.2,9.9,91,0,54,17,Asia,22.72,75.86
+Merida YU Mexico,778,17,26,35,17,91,0,73.5,16,Latin America,20.97,-89.59
+Ithaca NY USA,31,333,7,27,-8,91,187,76.5,12.3,North America,42.44,-76.50
+Hamhung North_Korea,614,38,10,26,-8,91,3,67,12,Asia,39.98,127.61
+Galway Ireland,80,21,10,18,2,90.6,3,78,19,Europe,53.27,-9.06
+Coimbra Portugal,106,139,15,28.5,4.6,90.5,0,70,4.8,Europe,40.20,-8.41
+Val_d_Or QC Canada,32,337,1.4,23.7,-23.9,90.5,288.1,73,12.4,North America,48.10,-77.80
+Swansea Wales UK,242,89,11,19.7,3.6,90.4,2,82,24.6,Europe,51.62,-3.94
+Everett WA USA,105,4,10.3,22.6,0.6,90.3,18.5,78,12.9,North America,47.98,-122.20
+Binghamton NY USA,46,487,9.2,28.1,-8.2,90.2,131.1,71.6,14.8,North America,42.10,-75.92
+Glasgow Scotland UK,599,7,9.6,19.7,1.7,90.2,3,81,10.4,Europe,55.86,-4.25
+Bengaluru KA India,8426,920,23.9,33.9,15,90,0,69.5,8,Asia,12.97,77.59
+Guadalajara JA Mexico,1495,1567,20,32.8,6,90,0,61.5,19,Latin America,20.66,-103.35
+Lusaka Zambia,1743,1153,21,29,10,90,0,70.4,16,Africa,-15.39,28.32
+Marquette MI USA,21,430,4,24,-15,90,328,77.5,13.8,North America,46.55,-87.40
+Sundsvall Sweden,51,3,3,20,-10,90,10,77,5.5,Europe,62.39,17.31
+Sudbury ON Canada,160,347,3.7,24.8,-18.6,89.9,274.4,70.8,15.7,North America,46.52,-80.95
+Cumberland MD USA,20,189,12.1,31,-4.9,89.7,79,72,7.2,North America,39.65,-78.76
+Bellingham WA USA,83,48,10.9,23.1,1.4,89.7,9.1,78,12.3,North America,48.75,-122.48
+Montpelier VT USA,8,352,5.8,26.8,-15.6,89.5,236.2,76,10,North America,44.26,-72.58
+Lome Togo,837,24,27,31,23,89.4,0,82.5,16,Africa,6.17,1.23
+Burlington IA USA,26,212,11,30.7,-8.8,89.4,64.5,74.5,13.6,North America,40.81,-91.11
+Mason_City IA USA,28,370,7.3,27.8,-14.2,89.4,77,69.5,17.9,North America,43.15,-93.20
+Dortmund Germany,572,96,10,21.7,0.5,89.4,1,79,9.4,Europe,51.51,7.47
+Kingston Jamaica,666,9,28,32,23,89,0,72.5,27,Latin America,18.02,-76.81
+Napier NZ,62,1,14,23.9,4.6,89,0,72,13.7,Oceania,-39.49,176.91
+Bariloche Argentina,113,839,8,21.8,-1.4,89,3,71.7,23.9,South America,-41.13,-71.31
+Denton TX USA,113,185,18.3,35.4,0.6,88.5,3.3,67,15.5,North America,33.21,-97.13
+Rockford IL USA,150,220,9.6,30.3,-10.2,88.4,82,71.5,15.1,North America,42.27,-89.09
+Victoria BC Canada,80,18,10,22.4,1.1,88.3,39.7,76.2,9.1,North America,48.43,-123.37
+Zagreb Croatia,790,162,11,27.2,-2.8,88.2,5,65,4.9,Europe,45.82,15.98
+Olavarria Argentina,112,166,14.4,29,2,88.1,0,76.3,11.2,South America,-36.89,-60.32
+Bayonne France,40,43,14.3,24.7,4.8,88.1,0,78,7.1,Europe,43.49,-1.47
+Morogoro Tanzania,316,579,24,32,15,88,0,71,5.8,Africa,-6.83,37.66
+Blantyre Malawi,661,777,22,31,12,88,0,67,6.6,Africa,-15.77,35.02
+Mandurah WA Australia,84,15,17,29.5,8.6,88,0,60.5,12,Oceania,-32.54,115.74
+Tegucigalpa Honduras,1190,993,22,27,15,88,0,72.5,14,Latin America,14.07,-87.19
+Freiburg Germany,229,285,9,24,-1,88,5,71,5,Europe,48.00,7.84
+Redding CA USA,91,163,16.8,36.9,2.4,87.9,1.5,55.5,11.3,North America,40.59,-122.39
+Killeen TX USA,137,281,19.2,35.6,1.1,87.9,1.8,62.7,13.6,North America,31.12,-97.73
+Waterloo IA USA,68,264,8.8,29.1,-12.6,87.9,72.4,72.8,16.1,North America,42.49,-92.34
+Cedar_Rapids IA USA,128,263,9,28.6,-11.7,87.9,67.8,70,16,North America,41.98,-91.67
+Junction_City KS USA,25,326,13.5,33.8,-7.4,87.7,53.3,72,14.5,North America,39.03,-96.83
+Saint_Joseph MO USA,77,247,11.9,31.7,-8.9,87.6,33,69.7,14.1,North America,39.77,-94.85
+Madison WI USA,243,261,8.1,27.6,-11.6,87.6,97,70.6,13.8,North America,43.07,-89.40
+Albany NY USA,98,83,9.7,28.6,-8.3,87.5,101.8,69.3,13,North America,42.65,-73.76
+Chilpancingo GR Mexico,187,1250,22.3,29.5,11.6,87.3,0,77,4.1,Latin America,17.55,-99.50
+Saint_Catharines ON Canada,133,122,9,27.4,-7,87.2,116.2,78,9.9,North America,43.16,-79.25
+San_Marcos TX USA,54,197,19.9,35.8,3.4,87.1,1.3,64,14.4,North America,29.88,-97.94
+Rochester NY USA,210,166,9,27.2,-8,87.1,252.7,71.6,14.8,North America,43.16,-77.61
+Mandalay Myanmar,1225,76,26,37,13,87,0,67,7.4,Asia,21.96,96.09
+Tabora Tanzania,227,1181,23,32,14,87,0,58,7.9,Africa,-5.04,32.82
+Bunbury WA Australia,100,4,16,27.8,8.4,87,0,68.5,8.8,Oceania,-33.33,115.64
+Lafayette IN USA,70,184,10,27,-8,87,66,72,13.7,North America,40.42,-86.88
+Graz Austria,266,337,9,25,-5,87,67.4,76.7,5.8,Europe,47.07,15.44
+Presque_Isle ME USA,9,162,5,25,-16,87,247,77,12.1,North America,46.68,-68.02
+Charleroi Belgium,205,192,10,22,1,87,6,82.5,17,Europe,50.41,4.44
+Belfast Northern_Ireland UK,281,4,9.9,19.7,2.1,87,5,81,16,Europe,54.60,-5.93
+Toledo OH USA,282,203,10.2,29.2,-7.6,86.9,95.5,71.2,14.3,North America,41.66,-83.56
+Ardmore OK USA,25,27,16.9,35,-1.9,86.8,10.9,65,9.2,North America,34.17,-97.14
+Burlington VT USA,42,100,7.2,26.7,-12.4,86.5,186.4,68.5,13.7,North America,44.48,-73.21
+Tiruchirappalli TN India,917,88,28,37,21,86.2,0,65.5,17,Asia,10.79,78.70
+Janesville WI USA,64,240,8,29,-12,86.2,82.8,73.5,12.7,North America,42.68,-89.02
+Emporia KS USA,25,366,13.2,33.1,-6.6,86.1,43.4,66,18.7,North America,38.40,-96.18
+Kano Nigeria,3550,476,26,38,12,86,0,48,4.6,Africa,12.00,8.59
+Beirut Lebanon,361,18,20,29,10,86,0,68.8,12,Asia,33.89,35.50
+Prizren Kosovo,185,402,11.8,28.5,-3,86,9,69,6,Europe,42.22,20.74
+Milwaukee WI USA,599,204,9.1,28.5,-10.6,86,102.1,69.6,16.7,North America,43.04,-87.91
+Verona Italy,256,90,13,28,-1,86,1,65,4.5,Europe,45.44,10.99
+Pietermaritzburg South_Africa,223,642,17.7,27,4,86,0,71.3,9.7,Africa,-29.60,30.38
+Linz Austria,192,296,9.4,24.8,-2.8,86,54.1,74.4,7.2,Europe,48.31,14.29
+Tasiilaq Greenland,2,52,-1,8,-10,85.8,12.5,79,14,North America,65.61,-37.63
+Qaqortoq Greenland,3,34,0,10,-8,85.7,20,81.5,28,North America,60.72,-46.04
+Peterborough ON Canada,79,190,6.2,26.4,-13.7,85.5,151.2,78,10.6,North America,44.31,-78.32
+Trondheim Norway,178,17,4.8,17,-5,85.5,3,75.5,12,Europe,63.43,10.40
+Ponca_City OK USA,25,305,15,34.2,-4.7,85.4,22.1,69.5,16.3,North America,36.71,-97.09
+Toronto ON Canada,2615,172,7.7,27.1,-10.1,85.3,142.6,71.1,12.4,North America,43.65,-79.38
+Petawawa ON Canada,16,148,4.3,25.6,-18.3,85.3,204.3,77,10.2,North America,45.90,-77.28
+Waco TX USA,129,152,19.8,35.8,3.3,85.2,8.4,68.4,16.3,North America,31.55,-97.15
+Stillwater OK USA,47,267,15.4,34,-4.1,85.2,25.6,67.5,16.3,North America,36.12,-97.06
+Oklahoma_City OK USA,611,392,15.7,33.9,-3.1,85.2,21.8,66.1,18.5,North America,35.47,-97.52
+Kankakee IL USA,27,190,10.5,30.4,-8.7,85.2,57.4,74,12.5,North America,41.12,-87.86
+Muskegon MI USA,37,191,9.2,26.9,-6.6,85.1,238,72.6,16.1,North America,43.23,-86.25
+Brighton England UK,156,2,10.5,20.8,1.9,85.1,1,83,16.1,Europe,50.82,-0.14
+Barranquilla Colombia,1218,10,28,32,23,85,0,84.2,22,South America,11.00,-74.81
+Rockhampton QLD Australia,81,10,22,32,9,85,0,68,12,Oceania,-23.38,150.51
+Lilongwe Malawi,669,1132,19,30,6,85,0,69,7.3,Africa,-13.96,33.77
+Roseburg OR USA,22,212,12,28,1,85,15.2,72.6,5.5,North America,43.22,-123.34
+Kanggye North_Korea,252,306,7,27,-13,85,4,70.5,8,Asia,40.97,126.60
+Mbeya Tanzania,2707,1706,17,26,7,85,0,68,5.2,Africa,-8.91,33.46
+Innsbruck Austria,122,608,8,25,-6,85,110.3,72,6.5,Europe,47.27,11.40
+Chur Switzerland,33,556,9.7,24.8,-3,84.9,101.7,70,9.7,Europe,46.85,9.53
+Kenosha WI USA,100,174,8.5,26.4,-9.9,84.8,94.2,76,14.4,North America,42.58,-87.82
+Saguenay QC Canada,144,15,2,24,-21,84.8,336,81,6,North America,48.43,-71.07
+Austin TX USA,885,188,20.3,35.5,4.3,84.7,2.3,69.5,11.3,North America,30.27,-97.74
+Cologne Germany,1024,99,10,22,-1,84.7,2,75,9,Europe,50.94,6.96
+Battle_Creek MI USA,52,286,9,28.1,-9.1,84.3,147.6,72,14.5,North America,42.32,-85.18
+Sandusky OH USA,25,191,10.8,27.6,-5.9,84.3,41.1,75.5,14.1,North America,41.45,-82.71
+Davenport IA USA,102,229,10,30,-9,84.2,80.3,76,16.1,North America,41.52,-90.58
+La_Crosse WI USA,52,199,8.6,28.9,-12.8,84.1,110,68.7,14.2,North America,43.80,-91.24
+Traverse_City MI USA,15,189,7.4,26.8,-9.3,84.1,257.6,78,11.8,North America,44.76,-85.62
+Harare Zimbabwe,1485,1502,19,27,9,84,0,63,12,Africa,-17.83,31.03
+Skien Norway,54,14,6,20,-3,84,4,76,9,Europe,59.19,9.61
+Klaipeda Lithuania,159,10,7,19,-5,84,4,82.9,17,Europe,55.70,21.14
+Kristiansund Norway,24,61,6,15,0,84,11,75,16,Europe,63.11,7.73
+Rochester MN USA,111,395,7.4,27.4,-13.5,83.8,131.8,69.5,20.1,North America,44.01,-92.48
+Wausau WI USA,39,367,6,27,-14,83.8,131,73,12.1,North America,44.96,-89.63
+Shinyanga Tanzania,108,1133,22.9,33,14,83.7,0,67.3,10.1,Africa,-3.68,33.43
+Fort_Worth TX USA,793,224,18.2,35.5,-0.1,83.6,1,67.5,16.2,North America,32.76,-97.33
+San_Marino,31,120,12.8,26.4,0.7,83.6,1,75,6.5,Europe,43.94,12.46
+Messina Sicily Italy,243,50,18.6,29.9,9.6,83.2,0,68.9,12,Europe,38.19,15.55
+Sault_Sainte_Marie MI USA,14,213,4.7,24.2,-14.1,83.2,304,74.1,12.9,North America,46.50,-84.35
+Timmins ON Canada,42,294,1.3,24.2,-23.9,83.1,313.4,71.5,11.9,North America,48.48,-81.33
+Chandigarh HR India,1055,308,24,40,6,83,0,52,5.5,Asia,30.73,76.78
+Florence Italy,362,43,14,31,1,83,0,73,5.6,Europe,43.77,11.26
+Split Croatia,178,21,15,29,3,83,2,61,9,Europe,43.51,16.44
+Kingston ON Canada,123,92,6,24,-11,83,158,78,6.7,North America,44.23,-76.49
+Wichita KS USA,387,402,13.9,33.5,-5.6,82.8,37.8,66.9,18.7,North America,37.69,-97.33
+Corpus_Christi TX USA,316,13,22.3,34.5,8.1,82.6,0,76.1,19.3,North America,27.80,-97.40
+Mount_Vernon WA USA,33,0,10.3,23.2,0.9,82.2,9.4,76,10.1,North America,48.42,-122.33
+Bujumbura Burundi,497,782,25,28,22,82,0,76.5,19,Africa,-3.36,29.36
+Shangri_La YN China,130,3286,6.5,15.4,-10.6,82,10,57.5,6.9,Asia,27.83,99.70
+Ann_Arbor MI USA,117,231,9.3,28.6,-8.3,81.9,104.9,77,12.5,North America,42.28,-83.74
+Perugia Italy,163,511,13.1,29.8,0.2,81.6,1,75.3,6.7,Europe,43.11,12.39
+Rio_Cuarto Argentina,160,420,17,28,5,81,0,65.5,27,South America,-33.12,-64.35
+Nantes France,285,27,12,24,2,81,0,79.5,16,Europe,47.22,-1.55
+Brussels Belgium,1139,57,10,22,1,81,4,80.8,17,Europe,50.85,4.35
+Amsterdam Netherlands,780,2,10,21,1,81,8,82.5,19,Europe,52.37,4.90
+Reykjavik Iceland,119,60,4,12,-2,81,12,80.8,19,Europe,64.13,-21.82
+Limerick Ireland,195,7,10.2,20,2.8,80.9,8,84,10.7,Europe,52.67,-8.63
+Lansing MI USA,114,256,9.1,28,-8.4,80.8,129.8,72.9,14.8,North America,42.73,-84.56
+Mysuru KA India,887,753,24.5,34.3,16.2,80.4,0,76.3,7.5,Asia,12.30,76.64
+Monaco Monaco,38,10,14.8,25,3,80.4,0,69.6,6.2,Europe,43.74,7.42
+Morelia MC Mexico,598,54,26.9,35.7,18.5,80.3,0,58,4.1,Latin America,19.71,-101.19
+Rotterdam Netherlands,610,3,10,21,1,80.2,5,82.5,17,Europe,51.92,4.48
+Venice Italy,260,6,12.7,27.5,-0.9,80.1,2,75.8,12,Europe,45.44,12.32
+Mazatlan SI Mexico,475,4,25,32,13,80,0,76.5,14,Latin America,23.25,-106.41
+Perth WA Australia,2039,20,18,31,7,80,0,64.6,16,Oceania,-31.95,115.86
+Mount_Pleasant MI USA,26,203,8.6,27.7,-9.1,80,105.4,67.5,15.3,North America,43.60,-84.77
+Zadar Croatia,170,3,14,27,3,80,2,72,7.8,Europe,44.12,15.23
+Mar_del_Plata Argentina,614,21,14.1,26.8,3.1,80,0,80.1,17,South America,-38.01,-57.54
+Quetzaltenango Guatemala,153,2376,12,26,2.3,80,0,72.3,3.1,Latin America,14.85,-91.53
+East_London South_Africa,267,131,18,25,10,80,0,68,11.2,Africa,-33.03,27.85
+Albany WA Australia,34,71,15,25,7,80,0,76,19,Oceania,-35.03,117.88
+Bournemouth England UK,183,10,10,22,1,80,1,81,15,Europe,50.72,-1.88
+Ouagadougou Burkina_Faso,2700,306,27,39.3,16.5,79.6,0,48,5.6,Africa,12.37,-1.52
+Fukuoka Japan,1483,11,16,31,2,79.6,105.4,68,12,Asia,33.59,130.40
+Lawton OK USA,97,338,17.1,36.3,-2.5,79.3,16,63,15.4,North America,34.60,-98.40
+Hyderabad TS India,7859,544,26.4,39,14.5,79,0,60.5,14,Asia,17.39,78.49
+Kaohsiung Taiwan,2779,44,22.2,32.2,12.8,79,0,81.3,7.4,Asia,22.63,120.30
+Kalamata Greece,51,7,17.8,31.3,5.7,79,0,67.9,5.3,Europe,37.04,22.11
+Cordoba Argentina,1330,473,17.3,29.3,4,79,0,69.2,11.5,South America,-31.42,-64.19
+Le_Havre France,175,103,11,18,3,79,1,85.5,25,Europe,49.49,0.11
+Sari Iran,296,30,17.9,32.2,4.3,78.9,0,73,4.2,Middle East,36.57,53.06
+Agrinio Greece,106,35,17.2,33.6,3.4,78.8,0,67.2,3.7,Europe,38.62,21.41
+Eau_Claire WI USA,68,270,7.1,28.3,-14.8,78.7,113.8,74,11.9,North America,44.81,-91.50
+Sheboygan WI USA,49,227,7.3,26.8,-11.4,78.7,117,73,12.9,North America,43.75,-87.71
+Hayward WI USA,2,366,5.2,27.7,-18.3,78.6,147.3,73.5,9,North America,46.01,-91.48
+Maribor Slovenia,94,264,9,24,-5,78.2,6,76.6,9,Europe,46.55,15.65
+Parma Italy,177,57,11,29,-2,78.1,2,68.2,4.8,Europe,44.80,10.33
+Marinette WI USA,11,181,7.5,28.1,-12.3,78,123.4,64,12.3,North America,45.10,-87.63
+Newcastle South_Africa,363,1194,17.5,28,3,78,0,61.5,8.7,Africa,-27.71,30.00
+Flint MI USA,100,233,8.6,27.5,-9.3,78,73.2,72.3,15,North America,43.01,-83.69
+Basel Switzerland,165,316,9.6,24.1,-1.9,77.8,36.9,76.5,9,Europe,47.56,7.59
+Kiel Germany,240,31,8,20,-1,77.8,3,77.5,17,Europe,54.32,10.12
+Grants_Pass OR USA,35,291,12.3,32.2,0.2,77.7,11.4,64.5,16.2,North America,42.44,-123.33
+Omaha NE USA,434,298,10.6,30.7,-10.2,77.7,67.1,69.8,15.9,North America,41.25,-96.00
+Minneapolis MN USA,400,254,7.9,28.6,-13.6,77.7,138.2,66.8,16.1,North America,44.98,-93.27
+Rhinelander WI USA,8,487,4.4,25.2,-17.9,77.7,158.2,79,10.5,North America,45.64,-89.41
+Jijiga Ethiopia,159,1645,18.9,30,11,77.6,0,68.5,10.8,Africa,9.36,42.80
+San_Antonio TX USA,1409,236,20.6,35.2,4.3,77.5,1.5,67.1,14.5,North America,29.42,-98.49
+Groningen Netherlands,190,-1,8.9,21.9,-0.8,77.4,8,82,11.9,Europe,53.22,6.57
+Brownwood TX USA,19,423,18.2,35.7,-1.1,77.2,2.8,60,12.1,North America,31.71,-98.99
+Waialua HI USA,4,1,22.8,30.1,16.1,77.1,0,69,17.5,North America,21.58,-158.13
+Hutchinson KS USA,42,470,13.3,33.4,-6.7,77,33.5,69,15.4,North America,38.06,-97.93
+Tripoli Greece,47,651,14.1,30.1,0.9,77,2,63,4.9,Europe,37.51,22.37
+Maputo Mozambique,1206,43,23,30,15,77,0,74.6,17,Africa,-25.89,32.61
+Sandpoint ID USA,7,648,7,28,-7,77,190,59,6.4,North America,48.28,-116.55
+Lyon France,484,200,11,26,0,77,2,71.7,16,Europe,45.76,4.84
+Enschede Netherlands,158,34,9,21,0,77,7,82,9.4,Europe,52.22,6.89
+Luxembourg,543,378,8,21,-1,77,6,78.8,16,Europe,49.82,6.13
+Truckee CA USA,16,1818,6.3,27.9,-9.7,76.6,512.3,58,8.2,North America,39.33,-120.18
+Appleton WI USA,74,233,7.3,27.7,-12.9,76.1,114.8,74.1,15.8,North America,44.26,-88.42
+Ahmedabad GJ India,5571,54,27.8,41.4,13.1,76,0,58,8,Asia,23.02,72.57
+Port_Huron MI USA,29,197,7,26,-8,76,107,72,14.5,North America,42.97,-82.42
+Dusseldorf Germany,594,40,10,23,0,76,2,79,8.9,Europe,51.23,6.77
+Oslo Norway,619,17,6,21,-7,76,4,77.9,9,Europe,59.91,10.75
+Kerrville TX USA,22,490,18.1,34.6,0.7,75.8,3.3,63,11.3,North America,30.05,-99.14
+Dublin Ireland,528,85,9.8,19.5,2.4,75.8,7,84.6,10.3,Europe,53.35,-6.26
+Ely MN USA,3,421,3.5,26.3,-21.5,75.7,164.1,71.4,8.7,North America,47.90,-91.87
+Huancayo Peru,323,3261,10.1,20,5,75.5,2,65.4,12.3,South America,-12.07,-75.21
+Detroit MI USA,689,192,10.2,28.6,-6.9,75.3,83.6,69,15.6,North America,42.33,-83.05
+Accra Ghana,2291,68,27,31,23,75,0,80.5,9,Africa,5.60,-0.19
+Nairobi Kenya,3138,1623,19,26,12,75,0,71.7,17,Africa,-1.29,36.82
+London England UK,8674,61,10.3,22.9,1,75,5,77.1,10.7,Europe,51.51,-0.13
+Hamburg Germany,1787,15,8,21,-1,75,5,79,16,Europe,53.55,9.99
+Aberdeen Scotland UK,212,64,8.6,18.5,0.6,75,2,84,16.3,Europe,57.15,-2.09
+Douglas Isle_of_Man,26,17,10.2,18.1,3.4,75,2,81,22.8,Europe,54.15,-4.49
+Ipiales Colombia,123,2950,12,16,5,75,0,68.5,4.7,South America,0.83,-77.64
+Green_Bay WI USA,105,207,6.8,26.6,-12.8,74.9,130.6,72.5,14.3,North America,44.52,-88.02
+Uzhgorod Ukraine,115,117,10.1,26.9,-4.8,74.8,6,72,9,Europe,48.62,22.29
+Toluca MX Mexico,489,2638,13.5,24,1.2,74.8,0,65,3.8,Latin America,19.28,-99.66
+Santa_Cruz CA USA,63,4,13.8,23.9,3.8,74.7,0,74.5,5.5,North America,36.97,-122.03
+Eleele HI USA,2,50,23.1,29.4,17.3,74.6,0,75,20.7,North America,21.91,-159.59
+Sulaymaniyah Iraq,1937,852,19,37,2,74.5,0,42.5,14,Middle East,35.56,45.44
+Fond_du_Lac WI USA,43,233,7.8,28.3,-12.6,74.5,100.3,73.5,14.1,North America,43.77,-88.45
+Guantanamo Cuba,511,118,25,33,20,74.2,0,72,8,Latin America,20.14,-75.21
+Saint_Johns Antigua,22,47,27,30,22,74,0,79.6,22,Latin America,17.13,-61.85
+Albury NSW Australia,51,179,15,30,2,74,0,75,10,Oceania,-36.07,146.91
+Latakia Syria,1890,7,19,28,8,74,0,69.2,12,Middle East,35.54,35.80
+Gothenburg Sweden,492,53,8,19,-1,74,7,80.5,19,Europe,57.71,11.97
+Victoria TM Mexico,278,327,23.4,35.2,10,73.8,0,62,6.4,Latin America,19.86,-90.49
+Tangier Morocco,948,21,17,28,8,73.7,0,75.5,28,Africa,35.76,-5.83
+Rome Italy,3906,3,15.5,28.7,3.7,73.3,0,74.8,14,Europe,41.90,12.50
+Nice France,343,10,16,27.7,5.3,73.3,0,72.9,12,Europe,43.71,7.26
+Algiers Algeria,3416,24,17,31,6,73,0,73,19,Africa,36.75,3.06
+Bay_City MI USA,34,182,8.6,28.5,-9.3,73,92.5,76,16.1,North America,43.59,-83.89
+Seki Azerbaijan,64,552,6.9,25.6,-11.5,73,8,62.1,33.7,Middle East,41.20,47.16
+Antwerp Belgium,503,14,10,22,1,73,6,80.8,16,Europe,51.22,4.40
+Stuttgart Germany,598,418,8,22,-2,73,2,75,12,Europe,48.78,9.18
+Limoges France,139,271,11.4,23.9,1.5,72.7,1,75,8,Europe,45.83,1.26
+Lisbon Portugal,531,122,17,27.8,8.1,72.6,0,73.8,16,Europe,38.72,-9.14
+Dryden ON Canada,8,372,2,23.7,-22.5,72.6,138.9,75,4.8,North America,49.78,-92.84
+Girona Spain,97,143,14.3,29.2,1,72.4,2,72,6.5,Europe,41.98,2.82
+Kaduqli Sudan,93,499,27,39,17,72.2,0,44,7.8,Africa,11.01,29.71
+Pamplona Spain,196,459,12.5,27.8,1.2,72.1,3,68,6.5,Europe,42.81,-1.65
+Buraydah Saudi_Arabia,614,649,24,41,7,72,0,31,12,Middle East,26.36,43.98
+Johannesburg South_Africa,4435,1699,16,25,5,72,0,61.3,14,Africa,-26.20,28.05
+Samsun Turkey,605,3,14,25,4,72,0,74.5,9,Middle East,41.28,36.34
+Escanaba MI USA,13,190,5.6,24.1,-13.1,72,125,71,13,North America,45.75,-87.06
+Ashland WI USA,8,203,4.9,26.7,-17.1,71.7,138.2,75.5,12.4,North America,46.59,-90.88
+Alpena MI USA,11,210,6.4,26.3,-11.4,71.6,214.1,73.6,12.7,North America,45.06,-83.43
+Kenora ON Canada,15,410,3.1,24.4,-20.5,71.5,164.1,78,13.7,North America,49.77,-94.49
+Parnu Estonia,40,10,4,21.7,-7.3,71.1,8,81,15.5,Europe,58.39,24.50
+Aurangabad MH India,1175,585,25,40,13,71,0,58,8.3,Asia,19.88,75.34
+Shenyang LN China,8106,42,8,28,-15,71,7,63,12,Asia,41.81,123.43
+George South_Africa,157,232,17.2,25,7.8,71,0,73.8,6.3,Africa,-33.99,22.45
+Vladivostok Russia,599,138,4.4,23.3,-15.3,71,7,71,21.6,Asia,43.12,131.89
+Ostrava Czech_Republic,297,256,8,22,-3,71,4,75.5,17,Europe,49.82,18.26
+Lappeenranta Finland,59,1,4.1,21.1,-12.2,71,14,82.1,6,Europe,61.05,28.19
+Cuenca Ecuador,332,2527,14,21,7,71,0,75,5.2,South America,-2.90,-79.01
+Wichita_Falls TX USA,105,315,17.8,36.2,-1.2,70.8,12.2,62.3,18.2,North America,33.91,-98.49
+Bologna Italy,376,39,13.2,29.9,-1.5,70.8,1,73.6,6,Europe,44.49,11.34
+Houghton MI USA,8,334,4.7,24.1,-12.9,70.6,527.6,77,14.2,North America,47.12,-88.57
+Mekele Ethiopia,220,2076,21,27,15,70.5,0,60,6.3,Africa,13.49,39.47
+Pune MH India,3115,559,24,37.9,11.6,70.4,0,60,9.4,Asia,18.52,73.86
+Sioux_City IA USA,82,336,9.2,29.7,-12.1,70.4,53.9,71.1,17.1,North America,42.50,-96.40
+Saint_Cloud MN USA,66,313,6.1,27.9,-16.8,70.4,116.1,71.1,14.5,North America,45.56,-94.16
+Potiskum Nigeria,206,421,26.9,40,14,70.3,0,44.4,11.6,Africa,11.71,11.08
+Bolzano Italy,103,240,11.6,29.2,-5.4,70.2,2,69.3,9,Europe,46.50,11.35
+Grand_Marais MN USA,2,554,2.9,25.4,-21.2,70.1,161.3,72,9.7,North America,47.75,-90.33
+Delhi DL India,16788,215,25.2,39.8,7.8,70,0,62.9,9,Asia,28.70,77.10
+Enid OK USA,51,398,15,33,-3,70,28,67.8,17.7,North America,36.40,-97.88
+Pretoria South_Africa,2927,1299,18,27,6,70,0,58.3,9,Africa,-25.75,28.23
+Mount_Gambier SA Australia,25,63,13,25,5,70,0,74.5,17,Oceania,-37.83,140.78
+Eindhoven Netherlands,216,21,9,22,0,70,6,81,9.1,Europe,51.44,5.47
+Malmo Sweden,342,106,7,20,-2,70,8,81.6,20,Europe,55.60,13.00
+Lincoln NE USA,269,362,11.4,32.8,-10,69.8,68.6,68.1,15.9,North America,40.83,-96.69
+Minsk Belarus,1960,224,5.5,21,-7,69.8,8,78,10.4,Europe,53.90,27.56
+Ponce PR USA,164,1111,26,31,21,69.7,0,75,15,North America,18.01,-66.61
+Santarem Portugal,62,59,16,30.2,4.9,69.7,0,78,7.5,Europe,39.28,-8.70
+Kaluga Russia,329,200,4.4,23.2,-12.2,69.7,30,77.7,10.6,Asia,54.55,36.29
+Brownsville TX USA,182,5,23.6,34.7,10.9,69.6,0,77.1,16.9,North America,25.90,-97.50
+Brainerd MN USA,14,373,4.8,27,-20.3,69.6,115.1,68.5,11.3,North America,46.35,-94.20
+Rennes France,207,36,12.1,24.5,3,69.4,1,81,8.9,Europe,48.12,-1.68
+Tallinn Estonia,408,43,5.5,21.2,-7.5,69.3,7,81,14,Europe,59.44,24.75
+Belgrade Serbia,1167,99,12.5,28.7,-1.1,69.1,4,68,16,Europe,44.79,20.45
+Oaxaca OA Mexico,255,1594,19,33.2,9,69,0,65,5.4,Latin America,17.07,-96.73
+Chillan Chile,164,129,14,30,3,69,0,71,4.6,South America,-36.61,-72.10
+Salta Argentina,535,1215,16.6,27.5,3.4,69,0,73.8,7.4,South America,-24.78,-65.42
+Dijon France,151,221,10,25,-1,69,3,74,7.4,Europe,47.32,5.04
+Launceston TAS Australia,87,165,11,23,2,69,0,74.5,20,Oceania,-41.43,147.14
+Frankfurt Germany,688,113,10,23,-1,69,3,78,14,Europe,50.11,8.68
+Kiev Ukraine,2804,124,7,23,-9,69,8,75.8,17,Europe,50.45,30.52
+Bremen Germany,546,4,8,21,-1,69,4,79.5,17,Europe,53.08,8.80
+Kaliningrad Russia,437,27,7.1,21,-5,69,9,79,14,Asia,54.71,20.45
+Le_Mans France,143,52,5,25.5,1.8,68.8,1,78.5,12,Europe,48.01,0.20
+Port_Angeles WA USA,19,88,9,20.3,0.2,68.8,21.8,75.5,7.3,North America,48.12,-123.43
+Red_Lake ON Canada,5,386,1.3,23.8,-23.9,68.6,213.6,72,11.4,North America,51.01,-93.83
+Sukhumi Georgia,63,12,14,26,2,68.1,2,77.5,9,Middle East,43.00,41.02
+Izmir Turkey,3112,4,16,32,3,68,0,64.5,16,Middle East,38.42,27.14
+Zloven Slovakia,43,317,8,24,-6,68,5,74.5,9,Europe,48.58,19.14
+Linkoping Sweden,139,57,10,20,-5,68,6,78,4.8,Europe,58.41,15.62
+Grand_Island NE USA,51,561,10.4,30.9,-9.8,67.8,73.7,68.8,18.2,North America,40.93,-98.34
+Srinagar JK India,1273,1663,13.3,30.3,-2.3,67.6,1,73,4.2,Asia,34.08,74.80
+Bemidji MN USA,14,425,3.7,25.2,-20.3,67.6,112,67,13.8,North America,47.49,-94.89
+Mogilev Belarus,365,192,5.4,23.6,-8.5,67.6,9,80,14,Europe,53.90,30.33
+Sumy Ukraine,268,174,7,23,-9,67.5,25,77,16,Europe,50.91,34.80
+Pescara Italy,117,10,14.3,28.9,1.7,67.4,0,72.6,12,Europe,42.46,14.22
+Liverpool England UK,466,25,10.5,20,3,67.2,3,75,17,Europe,53.41,-2.99
+Zakho Iraq,350,454,17.7,37.4,-1,67.1,1,50.2,6.8,Middle East,37.15,42.67
+Sioux_Falls SD USA,165,432,7.7,28.9,-13.9,67.1,113,66.5,16.7,North America,43.54,-96.73
+Willmar MN USA,20,347,6.3,28.3,-17.1,67.1,115.3,79,13.6,North America,45.12,-95.05
+Salina KS USA,48,405,13,34,-7,67,62,64,18.5,North America,38.84,-97.61
+Bursa Turkey,2340,99,14,30,1,67,0,71.5,8,Middle East,40.19,29.06
+Gweru Zimbabwe,92,1428,18,27,6,67,0,64.5,17,Africa,-19.47,29.81
+Birmingham England UK,1101,99,9,20,1,67,5,78,16,Europe,52.49,-1.89
+Baranovichi Belarus,170,193,6.1,23.9,-6.6,66.7,6.5,79,13.7,Europe,53.13,26.01
+Pskov Russia,205,42,5.1,23.6,-9.1,66.6,28,80,8.6,Asia,57.82,28.33
+Vitebsk Belarus,348,175,5.1,23.5,-8.5,66.5,10,79,13,Europe,55.18,30.20
+Norfolk NE USA,25,463,9.2,31.7,-12.4,66.4,70.4,68.1,17.4,North America,42.03,-97.41
+Duluth MN USA,86,435,4.6,23.4,-16.1,66.2,101.1,71.6,16.4,North America,46.79,-92.10
+Porlamar Venezuela,145,18,27,31,24,66.1,0,84.5,25,South America,10.96,-63.87
+Vientiane Laos,210,170,26,33,17,66,0,72.1,6,Asia,17.98,102.63
+Cabinda Angola,598,24,25,30,18,66,0,81,6.2,Africa,-5.58,12.19
+Ajaccio Corsica,66,9,15.5,28.9,4.1,66,0,78,9,Europe,41.92,8.74
+Sibiu Romania,426,409,8,26,-8,66,8,79,4.6,Europe,45.80,24.13
+Lviv Ukraine,724,324,7.8,23.9,-6.1,66,5,78,12.2,Europe,49.84,24.03
+Dresden Germany,525,256,8,22,-3,66,6,79,8.8,Europe,51.05,13.74
+Kaunas Lithuania,309,74,6,21,-6,66,7,81.3,16,Europe,54.90,23.90
+Edinburgh Scotland UK,495,41,9.1,19.2,1.1,66,3,80,15.6,Europe,55.95,-3.19
+Puerto_Baquerizo Galapagos,7,15,24.8,30.6,18.3,65.7,0,80,7.8,South America,-0.91,-89.61
+Orsa Belarus,117,192,5.1,21,-9,65.6,10,80,12.6,Europe,54.51,30.41
+Osijek Croatia,108,89,11,26,-2,65.5,4,75.5,8,Europe,45.55,18.70
+Juliaca Peru,217,3834,8,18.8,-7.5,65.5,5,56.7,12.1,South America,-15.50,-70.13
+Vilnius Lithuania,535,156,6,22,-8,65.4,7,78.5,11.1,Europe,54.69,25.28
+Kayes Mali,127,46,30,40,18,65.3,0,48.5,9,Africa,14.44,-11.45
+Leon GT Mexico,1239,1818,19.6,31.5,7.2,65.3,0,66,7,Latin America,21.13,-101.69
+McCall ID USA,3,1533,4.8,26.7,-10.8,65.3,344.7,59.5,7.4,North America,44.91,-116.12
+Potenza Italy,66,843,11.3,25,0.8,65.1,0,70.6,6.4,Europe,40.64,15.81
+Barcelona Venezuela,326,7,27,32,21,65,0,74.6,16,South America,10.14,-64.68
+Lahti Finland,103,25,4.1,22.2,-12.2,65,15,82.1,4.7,Europe,60.98,25.66
+Patras Greece,167,3,17.9,30.9,6.1,64.8,0,65.6,4.6,Europe,38.25,21.73
+Coimbatore TN India,1601,398,26.7,36.2,18.1,64.7,0,73,16,Asia,11.02,76.96
+Novi_Sad Serbia,252,80,11.4,28.3,-3.1,64.7,3,74,6.4,Europe,45.27,19.83
+Cherepovets Russia,316,131,3.3,23.1,-15,64.7,26.4,81,9.7,Asia,59.13,37.91
+Hooper_Bay AK USA,1,13,-1.7,11.7,-13.2,64.7,173.2,77.9,23.5,North America,61.53,-166.10
+Tunja Colombia,192,2828,13.2,19.3,7.2,64.6,0,69,3.7,South America,5.54,-73.36
+Nizhniy_Novgorod Russia,1257,161,3.8,24.7,-11.8,64.4,22,76,10.1,Asia,56.30,43.94
+Dillingham AK USA,2,26,1.3,16.2,-12.5,64.3,230.9,73,13.5,North America,59.04,-158.46
+Coeur_d_Alene ID USA,46,706,8.9,29.4,-5.5,64.1,117.3,59,12.1,North America,47.68,-116.78
+Adana Turkey,1737,66,18,33,4,64,0,64,12,Middle East,36.99,35.33
+Jinan SD China,4694,57,15,31,-3,64,1,57,14,Asia,36.66,117.02
+Barcelona Spain,1602,6,15.5,28,4.4,64,0,72,12,Europe,41.39,2.17
+Istanbul Turkey,14025,36,14,27,2,64,0,74.6,17,Middle East,41.01,28.98
+Lille France,228,52,10.8,23.3,1.2,64,1,81,17,Europe,50.63,3.06
+Christchurch NZ,366,34,11.6,22.6,0.6,64,2,77.5,14.8,Oceania,-43.53,172.64
+Kuopio Finland,91,98,2,21,-12,64,12,82,5.8,Europe,62.90,27.68
+Cuzco Peru,349,3248,12,20,1,64,0,62,17,South America,-13.53,-71.97
+Copenhagen Denmark,562,4,8,20,-2,64,18,82.9,20,Europe,55.68,12.57
+Inverness Scotland UK,47,9,8,17,1,64,3,78,16,Europe,57.48,-4.22
+Toulouse France,442,163,13.8,28,2.4,63.8,0.5,74,7,Europe,43.60,1.44
+Alexandria MN USA,12,434,5.7,27.1,-17.1,63.8,107.4,77,16.8,North America,45.88,-95.38
+Paris France,2230,96,12.4,25.2,2.7,63.7,1,79.2,16,Europe,48.86,2.35
+Hibbing MN USA,16,445,3.2,25.4,-20.7,63.4,153.7,79,12.9,North America,47.43,-92.94
+Daugavpils Latvia,89,121,6,21,-8,63.4,8,80,14,Europe,55.87,26.54
+Woodward OK USA,13,58,15.2,35.3,-5.4,63.1,40.9,59,19.3,North America,36.43,-99.39
+Babruysk Belarus,217,157,5.9,24.4,-7.8,63.1,8,79,12.2,Europe,53.14,29.22
+Annaba Algeria,257,3,17,30,7,63,0,74,17,Africa,36.93,7.75
+Beijing BJ China,21516,54,12,30,-8,63,2,57,12,Asia,39.90,116.41
+Marshall MN USA,14,359,6,29,-15,63,93,69,18.7,North America,44.45,-95.79
+Mexico_City DF Mexico,8974,2233,17,26,7,63,0,58,16,Latin America,19.43,-99.13
+Gomel Belarus,483,138,6.2,25.1,-7.1,63,6,77,12.2,Europe,52.44,30.99
+Pecs Hungary,149,202,11,25,-2,63,3,70.5,9,Europe,46.07,18.23
+Helsinki Finland,600,56,5,21,-9,63,12,79.6,16,Europe,60.17,24.94
+Aarhus Denmark,320,24,7,20,-2,63,16,85.4,19,Europe,56.16,10.20
+Joensuu Finland,58,118,2,20,-13,63,10,82,5.8,Europe,62.60,29.76
+Montpellier France,257,4,15.1,29.3,2.8,62.9,13,70,8.6,Europe,43.61,3.88
+Chernihiv Ukraine,290,136,7,23,-8,62.8,18,78.5,17,Europe,51.50,31.29
+Chernivtsi Ukraine,255,246,7,24,-7,62.1,4,76,21.2,Europe,48.29,25.94
+Rajkot GJ India,1287,133,26,40,10,62,0,56,8.8,Asia,22.30,70.80
+Kona HI USA,12,5,23,29,18,62,0,72,13.8,North America,19.64,-156.00
+Timisoara Romania,306,102,11,28,-5,62,4,82,6.3,Europe,45.75,21.21
+Canberra ACT Australia,357,570,12,27,1,62,1,67.5,17,Oceania,-35.28,149.13
+Budapest Hungary,1759,185,10,26,-3,62,3,70.4,16,Europe,47.50,19.04
+Ljubljana Slovenia,272,361,8,25,-5,62,6,81.3,6,Europe,46.06,14.51
+Strasbourg France,272,153,10,24,-1,62,3,77,12,Europe,48.57,7.75
+Karlstad Sweden,62,46,6,22,-7,62,7,74,5.7,Europe,59.40,13.51
+Liege Belgium,196,198,9,21,-1,62,5,78,9.3,Europe,50.63,5.58
+Turku Finland,179,59,5,20,-8,62,10.5,80,12,Europe,60.45,22.27
+Istaravshan Tajikistan,199,981,12.5,31,-4,61.9,2,55.2,10.4,Asia,39.88,69.03
+Kragujevac Serbia,151,182,11.6,28.8,-2.6,61.9,3,72,5.4,Europe,44.01,20.91
+Rostov Russia,1100,102,3.9,23.4,-14.1,61.8,19.7,79.7,8.2,Asia,57.20,39.41
+Hays KS USA,21,608,12,33,-8,61.7,30.2,66,17.7,North America,38.88,-99.33
+Pinsk Belarus,135,143,6.9,22,-6,61.7,7.7,79,12.6,Europe,52.11,26.06
+Homer AK USA,5,18,3.7,16.2,-7.3,61.7,120.4,80,12.6,North America,59.64,-151.55
+International_Falls MN USA,7,359,3.1,25.4,-21.4,61.5,180.3,71.7,12.9,North America,48.60,-93.40
+Palermo Sicily Italy,656,34,18.5,28.8,10.1,61.1,0,71.5,19,Europe,38.12,13.36
+Jaipur RJ India,3073,389,25.4,40.3,8.2,61,0,50,8,Asia,26.91,75.79
+Chico CA USA,88,72,15,36,2,61,3.8,55,8,North America,39.73,-121.84
+Dire_Dawa Ethiopia,607,1161,24,35,15,61,0,62,7.9,Africa,9.60,41.85
+Avignon France,91,56,14,30,1,61,2,74,8.8,Europe,43.95,4.81
+Mankato MN USA,41,306,8,30,-16,61,93,74,15.3,North America,44.16,-94.00
+Dalian LN China,6690,96,11,26,-6,61,2,65,20,Asia,28.98,117.16
+Changchun JL China,3368,238,5,26,-19,61,3,64.5,17,Asia,39.88,116.32
+Kharbarovsk Russia,590,71,2,25,-23,61,30.2,69.5,19,Asia,48.52,135.10
+Nuremberg Germany,495,318,8,23,-3,61,5,76,8,Europe,49.45,11.08
+Kosice Slovakia,240,231,8,23,-5,61,6,73.5,19,Europe,48.72,21.26
+Jyvaskyla Finland,133,139,3,22,-12,61,10.5,83,5.2,Europe,62.24,25.75
+Lodz Poland,722,188,8,21,-4,61,8,80.4,16,Europe,51.76,19.46
+Ternopil Ukraine,216,324,7,21,-7,61,4,79.5,17,Europe,49.55,25.59
+Tartu Estonia,104,59,5.2,21,-8,61,9,80,14,Europe,58.38,26.73
+Abilene TX USA,120,543,18.1,34.8,1.2,60.8,13.2,59.8,17.7,North America,32.45,-99.73
+Brest Belarus,324,143,7.3,24.9,-4.9,60.8,6,78,10.8,Europe,52.10,23.73
+Kaolack Senegal,411,1,28,37.2,15.2,60.6,0,55.5,19.1,Africa,14.17,-16.08
+Iron_Mountain MI USA,8,349,5.2,26.3,-15.1,60.5,139,70.7,10.4,North America,45.82,-88.07
+Steamboat_Springs CO USA,12,2108,3.8,28.1,-17.3,60.4,423.4,54,4.8,North America,40.48,-106.83
+Sion Switzerland,29,481,9.2,26.1,-3.8,60.3,7,72,8.3,Europe,46.23,7.36
+Vinnytsia Ukraine,370,298,9,24,-8,60.2,4,77,13,Europe,49.23,28.47
+Kielce Poland,201,260,7,22,-5,60.1,6,79.5,14,Europe,50.87,20.63
+Tambacounda Senegal,79,49,29,39,18,60,0,48.5,9,Africa,13.77,-13.67
+Batman Turkey,382,533,15,38,-2,60,2,58,4.6,Middle East,37.89,41.13
+Kearney NE USA,32,649,10,32,-11,60,71,64,18,North America,40.70,-99.08
+Welkom South_Africa,211,1340,16,30,-1,60,1,56,6.9,Africa,-28.00,26.77
+Rundu Namibia,63,1099,22,29,7,60,0,54,14,Africa,-17.93,19.75
+Bitola Macedonia,72,588,11,27,-4,60,3,68,8,Europe,41.03,21.33
+Oradea Romania,202,139,10,25,-3,60,2,79,16,Europe,47.05,21.92
+Port_Elizabeth South_Africa,1152,60,18,24,10,60,0,77.5,25,Africa,-33.71,25.52
+Thunder_Bay ON Canada,108,199,3,23,-20,60,108,79,6.5,North America,48.38,-89.25
+Hannover Germany,514,54,8,22,-2,60,3,81,9.3,Europe,52.38,9.73
+Orebro Sweden,130,31,6.4,21.7,-5.6,60,6.7,77,4.4,Europe,59.28,15.21
+Hobart TAS Australia,206,2,12,21,4,60,0,64,9.7,Oceania,-42.88,147.33
+Skovde Sweden,34,104,6,21,-5,60,8,77,13,Europe,58.39,13.85
+Siauliai Lithuania,107,107,6,20,-6,60,6,79.5,12,Europe,55.93,23.31
+Kuusamo Finland,16,263,1,20,-17,60,8,79,4.9,Europe,65.96,29.19
+Nuuk Greenland,17,47,-1,9,-11,60,6,83.3,27,North America,64.18,-51.69
+Sedona AZ USA,10,1471,8,27.8,-9.1,59.9,192.3,39,10.9,North America,34.87,-111.76
+Jerez Spain,212,29,17.7,33.1,5.4,59.8,0,67,20,Europe,36.69,-6.13
+Pristina Kosovo,477,575,9.8,26.7,-4.9,59.8,7,71,9,Europe,42.66,21.17
+Grodno Belarus,350,137,6.5,23.9,-5.8,59.6,5,80,14,Europe,53.67,23.81
+Prince_George BC Canada,74,691,4.3,22.4,-11.7,59.5,205.1,77,9.6,North America,53.92,-122.75
+Monterrey NL Mexico,1131,495,22.3,34.8,8,59.1,0,66.5,17,Latin America,25.69,-100.32
+Edirne Turkey,166,47,13,30,0,59,1,76,8.5,Middle East,41.68,26.56
+Kazan Russia,1169,61,3.6,25,-15,59,8,78.3,8.5,Asia,55.83,49.07
+Orleans France,114,125,10,24,-1,59,4,78,8.3,Europe,47.90,1.91
+Cluj Napoca Romania,303,413,8,23,-6,59,4,78,8,Europe,46.77,23.62
+Kirov Russia,481,163,2,23,-17,59,11.1,76,4.5,Asia,58.60,49.67
+Tampere Finland,216,92,3,22,-11,59,7,78,4.9,Europe,61.50,23.76
+Middlesbrough England UK,138,36,9.5,21,2,59,4,76,18,Europe,54.57,-1.23
+Moscow Russia,11920,189,4,21,-11,59,24,80.8,16,Asia,55.76,37.62
+Petrozavodsk Russia,267,39,2,19,-15,59,26,79,5.8,Asia,61.78,34.36
+Ufa Russia,1075,104,3,24,-16,58.9,23.5,75,17,Asia,54.74,55.97
+Bari Italy,314,43,15.7,28.4,5,58.6,0,70.6,12,Europe,41.12,16.87
+Vladimir Russia,347,170,4.7,24.3,-11.5,58.4,25,79,12.6,Asia,56.14,40.42
+Balikesir Turkey,333,102,14,30,1,58.3,1,69.5,19,Middle East,39.65,27.89
+Huron SD USA,13,390,7.8,30,-14.1,58.2,111.5,71.2,16.9,North America,44.36,-98.21
+Craiova Romania,294,195,11,27,-4,58.2,3,79.5,19,Europe,44.33,23.79
+Ndjamena Chad,1092,295,28,39,17,58,0,44.6,12,Africa,12.13,15.06
+Nis Serbia,187,202,11.9,30.1,-2.2,58,2,70,8,Europe,43.32,21.90
+Perpignan France,117,47,15.7,29.2,4.4,58,3,66.5,25,Europe,42.69,2.89
+Marseille France,851,35,15,28,2,58,5,69.6,22,Europe,43.30,5.37
+Bucharest Romania,1913,90,11,27,-5,58,4,77.1,12,Europe,44.43,26.10
+Bratislava Slovakia,414,129,10,26,-3,58,4,73.8,14,Europe,48.15,17.11
+Cape_Town South_Africa,3740,42,17,25,8,58,0,74.2,25,Africa,-33.92,18.42
+Wroclaw Poland,631,120,8,22,-3,58,6,77.5,16,Europe,51.11,17.04
+Vaxjo Sweden,65,167,7.1,21.1,-3.9,58,5,78,4.9,Europe,56.88,14.81
+Bialystok Poland,295,150,6,21,-6,58,6,81.7,12,Europe,53.13,23.17
+Aalborg Denmark,203,3,7,20,-2,58,15,80.5,20,Europe,57.05,9.92
+La_Paz Bolivia,790,4012,7,15,-1,58,4,64.6,14,South America,-16.49,-68.12
+Birobidzhan Russia,84,80,3.6,26.6,-30.3,57.9,32,72.6,6.7,Asia,48.78,132.91
+Matamoros TM Mexico,450,32,23,36.6,6.6,57.8,0,78,9.6,Latin America,25.83,-97.50
+Reynosa TM Mexico,589,32,23,36.6,6.6,57.8,0,78,9.4,Latin America,27.47,-99.51
+O_Neill NE USA,4,613,9.1,31.6,-12.3,57.8,77.2,70,17.5,North America,42.46,-98.65
+Rhodes Greece,90,10,19.1,30.7,8.8,57.8,0,65.6,8.7,Europe,36.43,28.22
+Malindi Kenya,207,22,26,30,22,57.8,0,78.5,17,Africa,-3.22,40.12
+Rovaniemi Finland,58,101,0.6,19.4,-15.1,57.7,11,82,4.4,Europe,66.50,25.73
+Bulawayo Zimbabwe,653,1325,20,28,9,57.6,0,58,17,Africa,-20.13,28.63
+Poprad Slovakia,55,704,6.3,22.1,-8.4,57.6,7,77.9,5,Europe,49.05,20.30
+Fargo ND USA,114,274,5.8,28.1,-17.7,57.4,127.3,70.2,18,North America,46.88,-96.79
+Beja Portugal,36,247,15,32.8,5.3,57.2,0,77,7.6,Europe,38.02,-7.86
+Burgos Spain,178,891,9,26.7,-1.2,57.2,1,72,8.2,Europe,42.34,-3.70
+Bizerte Tunisia,568,3,17,31,7,57,0,73.5,17,Africa,37.27,9.86
+Xian SX China,4468,397,13,30,-3,57,3,68,8,Asia,34.66,109.23
+Almaty Kazakhstan,1365,846,10,30,-8.4,57,8,62,3.6,Asia,43.22,76.85
+Sofia Bulgaria,1211,594,10,25,-3,57,5,72.5,14,Europe,42.70,23.32
+Debrecen Hungary,205,111,10,25,-4,57,3,76.3,8,Europe,47.53,21.63
+Perm Russia,1007,171,1.8,24.2,-16.2,57,27,76,10.8,Asia,58.03,56.27
+Sucre Bolivia,300,2902,15,21,7,57,0,57.9,17,South America,-19.02,-65.26
+Krakow Poland,759,236,7,21,-5,57,6,80,14,Europe,50.06,19.94
+Corlu Turkey,273,183,12,28,1,56.8,0,64,8.2,Middle East,41.16,27.81
+Samara Russia,1170,136,4.9,26.6,-17.2,56.7,25,72.1,11.7,Asia,53.24,50.22
+Lipetsk Russia,509,176,5.1,23.7,-15.5,56.7,25,70.5,8.8,Asia,52.61,39.60
+Berlin Germany,3671,47,9,22,-3,56.6,2,75.5,16,Europe,52.52,13.40
+Vanadzor Armenia,105,1579,4.2,23.8,-18,56.5,6,50,5.1,Middle East,40.81,44.50
+McAllen TX USA,137,32,24.2,36.7,10.4,56.4,0,72,17.1,North America,26.20,-98.23
+Thief_River_Falls MN USA,9,339,3.3,26.7,-23.1,56.2,93.7,73.5,16.3,North America,48.12,-96.18
+Watertown SD USA,22,532,6.1,28.1,-16.1,56.1,91.2,75,18.1,North America,44.90,-97.12
+Odense Denmark,194,17,8,21,-1,56.1,12,80,20,Europe,55.40,10.40
+Constantine Algeria,448,693,15,32,2,56,0,65.5,14,Africa,36.36,6.64
+Dodoma Tanzania,411,1120,22,31,12,56,0,62,8.7,Africa,-6.16,35.75
+Krasnodar Russia,774,28,11.3,29.9,-3.8,56,18,74,12.2,Asia,45.04,38.99
+Isparta Turkey,223,996,11,29,-2,56,1,62.5,6,Middle East,37.76,30.55
+Melbourne VIC Australia,4530,131,14,26,5,56,0,71,22,Oceania,-37.81,144.96
+Miskolc Hungary,164,119,8,26,-6,56,5,79,6,Europe,48.10,20.78
+Drayton_Valley AB Canada,7,843,3.7,22.9,-15.9,56,157.1,63,5.8,North America,53.22,-114.98
+Rivne Ukraine,247,234,7,22,-6,56,3,78.5,17,Europe,50.62,26.25
+Riga Latvia,644,3,6,20,-6,56,5,80.4,17,Europe,56.95,24.11
+Gaziantep Turkey,1556,854,15,34,0,55.8,2,55.5,17,Middle East,37.07,37.38
+Leon Spain,130,916,10.9,27.2,-0.8,55.6,1,68,7.1,Europe,42.60,-5.57
+Jerusalem Israel,809,758,16,29.4,6.4,55.4,0,63.8,16,Middle East,31.77,35.21
+Warroad MN USA,2,325,3,25.9,-22.8,55.4,95.2,76,12.8,North America,48.91,-95.31
+Alexandroupolis Greece,73,3,15,30.3,1.3,55.3,1,67.6,7.1,Europe,40.85,25.87
+Maiduguri Nigeria,1112,353,27,35,20,55.2,0,45.5,7.1,Africa,11.83,13.15
+Aberdeen SD USA,27,399,6.1,28.6,-16.9,55.1,96.8,72.1,17.4,North America,45.46,-98.49
+Magadan Russia,95,117,-3.2,14.8,-18.5,55.1,19,72,13,Asia,59.56,150.83
+Broome WA Australia,15,17,26,34,13,55,0,63,14,Oceania,-17.96,122.24
+Bahia_Blanca Argentina,302,82,15.1,30.8,2.6,55,0,67.6,22.5,South America,-38.72,-62.27
+Bloemfontein South_Africa,256,1347,16,30,1,55,0,52.1,16,Africa,-29.09,26.16
+Plovdiv Bulgaria,339,185,12,29,-2,55,5,71,20,Europe,42.14,24.75
+Harbin HLJ China,4281,142,4,27,-23,55,3,66,16,Asia,45.80,126.53
+Burgas Bulgaria,199,28,12,26,-1,55,4,78.8,17,Europe,42.50,27.46
+Mannheim Germany,295,93,11,25,1,55,4,75.5,17,Europe,49.49,8.47
+Chongjin North_Korea,615,42,8,25,-8,55,2,70,8,Asia,41.77,129.72
+Bryansk Russia,412,217,5,21,-10,55,24,78,17,Asia,53.26,34.42
+Dodge_City KS USA,28,786,13,33.8,-6.6,54.9,53.6,62.4,21.4,North America,37.75,-100.02
+Vienna Austria,1864,177,11.4,26.7,-0.8,54.8,55,72,14,Europe,48.21,16.37
+Catania Sicily Italy,292,17,17.3,32,5.3,54.7,0,69.9,12,Europe,37.51,15.08
+La_Paz BS Mexico,215,2248,16.4,27.4,3.9,54.7,0,60,6.4,Latin America,24.14,-110.31
+Penza Russia,320,174,4.5,26.4,-15,54.5,20,76,15.1,Asia,53.23,45.00
+Uppsala Sweden,186,41,5,21.1,-7.2,54.5,7.5,82.9,4.6,Europe,59.86,17.64
+Winner SD USA,3,600,9.7,32.3,-11.6,54.4,104.9,66,20.1,North America,43.38,-99.86
+Stanley Falkland_Islands,3,72,6,14,0,54.4,0,78.5,27,South America,-51.70,-57.85
+Al_Baydah Libya,250,625,17,29.6,5.8,54.3,0,60.4,13,Africa,32.76,21.74
+Blagoveshchensk Russia,217,136,1.6,27.3,-26.2,54.3,28,67,7.2,Asia,50.27,127.54
+Niamey Niger,1303,227,29,40,17,54.1,0,41,16,Africa,13.51,2.13
+Culiacan SI Mexico,609,50,24,35,10,54,0,65,5,Latin America,24.81,-107.39
+Santiago_del_Estero Argentina,245,199,20.4,33.9,5.6,54,0,67.1,8.9,South America,-27.78,-64.26
+Cucuta Colombia,650,316,26,32,21,54,0,65,5.1,South America,7.89,-72.50
+Willemstad Curacao,150,67,28,31,24,54,0,80.4,25,South America,12.12,-68.88
+Esmeraldas Ecuador,162,7,26,28,23,54,0,84.5,8,South America,0.97,-79.65
+Pleven Bulgaria,105,71,11,28,-3,54,5,79.5,17,Europe,43.42,24.61
+Rabat Morocco,578,74,17,26,7,54,0,73,9,Middle East,33.97,-6.85
+Warsaw Poland,1711,106,8,22,-4,54,5,80,17,Europe,52.23,21.01
+Jonkoping Sweden,123,99,6,21,-5,54,5,77,4.8,Europe,57.78,14.16
+Shymkent Kazakhstan,567,513,12.7,34,-5,53.9,6,57.2,9,Asia,42.34,69.59
+Usak Turkey,500,918,12,28,-1,53.9,2,65,8,Middle East,38.67,29.41
+Dnipropetrovsk Ukraine,988,142,9,28,-6.3,53.9,5,75,16.2,Europe,48.46,35.05
+Stockholm Sweden,789,60,6,21,-6,53.9,8,77,14,Europe,59.33,18.07
+Haifa Israel,271,9,20,31.4,8.9,53.8,0,66.3,19,Middle East,32.79,34.99
+Lublin Poland,348,239,7,21,-5,53.8,5,80,14,Europe,51.25,22.57
+San_Francisco CA USA,837,39,14.1,19.3,7.6,53.8,0,74,13,North America,37.77,-122.42
+Cordoba Spain,327,90,17.6,36.2,3.7,53.6,0,62,6.1,Europe,37.89,-4.78
+Quesnel BC Canada,10,545,5.5,24.1,-10.8,53.6,162.1,77,5.9,North America,52.98,-122.49
+Seville Spain,697,31,18.6,35.3,5.2,53.4,0,61,14,Europe,37.39,-5.98
+Aguascalientes AG Mexico,723,1870,18.5,30.7,4.5,53.1,0,58,6.5,Latin America,21.89,-102.29
+Dushanbe Tajikistan,756,823,15,35,0,53,1,56,4.6,Asia,38.56,68.79
+Tel_Aviv Israel,2979,49,20,31,7,53,0,68.8,12,Middle East,32.09,34.78
+Valletta Malta,423,91,18,30,9,53,0,75.8,17,Europe,35.90,14.51
+Spearfish SD USA,11,1138,8.4,29.5,-9.9,53,155.4,63.5,14.6,North America,44.49,-103.86
+Polokwane South_Africa,130,1315,18.8,28.9,5,53,0,60.4,6.9,Africa,-23.90,29.45
+Simferopol Ukraine,332,204,10,26,-2,53,1,71.5,19,Europe,44.95,34.10
+Geelong VIC Australia,180,17,14,25,5.2,53,0,66.5,10.6,Oceania,-38.15,144.36
+Szczecin Poland,409,3,8,22,-2,53,3,83.3,14,Europe,53.43,14.55
+Vasteras Sweden,133,31,6,21,-6,53,6,78.3,14,Europe,59.61,16.54
+Saint_Petersburg Russia,4991,20,4.1,21,-9,53,21,80.4,12,Asia,59.93,30.34
+Gavle Sweden,71,14,4,20,-8,53,7,78,5.8,Europe,60.67,17.14
+Umea Sweden,112,14,2,18,-12,53,8,80.4,12,Europe,63.83,20.26
+Durango DU Mexico,464,1900,16.9,30.4,1.3,52.9,0,64,5.9,Latin America,24.56,-104.66
+Balti Moldova,145,161,9.2,26.2,-7.5,52.9,4,72,7.6,Europe,47.75,27.92
+Plzen Czech_Republic,167,363,8,22,-3,52.9,5,76.5,16,Europe,49.74,13.37
+Nuevo Laredo TM Mexico,374,129,22.8,36.8,6.4,52.8,0,61,9.2,Latin America,27.46,-99.52
+Santiago_de_Queretaro QE Mexico,805,1871,18.9,30.7,7.1,52.8,0,53,6.5,Latin America,20.59,-100.41
+Grand_Forks ND USA,55,278,4.4,27.2,-19.5,52.8,119.6,66,17.4,North America,47.93,-97.03
+Zilina Slovakia,85,314,7,22,-6,52.8,5,77.5,9,Europe,49.22,18.74
+Ushuaia Argentina,60,3,5.8,15,-1.4,52.8,2,79.7,13.6,South America,-54.80,-68.30
+Eagle_Pass TX USA,28,238,21.7,37.6,4.2,52.7,1,64,10.5,North America,28.71,-100.50
+Malaga Spain,567,7,18,30.3,7.3,52.4,0,66,17,Europe,36.72,-4.42
+Caceres Spain,96,394,16.1,33,4,52.3,0,58,6.9,Europe,39.48,-6.37
+Tsumeb Namibia,20,1310,22,32,8,52,0,41,7.5,Africa,-19.24,17.73
+Payson AZ USA,15,1478,11,32,-6,52,54,37,9.1,North America,34.23,-111.33
+Gaborone Botswana,232,999,21,30,7,52,0,59.5,12,Africa,-24.63,25.92
+Tianjin TJ China,6860,4,13,30,-6,52,3,59.5,14,Asia,39.34,117.36
+Mariupol Ukraine,458,65,9.2,27.2,-6.1,52,4,79.6,10.5,Europe,47.10,37.54
+Voronezh Russia,997,163,6,23,-11,52,16,75,16,Asia,51.68,39.21
+Izhevsk Russia,631,157,2,23,-16,52,26.4,75,16,Asia,56.86,53.23
+Kotka Finland,55,27,4,20,-9,52,8,86,7.3,Europe,60.47,26.95
+Asmara Eritrea,804,2355,17,22,11,51.9,0,56,17,Africa,15.32,38.93
+Napa CA USA,79,10,13.7,27.7,2.1,51.8,0.2,78,12.9,North America,38.30,-122.29
+Fes Morocco,1112,414,16,33.9,6.1,51.7,0,76,6.7,Africa,34.02,-5.01
+Kharkiv Ukraine,1431,152,8.1,26.4,-7.3,51.6,6,74,14,Europe,49.99,36.23
+North_Platte NE USA,25,845,9.3,31.2,-11.6,51.3,72.4,67.7,15.4,North America,41.14,-100.76
+Khost Afghanistan,160,1181,16.8,38,1,51.1,0,54.7,6.7,Middle East,33.33,69.94
+Lahore Pakistan,18570,214,24,38,8,51,0,61.7,6,Asia,31.52,74.36
+Maracaibo Venezuela,1339,64,28,33,23,51,0,74.6,12,South America,10.65,-71.71
+Shijiazhuang HB China,3367,84,13,32,-8,51,3,59,6,Asia,42.36,-83.07
+Barquisimeto Venezuela,1001,613,25,30,19,51,0,76.5,16,South America,10.07,-69.35
+Skopje Macedonia,536,231,12,30,-3,51,4,68,12,Europe,42.00,21.43
+Iasi Romania,319,64,9,28,-8,51,4.5,76,7.4,Europe,47.16,27.60
+West_Yellowstone MT USA,2,2025,2.8,26.5,-16,51,363,58.5,11.2,North America,44.66,-111.10
+Winnipeg MB Canada,664,238,2,25,-21,51,113.7,71,19,North America,49.90,-97.14
+Poznan Poland,552,92,8,22,-3,51,4,79.2,16,Europe,52.41,16.93
+Brookings SD USA,23,498,6,22,-16,51,60,72,15.6,North America,44.31,-96.80
+Vaasa Finland,66,3,3,19,-10,51,5,81.5,16,Europe,63.10,21.62
+Hinton AB Canada,10,991,3.1,22.2,-15,50.8,120.9,62,4,North America,53.40,-117.57
+Norrkoping Sweden,126,7,6,21,-6,50.8,6,78,17,Europe,58.59,16.19
+Piedras_Negras CA Mexico,150,250,22.4,38.4,4.9,50.7,0,66,8,Latin America,28.69,-100.54
+Amarillo TX USA,196,1096,14,32.9,-5.3,50.7,39.4,56.7,20.8,North America,35.22,-101.83
+Cuenca Spain,56,945,12.6,30.7,-0.7,50.7,2,63,7.7,Europe,40.07,-2.14
+Gdansk Poland,460,138,7,20,-4,50.7,5,81,20,Europe,54.35,18.65
+Luhansk Ukraine,422,61,8,26,-8,50.3,12,72,19,Europe,48.57,39.31
+Mopti Mali,2037,271,29,39,17,50,0,40,12,Africa,14.49,-4.20
+Goodland KS USA,5,1112,10.8,32.2,-8.4,50,90.2,61.6,19.6,North America,39.35,-101.71
+Volos Greece,144,6,16.2,31,2.8,50,0,65.9,9,Europe,39.36,22.94
+Tbilisi Georgia,1118,489,12.9,30.8,-2.2,50,3,67.9,40,Middle East,41.72,44.83
+La_Grande OR USA,13,826,10.2,30.4,-3,50,93.2,53.5,13.1,North America,45.32,-118.09
+Szeged Hungary,162,82,11,27,-3,50,2,70.5,12,Europe,46.25,20.14
+Valparaiso Chile,250,40,14,22,8,50,0,76,8.5,South America,-33.05,-71.61
+Esquel Argentina,32,815,8,22,-2,50,3,64,22.4,South America,-42.91,-71.31
+San_Angelo TX USA,97,577,18.6,35.2,0.4,49.6,7.9,59.1,15.8,North America,31.46,-100.44
+Del_Rio TX USA,36,313,21.4,36.2,4.8,49.5,3,62,13.4,North America,29.37,-100.90
+Feodosia Ukraine,69,25,12.3,29.1,-1.1,49.5,0,74,10.4,Europe,45.03,35.38
+Sheridan WY USA,18,1208,7.2,29.2,-12.1,49.2,241.8,61.3,12.1,North America,44.80,-106.96
+Donetsk Ukraine,945,225,8.5,27.3,-7,49.2,3,73,15.5,Europe,48.02,37.80
+Diyarbakir Turkey,930,676,15,37,-2,49,0,55.5,9,Middle East,37.92,40.21
+Huelva Spain,147,20,18.1,31.8,6.6,49,0,64,14,Europe,37.26,-6.94
+Tarija Bolivia,234,1956,19,30,7,49,0,59,5.8,South America,-21.52,-64.73
+Jamestown ND USA,15,456,5,27,-19,49,90,77,18.2,North America,46.91,-98.71
+Gyor Hungary,128,115,10,25,-3,49,3,73,9,Europe,47.69,17.65
+Chisinau Moldova,670,179,10,25,-5,49,4,71.7,12,Europe,47.01,28.86
+Brno Czech_Republic,378,245,8,23,-3,49,3,73,14,Europe,49.20,16.61
+Arkhangelsk Russia,350,13,0.6,21.8,-16.5,49,10,80,9.7,Asia,64.55,40.56
+Ostersund Sweden,50,375,3,19,-10,49,9.5,82,4.5,Europe,63.18,14.64
+Lulea Sweden,75,34,1,18,-14,49,6,76,12,Europe,65.58,22.16
+Limnos Greece,32,3,15.9,29.3,4.2,48.7,0,70.3,9.4,Europe,39.92,25.14
+Gyumri Armenia,122,1529,6,26,-14,48.6,5,50,6,Middle East,40.79,43.85
+Red_Deer AB Canada,100,941,3.7,23.1,-16,48.6,105.9,78,7.5,North America,52.27,-113.81
+Touba Senegal,529,48,28,40,19,48.5,0,50.9,6.5,Africa,14.87,-15.90
+Heraklion Greece,141,39,18.7,28.7,8.9,48.3,0,63,8.3,Europe,35.34,25.14
+Custer SD USA,2,1565,5.8,26.3,-10.5,48.3,117.3,59,11.2,North America,43.77,-103.60
+Amritsar PB India,1133,229,23,41,4,48,0,63,4.6,Asia,31.63,74.87
+Ogden UT USA,84,1459,10,30,-6,48,195,52.7,10.6,North America,41.22,-111.97
+Lesosibirsk Russia,68,78,-1.9,24,-25,48,12,74,4.1,Asia,58.23,92.50
+Kermanshah Iran,851,1483,14,37.8,-4.2,47.9,2,36,5.3,Middle East,34.33,47.08
+Lubbock TX USA,240,991,15.6,33.8,-3.6,47.9,23.1,54.9,19.3,North America,33.58,-101.86
+Tyumen Russia,622,101,1.5,24.3,-18.9,47.8,20.1,73,8.6,Asia,57.16,65.53
+Kasserine Tunisia,439,674,16.1,34.6,1.4,47.7,0,60.8,11.4,Africa,35.08,8.66
+Belcourt ND USA,2,60,2.4,26.1,-22.3,47.4,93.2,71,16.1,North America,48.84,-99.74
+Brandon MB Canada,46,409,2.4,25.9,-23.7,47.4,101.4,76,9,North America,49.85,-99.95
+Lompoc CA USA,44,195,14,23,3,47.4,0,76,12.4,North America,34.64,-120.46
+Yreka CA USA,8,892,10.9,32.9,-4.4,47.1,46.2,43,9.7,North America,41.74,-122.63
+Sacramento CA USA,480,5,16.1,33.4,3.6,47,0,67.3,10.8,North America,38.58,-121.49
+Ulyanovsk Russia,615,123,4.9,26.3,-14.1,47,16,74,14,Asia,54.32,48.38
+Prague Czech_Republic,1324,360,8,22,-4,47,5,79.2,17,Europe,50.08,14.44
+Banff AB Canada,8,1396,3.3,21.6,-13.3,47,191,71,7.7,North America,51.18,-115.57
+Akureyri Iceland,19,27,3,13,-4,47,9,78.5,16,Europe,65.69,-18.13
+Nogales SO Mexico,213,1200,17.6,33.8,1.8,46.8,11,41,6.5,Latin America,31.30,-110.94
+Kahului HI USA,26,14,24.4,31.1,17.2,46.8,0,72,20.4,North America,20.89,-156.47
+Medford OR USA,77,396,13.1,32.6,0.4,46.7,10.4,66,7.1,North America,42.42,-71.11
+Los_Alamos NM USA,12,2183,8.9,27.1,-7.7,46.6,135.4,46,9.6,North America,35.88,-106.30
+Erbil Iraq,1750,410,19.5,42,3,46.1,0,50.1,5.7,Middle East,36.21,44.01
+Chadron NE USA,6,1004,8.6,32.1,-12.1,46,108.5,61,16,North America,42.83,-103.00
+Geraldton WA Australia,40,32,20,32,8,46,0,65,20,Oceania,-28.78,114.61
+Flagstaff AZ USA,69,2131,10.2,30.9,-7.3,46,139.4,51,9.5,North America,35.20,-111.65
+Dakar Senegal,3520,24,24,30,17,46,0,80.8,17,Africa,14.72,-17.47
+Palma Spain,399,7,17.9,29.5,8.3,46,0,70,16,Europe,39.57,2.65
+Boulder CO USA,103,1611,10,29,-6,46,185,52,7.2,North America,40.01,-105.27
+Portimao Portugal,56,13,17.3,27.2,9.4,46,0,77,9.9,Europe,37.14,-8.54
+Kalmar Sweden,36,6,6,21,-3,46,4,80,7.8,Europe,56.66,16.36
+Flin_Flon MB Canada,6,335,1,24.1,-22.9,45.8,115.5,76,4.8,North America,54.77,-101.88
+Tehuacan PU Mexico,249,2416,18,29.7,5.6,45.7,0,60,7.1,Latin America,18.47,-97.40
+Prescott AZ USA,41,1536,13.2,31.8,-3.7,45.6,36.3,47,11.9,North America,34.54,-112.47
+Mobridge SD USA,4,522,7.2,29.9,-14.4,45.5,71,69.2,17.1,North America,45.54,-100.43
+Cuauhtemoc CH Mexico,155,2010,12.8,29.5,-3.8,45.5,1,65,8.1,Latin America,28.41,-106.87
+Bismarck ND USA,67,502,6.1,29.3,-16.6,45.5,130,68.6,15.3,North America,46.81,-100.78
+Irbid Jordan,503,618,17,29,5,45.5,0,59,16,Middle East,32.56,35.85
+Valencia Spain,786,61,17.8,29.6,7,45.4,0,65,17,Europe,39.47,-0.38
+Dawson_Creek BC Canada,12,654,1.9,22.2,-19,45.3,172.7,66,11.3,North America,55.76,-120.24
+Bishkek Kyrgyzstan,871,634,11.3,31.7,-7.1,45.2,5,62,5.8,Asia,42.87,74.57
+Williams_Lake BC Canada,11,940,4.5,22.5,-11,45.1,176.8,66.4,9.5,North America,52.14,-122.14
+Clovis NM USA,40,1309,14,33,-5,45,30,54,16.1,North America,34.40,-103.21
+Madrid Spain,3165,581,14.1,31.2,2.6,45,2,57,16,Europe,40.42,-3.70
+Francistown Botswana,99,999,21,30,7,45,0,55,16,Africa,-21.17,27.51
+Thessaloniki Greece,315,3,15.7,31.5,1.3,44.9,1,67,5.6,Europe,40.64,22.94
+Chihuahua CH Mexico,809,1435,19,32.9,1.9,44.8,0,50,16,Latin America,28.63,-106.07
+Novosibirsk Russia,1511,177,1.8,25,-19.6,44.8,17,75,14.4,Asia,55.01,82.94
+Novokuznetsk Russia,549,307,2.1,24.8,-18.5,44.7,18,74,12.2,Asia,53.76,87.12
+Edmonton AB Canada,812,722,2.6,22.8,-17.7,44.6,118.1,67.8,12.2,North America,53.54,-113.49
+Gambell AK USA,1,1,-3.8,9.9,-16.1,44.6,179.3,75.6,29.5,North America,63.78,-171.74
+Grande_Prairie AB Canada,63,668,2.2,22.6,-19,44.5,154.3,74,11,North America,55.17,-118.80
+Fort_Saint_John BC Canada,19,694,2.3,21.7,-16.9,44.5,189.6,73,13.5,North America,56.25,-120.85
+Nyala Sudan,566,674,26,38,15,44,0,44,8.4,Africa,12.05,24.88
+Tashkent Uzbekistan,2310,488,14.8,35.7,-1.5,44,1,56,5,Asia,41.30,69.24
+Badajoz Spain,151,195,16,33,3,44,0,66,7.2,Europe,38.88,-6.97
+Tunis Tunisia,1056,3,18,32,7,44,0,71.3,16,Africa,36.81,10.18
+Colville WA USA,5,914,7,29,-8,44,50.8,58.5,8.9,North America,48.54,-117.90
+Adelaide SA Australia,1317,6,16,27,6,44,0,64.2,17,Oceania,-34.93,138.60
+Varna Bulgaria,335,42,12,26,0,44,3,78.5,16,Europe,43.21,27.91
+Erzurum Turkey,367,1757,4,26,-16,44,4,68,17,Middle East,39.91,41.27
+Yuzhno Russia,188,21,2,21,-12,44,43,79,12,Asia,46.96,142.73
+Aspen CO USA,7,2369,4.9,26.7,-13.9,43.9,340,53.7,10.1,North America,39.19,-106.82
+Tooele UT USA,32,1527,10.6,31.7,-6.8,43.8,165.1,58,13.7,North America,40.53,-112.30
+West_Covina CA USA,108,305,18.3,33.1,5.7,43.7,0,65,5.5,North America,34.07,-117.94
+Logan UT USA,49,1357,7.5,31.8,-11.4,43.7,145,55,7.2,North America,41.74,-111.83
+Minot ND USA,46,525,5.6,27.5,-15.8,43.7,117.1,69,17.7,North America,48.23,-101.29
+Castle_Rock CO USA,53,1902,8.5,29.5,-10.6,43.5,154.2,53,14.4,North America,39.37,-104.86
+Honolulu HI USA,375,2,27.7,31.5,19.1,43.4,0,68,16.7,North America,21.31,-157.86
+Qamishli Syria,184,451,19,40.3,2.7,43.2,0,58.7,5.2,Middle East,37.05,41.23
+Kalispell MT USA,21,903,6.3,27.4,-9,43.2,141.5,60,8.9,North America,48.19,-114.32
+Granada Spain,238,689,15.2,33.5,1.3,43,2,60,6,Europe,37.18,-3.60
+Devils_Lake ND USA,7,441,4,27,-21,43,90,67.5,17.9,North America,48.11,-98.87
+Wasilla AK USA,9,112,2,20,-5,43,131.3,77.2,13.1,North America,61.58,-149.44
+Oulu Finland,189,14,2,19,-13,43,5.2,80,14,Europe,65.01,25.47
+Kirkenes Norway,4,90,-0.6,16.1,-16.2,43,18,82.9,17,Europe,69.73,30.05
+Homs Syria,200,528,17,32.8,2.8,42.9,0,58,6.8,Middle East,34.73,36.71
+Chelyabinsk Russia,1150,234,3.2,25.2,-19,42.9,21,73,5,Asia,55.16,61.44
+Prince_Albert SK Canada,35,428,1.4,24.3,-23.1,42.8,113.9,76,11.6,North America,53.20,-105.75
+Ventspils Latvia,39,2,7,19.4,-5,42.8,4,80,12.2,Europe,57.39,21.56
+Nome AK USA,3,3,-2.6,14.6,-19.3,42.7,192.3,76,15.3,North America,64.50,-165.41
+Cagliari Sardinia Italy,149,1,16.5,29.8,5.7,42.6,0,73.3,16,Europe,39.22,9.12
+Sisimiut Greenland,6,5,-4.5,9.8,-17.7,42.6,14,82.3,11.3,North America,66.94,-53.67
+Baardheere Somalia,170,97,28.5,39,21,42.3,0,63.2,11.2,Africa,2.34,42.29
+Borujerd Iran,241,1573,13.2,36,-3,42.3,1,45.8,6.8,Middle East,33.89,48.77
+Larisa Greece,145,74,15.7,33.1,0.7,42.3,2,66.2,3,Europe,39.64,22.42
+Show_Low AZ USA,11,1954,11.8,30.1,-4.9,42.2,115.8,47.1,15.3,North America,34.25,-110.03
+Spokane WA USA,211,718,9,28.5,-5.3,42.2,114,59.5,14.3,North America,47.66,-117.43
+Arad Romania,163,117,10,26,-3,42.2,2,79.5,14,Europe,46.19,21.31
+Anchorage AK USA,301,34,2.8,18.6,-11.6,42.2,189.2,71.7,11.6,North America,61.22,-149.90
+Kimberley South_Africa,225,1191,18,31,3,42,0,49,16,Africa,-28.73,24.75
+Oran Algeria,1454,89,17,30,5,42,0,72,19,Africa,35.70,-0.63
+Ibiza Spain,50,11,17,29,8,42,0,76.3,17,Europe,39.02,1.48
+Barnaul Russia,626,195,3,26,-20,42,20,73,7.4,Asia,53.35,83.77
+Krasnoyarsk Russia,1007,277,1,23,-20,42,20,69,16,Asia,56.02,92.89
+Yekaterinburg Russia,1387,236,1.9,22,-16,42,14,75.4,16,Asia,56.84,60.61
+Thousand_Oaks CA USA,129,415,17.1,29.3,6.7,41.9,0.2,69,9,North America,34.17,-118.84
+Colorado_Springs CO USA,440,1856,9.4,29.3,-8.1,41.9,95.8,50.9,15.1,North America,38.83,-104.82
+Fort_McMurray AB Canada,61,369,1,23.7,-22.5,41.9,133.8,68,9.7,North America,56.73,-111.38
+Calgary AB Canada,1235,1083,4.4,23.2,-13.2,41.9,128.8,60,14.2,North America,51.05,-114.07
+Fresnillo ZA Mexico,111,2201,16.9,29,4.1,41.8,0,45,7.5,Latin America,23.18,-102.87
+Heber_City UT USA,13,2350,1.9,26.1,-18.1,41.8,77.7,57.5,6.4,North America,40.51,-111.41
+Punto_Fijo Venezuela,151,27,28.7,33.2,22,41.5,0,73,20.1,South America,11.71,-70.18
+Rapid_City SD USA,71,963,8.4,30.6,-10.6,41.4,104.4,61.3,17.4,North America,44.08,-103.23
+Laredo TX USA,248,15,23.4,37.9,7.7,41.2,0.2,65,17.7,North America,27.53,-99.48
+Grand_Canyon AZ USA,2,2015,7.5,29,-10.9,41.2,147.3,52.1,10,North America,36.05,-112.14
+Ramona CA USA,20,433,16.6,32.8,2.7,41.1,0,66,7.1,North America,33.04,-116.88
+Mount_Isa QLD Australia,22,342,24,37,8,41,0,40,14,Oceania,-20.73,139.49
+Pierre SD USA,14,530,8,31,-13,41,81,66,18.5,North America,44.37,-100.35
+Valladolid Spain,307,844,11.1,30.4,-1.2,41,2,68,7.8,Europe,41.65,-4.72
+Mogadishu Somalia,1650,9,27,30,25,41,0,75.5,25,Africa,2.05,45.32
+Sivas Turkey,359,1270,8,27,-7,41,3,64.5,6,Middle East,39.75,37.02
+Constanta Romania,298,14,11,25,-1,41,1,82,16,Europe,44.16,28.63
+Irkutsk Russia,602,512,-0.4,24.8,-22,41,16,72,8.3,Asia,52.29,104.31
+Santa_Barbara CA USA,90,2,14.3,21.8,5.5,41,0,75.2,8.9,North America,34.42,-119.70
+Salt_Lake_City UT USA,191,1286,11.6,33.7,-5.8,40.9,142.7,54.3,14,North America,40.76,-111.89
+Makena HI USA,6,30,24,31.1,17.1,40.9,0,76,20,North America,20.65,-156.44
+Fort_Collins CO USA,152,1572,10.2,30.3,-7.9,40.9,141.7,48,12.1,North America,40.59,-105.08
+Durango CO USA,18,2037,7.8,29.8,-12.4,40.9,166,59,9.6,North America,37.28,-107.88
+Lloydminster SK Canada,28,647,2,23.1,-18.9,40.9,98.1,74,15.3,North America,53.28,-110.01
+Cheyenne WY USA,63,1872,8.1,28.6,-8.2,40.4,153.2,52.8,19.8,North America,41.14,-104.82
+Iqaluit NV Canada,7,34,-9.3,12.3,-30.9,40.4,229.3,74.7,15.7,North America,63.75,-68.52
+Jackson WY USA,9,2105,3.6,27.7,-15.5,40.3,195.1,61,12.3,North America,43.48,-110.76
+Ankara Turkey,4471,948,10,28,-6,40.2,4,65,12,Middle East,39.93,32.86
+Scottsbluff NE USA,15,1202,9.3,32.1,-10.8,40.1,106.9,61,15.9,North America,41.87,-103.67
+Dickinson ND USA,21,789,5.9,28.7,-14.3,40.1,90.2,64,20,North America,46.88,-102.79
+San_Jose CA USA,999,20,15.9,27.7,5.5,40.1,0,66.6,9.9,North America,37.34,-121.89
+Jilib Somalia,125,26,27.8,36,23,40,0,69.1,11.4,Africa,0.49,42.78
+Globe AZ USA,7,986,16,36,1,40,2,45,6,North America,33.39,-110.79
+Hailey ID USA,8,1617,6,29,-13.6,40,203.2,55,10.4,North America,43.52,-114.32
+Hohhot IM China,2867,1064,6,27,-16,40,2,54,14,Asia,40.82,111.65
+Odessa Ukraine,997,63,10,26,-4,40,4,76.3,16,Europe,46.48,30.72
+Casablanca Morocco,3360,61,17,25,8,40,0,84.2,12,Africa,33.57,-7.59
+Lhasa TB China,401,3595,7,22,-10,40,4,45,5.5,Asia,29.66,91.12
+Murmansk Russia,304,46,0.4,17.3,-13,40,19.5,79,16.6,Asia,68.96,33.08
+Alta Norway,14,3,1.3,17.2,-12.6,40,14,69.5,14,Europe,69.96,23.33
+Denver CO USA,650,1611,10.1,31.2,-8.5,39.6,136.7,51.7,16.9,North America,39.74,-104.99
+San_Luis_Potosi SL Mexico,723,1870,17.4,28.3,5.5,39.2,0,62,7.7,Latin America,19.86,-90.49
+Pachuca HI Mexico,257,2390,14,24.6,2.8,39.2,0,62,5.4,Latin America,20.10,-98.76
+Hargeisa Somalia,760,1347,21,31,11,39,0,57,11.3,Africa,9.56,44.08
+Salamanca Spain,148,790,11,29,-0.7,39,0,68,7.8,Europe,40.97,-5.66
+Petropavlovsk Russia,181,7,1.2,16,-9,39,41,72.5,16,Asia,53.04,158.68
+Hammerfest Norway,10,81,1.9,14,-7,39,43,80.5,20,Europe,70.66,23.68
+Punta_Arenas Chile,123,36,6,13,0,39,0,75.5,27,South America,-53.16,-70.92
+Taldykorgan Kazakhstan,117,596,8.2,33,-8,38.8,4,61.5,9.4,Asia,45.02,78.38
+Jizzakh Uzbekistan,163,381,15.7,34,-2,38.7,1,56.3,8.9,Asia,40.13,67.88
+Kelowna BC Canada,127,429,8.1,27.9,-5.9,38.7,89,68,5.4,North America,49.89,-119.50
+Lamar CO USA,8,1119,11.6,34.1,-10.5,38.6,53,50,16.1,North America,38.09,-102.62
+Van Turkey,367,1661,8,27,-7,38.6,3,67.5,17,Middle East,38.50,43.37
+Fort_Yukon AK USA,1,131,1.7,18.4,-13.7,38.6,106.2,65.3,6,North America,66.57,-145.25
+Polson MT USA,5,861,7.9,28.4,-6.6,38.5,83.3,60,8.9,North America,47.69,-114.16
+Dezful Iran,248,142,24,43,7,38.4,0,46.5,16,Middle East,32.38,48.42
+Omak WA USA,5,397,9.7,31.2,-6.9,38.4,37.1,69,9.4,North America,48.41,-119.53
+Susanville CA USA,16,1306,9.7,31.5,-6.2,38.2,90.4,55,8.9,North America,40.42,-120.65
+Karakol Kyrgyzstan,66,1751,2.7,25.5,-10.4,38.2,10,53.4,7.3,Asia,42.48,78.40
+Klamath_Falls OR USA,21,1247,8,28.8,-6.3,38.1,101,59,10.5,North America,42.22,-121.78
+Mosul Iraq,664,222,20,42,2,38,0,49.5,9,Middle East,36.36,43.16
+Kirkuk Iraq,572,331,22,41,5,38,0,40,9,Middle East,35.47,44.38
+Monclova CA Mexico,215,586,22,35.8,5.5,38,0,55,6.2,Latin America,32.63,-115.44
+Sierra_Vista AZ USA,45,1438,17.6,33.9,1.3,38,18,38.3,11.3,North America,31.55,-110.28
+Viedma Argentina,55,7,14.2,30.4,1.8,38,0,62.4,25,South America,-40.81,-63.00
+Osh Kyrgyzstan,232,1006,12,33,-6,37.9,5,62,4.9,Asia,40.51,72.82
+Miandoab Iran,123,1291,13,35,-4,37.7,1,55.1,7.2,Middle East,36.96,46.11
+Los_Angeles CA USA,3884,78,18.3,28.4,9.1,37.7,0,71,12.2,North America,34.05,-118.24
+Great_Falls MT USA,59,1116,7,28.6,-9.5,37.6,161.3,56.5,18.7,North America,47.49,-111.28
+Midland TX USA,124,840,17.8,35.1,-1.4,37.5,7.6,51,16.1,North America,32.00,-102.08
+Healy AK USA,1,431,-1.1,20.9,-21.2,37.5,195.3,57,9.7,North America,63.87,-149.02
+Richfield UT USA,8,2403,4.5,25.9,-12.1,37.4,207.3,51,16.9,North America,38.77,-112.08
+Dalhart TX USA,8,1215,12.8,33,-7,37.3,27.4,59,18.8,North America,36.06,-102.51
+Teruel Spain,36,900,11.8,30.4,-2.1,37.3,1,66,8.1,Europe,40.35,-1.11
+Jodhpur RJ India,851,224,26,41.4,9.6,37.2,0,54.6,7.7,Asia,26.24,73.02
+Roswell NM USA,49,1118,15,33,-4.9,37.2,21.8,47.5,13.8,North America,33.39,-104.52
+Lahaina HI USA,12,63,24.2,31.2,17.2,37.2,0,76,20.1,North America,20.88,-156.68
+Al_Ubayyid Sudan,418,573,26,38,11,37,0,37,8,Africa,13.18,30.22
+Saint_Louis Senegal,277,3,26,32,17,37,0,64.5,17,Africa,16.03,-16.48
+Sterling CO USA,15,1230,8,31,-12,37,103,60,19.3,North America,40.63,-103.21
+Regina SK Canada,193,577,4,26,-23,37,73,76,9.5,North America,50.45,-104.62
+Ulaanbaatar Mongolia,1345,1315,0,21,-25,37,12,63.3,14,Asia,47.89,106.91
+Salinas CA USA,156,4,13,20,4,37,0,75.3,12.9,North America,36.68,-121.66
+Lleida Spain,139,192,14.7,32.2,1,36.9,0,66,6.7,Europe,41.62,0.62
+Saltillo CA Mexico,710,1700,18.3,30.2,4.5,36.9,0,58,7.1,Latin America,25.44,-100.97
+Yevlakh Azerbaijan,59,17,15.3,34.3,2,36.8,1,64,8,Middle East,40.62,47.15
+Faisalabad Pakistan,6481,182,23.8,40.5,4.1,36.7,0,60,4.7,Asia,31.45,73.13
+Fort_Stockton TX USA,8,917,18.9,36.1,0.1,36.6,9.9,50,17.8,North America,30.89,-102.88
+Williston ND USA,21,578,5.3,29.1,-17.7,36.6,115.1,58.5,15,North America,48.15,-103.62
+Athens Greece,3484,21,18.5,31.8,7,36.5,0,60.5,7.1,Europe,37.98,23.73
+Lethbridge AB Canada,93,928,5.8,25.6,-13.7,36.5,132.9,64,8.3,North America,49.69,-112.84
+Orenburg Russia,555,109,4.1,29,-19,36.4,10,68,14,Asia,51.77,55.10
+Khoramabad Iran,348,1933,10,38,-1,36.3,1,50.9,7.9,Middle East,33.46,48.34
+Idaho_Falls ID USA,58,1444,7.8,30.7,-10.2,36.3,87,58.5,15.3,North America,43.49,-112.03
+Cochabamba Bolivia,1758,2547,17,26,3,36.3,0,66.5,19,South America,-17.41,-66.17
+Keren Eritrea,82,1405,21.9,34,14,36.2,0,56.6,9.2,Africa,15.78,38.45
+Livermore CA USA,85,151,15.2,31.7,2.6,36.2,0,67,11.4,North America,37.68,-121.77
+Pecos TX USA,9,797,18.1,35.9,-1.7,36.1,7.9,50,12.6,North America,31.42,-103.49
+The_Dalles OR USA,15,74,12.3,30.8,-1,36.1,40.1,63,12.7,North America,45.59,-121.18
+Chlef Algeria,179,116,19,37.2,5,36,0,61.3,7.4,Africa,36.15,1.33
+Nicosia Cyprus,310,223,18,36,5,36,0,65,8.3,Middle East,35.19,33.38
+Tabriz Iran,1495,1315,12,31,-6,36,2,52.9,14,Middle East,38.10,46.27
+Kayseri Turkey,1062,1053,10,29,-6,36,0,63,8,Middle East,38.72,35.48
+Saint_Anthony ID USA,3,1513,5.4,28.7,-13.3,36,114.5,57,10.6,North America,43.97,-111.68
+Windhoek Namibia,326,1724,20,28,7,36,0,35.8,12,Africa,-22.56,17.07
+Cranbrook BC Canada,20,913,5,27,-13,36,144,73,9.5,North America,49.51,-115.77
+Stockton CA USA,298,10,16.3,34.1,2.9,35.8,0,64,12.6,North America,37.96,-121.29
+Silver_City NM USA,10,1659,13,32,-4,35.8,14.7,45,14.5,North America,32.77,-108.28
+Missoula MT USA,69,972,7.7,29.9,-8.5,35.8,96.3,64.5,9,North America,46.88,-114.00
+Oceanside CA USA,173,22,16.6,27.8,3.8,35.8,0,71.2,5.4,North America,33.20,-117.38
+Samarkand Uzbekistan,504,718,13.9,33.9,-3.6,35.5,1,53.6,7.1,Asia,39.63,66.97
+Fort_Smith NT Canada,3,202,-1.8,23.3,-27,35.4,150.2,80,9.5,North America,60.01,-111.88
+Gillette WY USA,32,1326,7.6,30.3,-10.4,35.3,90,56.5,16.3,North America,44.29,-105.50
+Magnitogorsk Russia,411,381,2.8,25.2,-18.3,35.3,11.5,72,10.8,Asia,53.41,59.00
+Petropavlovsk Kazakhstan,201,135,1.2,25.1,-22.1,35.3,11,73.1,12.7,Asia,54.87,69.15
+Parral CH Mexico,105,1625,15.9,31.9,-0.7,35.1,1,57,7.4,Latin America,28.68,-106.10
+Peshawar Pakistan,3201,359,22,38,6,35,0,59.5,6,Asia,34.02,71.52
+Provo UT USA,116,1368,10,33,-7,35,130,57,10.2,North America,40.23,-111.66
+Glendive MT USA,6,648,7,31,-16,35,71.1,60.5,16.8,North America,47.11,-104.71
+Safi Morocco,309,45,18,27,8,35,0,76,14,Africa,32.30,-9.23
+Kokand Uzbekistan,187,415,14.8,36,-2,34.8,0,59.5,9,Asia,40.53,70.93
+Oujda Morocco,494,470,16,32,4,34.8,0,66,19,Africa,34.68,-1.90
+Billings MT USA,109,1087,9,30.4,-7.9,34.8,139.7,54.5,17.1,North America,45.78,-108.50
+Volgograd Russia,1019,85,8.2,29.3,-9.9,34.7,8,70,18,Asia,48.71,44.51
+Arak Iran,484,1834,13.9,35.8,-5.7,34.6,2,50.1,7.3,Middle East,34.10,49.70
+Wad_Madani Sudan,345,408,27,41,14,34.5,0,40,8,Africa,14.39,33.54
+Santa_Fe NM USA,70,1933,10.7,32.3,-8,34.3,57.9,56,15,North America,35.69,-105.94
+Antioch CA USA,107,15,15.9,32.4,2.8,34.2,0,74.8,16.1,North America,38.00,-121.81
+Urmia Iran,667,1311,12,30,-6,34.1,5,58,12,Middle East,37.55,45.08
+Chita Russia,329,671,-2.3,25,-32,34.1,14,64,7.6,Asia,52.05,113.47
+Mardan Pakistan,2369,320,22,40,4,34,0,57,4,Asia,34.20,72.02
+Tripoli Libya,1126,81,20,35,6,34,0,63.8,14,Africa,32.89,13.19
+Miles_City MT USA,9,801,7,31,-15,34,87.9,56,16.9,North America,46.41,-105.84
+San_Rafael Argentina,119,747,15.3,30.6,1.2,34,0,61.2,5.1,South America,-34.61,-68.34
+Santiago Chile,5744,473,14,29,2,34,0,68.3,9,South America,-33.45,-70.67
+Saskatoon SK Canada,222,503,3.3,25.7,-18.9,34,76.6,73,8.9,North America,52.13,-106.67
+Blanding UT USA,4,1830,10.2,31.6,-8.2,33.9,97.5,35,9.9,North America,37.62,-109.48
+Murcia Spain,440,80,17.1,29,5.2,33.9,0,64.6,7.1,Europe,37.99,-1.13
+Karagandy Kazakhstan,466,575,3.5,27.2,-19.4,33.9,9,67.8,14.2,Asia,49.80,73.11
+Ali_Sabih Djibouti,55,710,25.6,37,17.1,33.7,0,74.6,12,Africa,11.15,42.71
+Djelfa Algeria,339,1144,13,35,-1,33.7,1,67,8.5,Africa,34.67,3.25
+Alicante Spain,332,31,17.8,30.6,6.2,33.6,0,66,17,Europe,38.35,-0.49
+Kustanay Kazakhstan,207,170,3,26,-22,33.6,9,71,11.5,Asia,53.22,63.64
+Hay_River NT Canada,4,164,-2.5,21.2,-26.2,33.6,138.9,75,12.2,North America,60.82,-115.79
+Lanzhou GS China,3616,1523,9.1,29.3,-10.1,33.5,2,55,3.8,Asia,36.06,103.83
+Delicias CH Mexico,118,1170,19,35.1,1.9,33.4,0,55,6.6,Latin America,28.19,-105.46
+Lewiston ID USA,33,438,12.1,34,-3.3,33.4,22.9,58.1,8.9,North America,46.40,-117.00
+Modesto CA USA,205,31,17.6,35.1,4.3,33.3,0,67.5,10.8,North America,37.64,-121.00
+Aqtobe Kazakhstan,274,219,4,29,-19,33.2,10.5,68,8.6,Asia,50.28,57.17
+Los_Mochis SI Mexico,257,11,25.5,37.6,11.7,33.1,0,65,6,Latin America,25.79,-108.99
+Darhan Mongolia,181,702,0.2,26,-30.8,33.1,10,64,7.2,Asia,49.46,105.97
+Shiraz Iran,1461,1490,18,36,1,33,0,40.5,14,Middle East,29.59,52.58
+Aleppo Syria,3560,392,17,35,2,33,0,58.8,9,Middle East,36.20,37.13
+Santa_Clarita CA USA,180,472,16,34,2,33,0.2,65,15,North America,34.39,-118.54
+Albacete Spain,173,680,13.6,32.5,-0.4,33,0,64,7.9,Europe,38.99,-1.86
+Zaragoza Spain,666,257,15,31.5,2.4,33,0,62,25,Europe,41.65,-0.89
+Omsk Russia,1159,122,2,25,-20,33,10,76,17,Asia,54.99,73.32
+Smolensk Russia,320,241,4.7,23.1,-9.6,33,41,80,9.4,Asia,54.79,32.05
+Tanana AK USA,1,69,-4.8,21,-28,33,131,67,9.2,North America,65.17,-152.08
+Unalakleet AK USA,1,6,-3.1,16,-21,33,84,77,18.3,North America,63.87,-160.79
+Taraz Kazakhstan,347,626,11,33,-7,32.7,9,60.6,8.5,Asia,42.90,71.40
+Irvine CA USA,237,37,16.9,29.6,4.6,32.7,0,64.5,12,North America,33.68,-117.83
+Gallup NM USA,22,1971,9.3,29.2,-8.1,32.7,96,50,11.2,North America,35.53,-108.74
+Astana Kazakhstan,639,347,1,27,-21,32.7,15,67,12.2,Asia,51.16,71.47
+Pocatello ID USA,54,1357,9.2,31.9,-7.8,32.6,141.5,55,15.4,North America,42.87,-112.45
+Butte MT USA,34,1692,4.4,27.1,-13.7,32.5,158,58,10.5,North America,46.00,-112.53
+Oxnard CA USA,203,3,15.2,22.9,6.3,32.5,0,73.8,17.7,North America,34.20,-119.18
+Kunduz Afghanistan,269,431,16,38,-1,32.3,0,55,4.2,Middle East,36.73,68.87
+Medicine_Hat AB Canada,63,716,6.1,27.5,-14.1,32.3,88.2,68,13.5,North America,50.04,-110.68
+Nuevo_Casas_Grandes CH Mexico,56,1460,16.6,33.3,-0.5,32.1,1,44,7.2,Latin America,30.41,-107.91
+Merritt BC Canada,7,609,7.8,27,-7.3,32.1,66.7,64.4,3.4,North America,50.11,-120.79
+Pueblo CO USA,108,1419,11.1,33.8,-10,32,80.8,51.4,13.2,North America,38.25,-104.61
+Belmopan Belize,16,60,25,33,17,32,0,82,2.9,Latin America,17.25,-88.76
+Hamadan Iran,526,1731,11,32,-7,32,1,51,7.3,Middle East,34.80,48.52
+Luanda Angola,2825,74,24,30,17,32,0,79,6.7,Africa,-8.84,13.29
+Konya Turkey,1221,1027,11,28,-5,32,0,60.5,17,Middle East,37.87,32.49
+Semey Kazakhstan,299,206,4,28,-22,32,14,66,7.7,Asia,50.42,80.25
+Merced CA USA,81,56,16.2,34.9,2.2,31.8,0,63.2,10.6,North America,37.30,-120.48
+Casper WY USA,60,1627,7.4,31.2,-10.3,31.8,190.2,55.1,19.5,North America,42.87,-106.31
+Galena AK USA,1,49,-3.3,21.6,-27.6,31.5,197.9,74.3,7,North America,64.73,-156.93
+Ranchos_Palos_Verdes CA USA,42,140,13.5,29.4,10,31.4,0,76.5,9,North America,33.74,-118.39
+Hobbs NM USA,36,1125,16.1,34.2,-2.3,31.3,17,49,13.7,North America,32.70,-103.14
+Saint_George UT USA,77,894,15,38,-4,31.2,21.6,46,10,North America,37.10,-113.57
+Cedar_City UT USA,29,1713,10.8,30.8,-6.9,31.2,58.4,48,12.1,North America,37.68,-113.06
+Bikaner RJ India,644,228,26.5,41.8,6.5,31,0,52,7,Asia,28.02,73.31
+Beni_Mellal Morocco,193,467,18,36,3,31,0,59.5,6,Africa,32.34,-6.38
+Catamarca Argentina,397,537,20,33,5,31,0,57,22,South America,-28.47,-65.79
+Bozeman MT USA,40,1360,6,28,-16,31,142,56,9.7,North America,45.68,-111.04
+Dawson YK Canada,2,323,-4,22,-33,31,160,69,5.2,North America,64.06,-139.43
+Qom Iran,1074,935,18.2,39,-1,30.8,0,46.8,6.5,Middle East,34.64,50.88
+Evanston WY USA,12,2011,5.5,27,-10.3,30.7,119.4,54.5,16,North America,41.27,-110.96
+Temecula CA USA,107,396,17.7,36.7,2.3,30.6,1.3,57,16,North America,33.49,-117.15
+Hermosillo SO Mexico,642,200,24.3,39.3,8.5,30.5,0,44,6.3,Latin America,29.07,-110.96
+Elko NV USA,20,1942,6.2,27.4,-11.2,30.4,120.4,57,9.7,North America,40.83,-115.76
+Bend OR USA,81,1129,8.1,28.2,-5.8,30.3,83.6,62,10.4,North America,44.06,-121.32
+Shirvan Azerbaijan,81,-12,15.1,38,-6,30.2,2,69.8,8.6,Middle East,39.95,48.92
+Pavlodar Kazakhstan,323,145,3,27,-22,30.2,13.5,69,11.2,Asia,52.29,76.97
+Greeley CO USA,97,1416,8,31,-12,30,88.2,56.7,11.2,North America,40.42,-104.71
+Avalon CA USA,4,151,15,23,8,30,0,65,10.9,North America,33.34,-118.33
+Ganja Azerbaijan,322,468,13.5,31.7,-2.3,29.8,3,50,5.6,Middle East,40.69,46.37
+Boise ID USA,214,865,11.4,32.9,-4.4,29.7,48.8,54.2,12.6,North America,43.62,-116.21
+Ephraim UT USA,6,1705,8.6,32,-10.6,29.7,32.3,49,11.3,North America,39.36,-111.59
+Tucson AZ USA,526,787,20.8,37.9,3.9,29.5,1.5,42,12.7,North America,32.22,-110.93
+Tok AK USA,1,588,-4.2,21.1,-28.3,29.5,79,64,29,North America,63.34,-142.99
+San_Jose_del_Cabo BS Mexico,70,10,23.8,33.8,12,29.3,0,50,6.9,Latin America,23.06,-109.69
+Fresno CA USA,510,99,18,36.9,3.3,29.2,0,58.9,10,North America,36.75,-119.77
+Mascara Algeria,781,590,16.5,35,2.2,29,0,62.9,7.3,Africa,35.40,0.14
+Mildura VIC Australia,30,49,17,32,4,29,0,61,14,Oceania,-34.21,142.12
+Hamilton MT USA,5,1109,7,29,-8,29,109,66,8.6,North America,46.25,-114.15
+Sarajevo Bosnia_Herzegovina,527,518,9,25,-5,29,3,76.5,8,Europe,43.86,18.41
+Hemet CA USA,82,488,18.3,37.2,3,28.9,3,58.5,7.4,North America,33.75,-116.97
+Yellowknife NT Canada,20,206,-4.3,21.3,-29.5,28.9,157.6,66.6,12.8,North America,62.45,-114.37
+Point_Hope AK USA,1,1,-8.1,9.9,-25.7,28.8,104.9,76.3,24.2,North America,68.35,-166.81
+Helena MT USA,30,1220,7.4,29.8,-10.6,28.5,61.2,56.9,11.3,North America,46.59,-112.02
+Havre MT USA,10,791,6.4,29.4,-13.8,28.5,99.1,61.7,14.6,North America,48.55,-109.68
+Glennallen AK USA,1,732,-4.8,19.3,-29,28.4,124.7,56,17.7,North America,62.11,-145.56
+Taloqan Afghanistan,196,801,14.8,36.7,-3.9,28.2,0,44,4.3,Middle East,36.73,69.54
+Whitehorse YK Canada,23,701,0.2,21.6,-20.4,28.2,114.6,72,5.3,North America,60.72,-135.06
+Nakhchivan Azerbaijan,75,886,12.8,34.7,-4,27.9,3,52.8,6.3,Middle East,39.33,45.49
+Laramie WY USA,32,2216,6,25.7,-10.7,27.9,106,56,19.2,North America,41.31,-105.59
+Kotzebue AK USA,3,3,-5.1,15.3,-23.1,27.9,151.9,78.5,19.3,North America,66.90,-162.60
+Cut_Bank MT USA,3,1174,5.6,26.3,-11.4,27.7,84.8,62,20.2,North America,48.63,-112.33
+Yerevan Armenia,1060,889,11.6,33,-8.1,27.5,2,62.9,12,Middle East,40.18,44.50
+Fairbanks AK USA,33,132,-2.4,22.6,-27.2,27.5,165.1,69.3,7.6,North America,64.84,-147.72
+Bojnurd Iran,200,1126,13.3,32.4,-3.4,27.2,0,51,6.2,Middle East,37.47,57.31
+Twin_Falls ID USA,46,1264,9.9,31.9,-6.8,27.2,52,57.5,16.9,North America,42.56,-114.46
+Alice_Springs NT Australia,25,545,21,36,3,27,0,39.6,16,Oceania,-23.70,133.88
+Amman Jordan,4008,772,17,31,3,27,0,57.9,16,Middle East,31.95,35.93
+Kabul Afghanistan,3414,1790,12,31,-5,27,0,49,12,Middle East,34.56,69.21
+Whyalla SA Australia,23,13,18,28.8,7.3,27,0,55.5,9.9,Oceania,-33.04,137.58
+Anadyr Russia,15,61,-7,13,-24,27,11.2,81,20,Asia,64.73,177.50
+Salmon ID USA,3,1232,7,31,-14,26.9,63.5,58,5.6,North America,45.18,-113.90
+Misrata Libya,281,32,20,30,10,26.5,0,70,17,Africa,32.33,15.10
+Sanaa Yemen,2980,2189,20,28,10,26.5,0,45,17,Middle East,15.37,44.19
+Tikrit Iraq,160,111,22.8,43.6,9.1,26.4,0,45,8.7,Middle East,34.62,43.66
+Carson_City NV USA,56,1445,10,31.7,-6.4,26.3,66.3,49,9.7,North America,39.16,-119.77
+Benghazi Libya,632,25,19,29,9,26.2,0,69.7,10.5,Africa,32.12,20.09
+San_Diego CA USA,1356,43,17.6,24.7,9.1,26.2,0,71.3,10.9,North America,32.72,-117.16
+Alamogordo NM USA,31,1247,16,35,-1,26,26.9,39,10.3,North America,32.90,-105.96
+Riverside CA USA,317,468,17.8,34.7,3.9,26,0,59.5,8,North America,33.95,-117.40
+Alexandria Egypt,4617,7,20,30,10,26,0,71.3,16,Africa,31.20,29.92
+Nador Morocco,162,19,18,30,7.2,26,0,77.5,8.1,Africa,35.17,-2.93
+Gunnison CO USA,6,2336,6,27,-22,26,210.8,59,8,North America,38.55,-106.93
+Al_Fashir Sudan,263,730,25,38,9,25.9,0,35,7.4,Africa,13.62,25.35
+Baker_City OR USA,10,1027,7.4,29.4,-8.6,25.8,68.6,59.5,10.5,North America,44.77,-117.83
+Ulan_Ude Russia,414,515,-1.3,25,-30,25.6,8,67,7.2,Asia,51.82,107.61
+Juarez CH Mexico,1321,1135,17.9,35.7,-0.2,25.4,0,40,7.7,Latin America,31.69,-106.42
+Namangan Uzbekistan,476,442,14.3,35,-3,25.3,0,62.6,6.3,Asia,41.01,71.64
+Benguela Angola,128,10,23.5,33,20,25.3,0,79.7,6.2,Africa,-12.59,13.42
+Kassala Sudan,419,499,30,37,22,25.1,0,43,9,Africa,15.46,36.40
+Kalgoorlie WA Australia,33,359,18,33,5,25,0,53.5,16,Oceania,-30.75,121.47
+Manta Ecuador,218,6,25,30,20,25,0,78,7.8,South America,-0.97,-80.71
+Santa_Cruz Canary_Islands,206,46,20,29,14,25,0,61,10.9,Africa,28.46,-16.25
+Kamloops BC Canada,90,345,7,28,-8,25,78,66,10.7,North America,50.67,-120.33
+Hailar IM China,345,676,2,25,-32,25,11.7,68,8.7,Asia,49.21,119.74
+Ely NV USA,4,1908,7.2,30.9,-11.7,24.9,129,48.8,15.3,North America,39.25,-114.87
+Albuquerque NM USA,556,1623,14,32.3,-3.3,24.1,24.4,40.2,13.5,North America,35.09,-106.61
+Visalia CA USA,128,89,17,37,2,24,0,71.5,7.2,North America,36.33,-119.29
+Marrakech Morocco,929,465,20,36,6,24,0,57.5,9,Africa,31.63,-7.98
+Mashhad Iran,2766,979,14,33,-5,24,2,53,14,Middle East,36.26,59.62
+Holbrook AZ USA,5,1664,12,33,-6,24,23,48,14.1,North America,34.90,-110.16
+Chinle AZ USA,5,1688,11,33,-7,24,17,48,10.1,North America,36.15,-109.55
+Aktau Kazakhstan,152,766,3.2,31,-4,24,6,65.3,14.6,Asia,43.64,51.20
+Montrose CO USA,19,1755,9,31,-10,24,81,52,10.5,North America,38.48,-107.88
+Longyearbyen Svalbard,2,28,-6,7,-18,24,12,73.5,17,Europe,78.22,15.63
+Grand_Junction CO USA,60,1477,11.5,34,-8.3,23.9,48.5,47.3,12.7,North America,39.06,-108.55
+Baku Azerbaijan,2137,61,13,30,1.7,23.9,0,69,9.6,Middle East,40.41,49.87
+Rawlins WY USA,10,2067,5.8,28.7,-11.2,23.6,98,53,20.1,North America,41.79,-107.24
+Moses_Lake WA USA,21,360,10.3,31.6,-5.2,23.1,44,70,9.7,North America,47.13,-119.28
+Tijuana BN Mexico,1301,20,17.8,28.1,6.9,23.1,0,75,6.2,Latin America,32.48,-117.00
+Casa_Grande AZ USA,50,432,20,41,1,23,0,39,9.2,North America,32.91,-111.77
+Tehran Iran,8154,1190,17,36,-1,23,1,43.8,19,Middle East,35.69,51.39
+Ontario OR USA,11,667,10,35,-7,23,51,56,9.7,North America,34.06,-117.65
+Riverton WY USA,11,1758,6.7,29.8,-13.7,23,53.1,59,12.7,North America,43.02,-108.38
+Cody WY USA,10,1553,7,29,-11,23,88,50,12.2,North America,44.53,-109.06
+Rio_Gallegos Argentina,98,18,8,20.1,-1.9,23,2,64.1,29.2,South America,-51.62,-69.22
+Torreon CA Mexico,609,1123,22.1,35.4,6.8,22.8,0,50,5.9,Latin America,25.54,-103.41
+Ensenada BN Mexico,520,21,17.2,26.3,6.9,22.7,0,80,5.8,Latin America,31.87,-116.60
+Ciudad_Obregon SO Mexico,433,30,26,40,9.7,22.4,0,59,6.2,Latin America,27.48,-109.93
+Mendoza Argentina,1056,703,17,32,2.4,22.3,0,54.4,9.6,South America,-32.89,-68.85
+Astrakhan Russia,526,17,9.6,31,-10,22.2,5,70,10.1,Asia,46.36,48.06
+Agadir Morocco,422,22,18,26,8,22.2,0,74,14,Africa,30.43,-9.60
+Shebergan Afghanistan,178,361,17.2,39.8,-1.7,22,0,53,10.2,Middle East,36.68,65.75
+Herat Afghanistan,436,1016,15,36,-2,22,0,56,12.7,Middle East,34.35,62.20
+El_Paso TX USA,674,1194,17.8,35.6,-0.3,22,14.5,38.6,12.9,North America,31.76,-106.49
+Jalalabad Afghanistan,356,564,16,32,2,22,0,58,4.3,Middle East,34.42,70.47
+Kismayo Somalia,183,10,27,31,22,22,0,81,12.9,Africa,-0.36,42.55
+Abha Saudi_Arabia,211,2083,18,29,7,21.8,0,65.5,17,Middle East,18.25,42.51
+Rock_Springs WY USA,25,2058,6.4,28.8,-10.8,21.8,118.6,54,17.7,North America,41.59,-109.20
+Bandari_Bushehr Iran,195,6,24.9,37,12,21.7,0,58.4,11.1,Middle East,28.92,50.82
+Socorro NM USA,9,1390,14.5,35.2,-6.2,21.7,12.9,33.5,12.7,North America,34.06,-106.89
+Kingman AZ USA,28,1050,16.8,36.2,-0.4,21.3,10,49,14.8,North America,35.19,-114.05
+Winnemucca NV USA,8,1309,9.6,34,-8.1,21.1,53.1,49.4,12.9,North America,40.97,-117.74
+Yakima WA USA,93,324,9.8,31.1,-5.9,21.1,54.9,62.5,10.5,North America,46.60,-120.51
+Ar_Raqqah Syria,220,249,18,39,2,21,0,54,9.3,Middle East,35.96,39.00
+Mazari_Sharif Afghanistan,578,391,17,38,-1,21,0,57,6.8,Middle East,36.69,67.12
+Karachi Pakistan,27500,21,26,33,12,21,0,61.3,12,Asia,25.07,67.28
+Mountain_Home ID USA,14,913,11,33,-5,21,37,56.9,12.7,North America,43.13,-115.69
+Wenatchee WA USA,33,379,10,31,-6,21,69,66,11.4,North America,47.42,-120.31
+Vernal UT USA,11,1602,8,31,-15,21,58.4,56.1,6.8,North America,40.46,-109.53
+Trelew Argentina,99,39,13.6,29.3,0.9,21,0,53.6,25.1,South America,-43.25,-65.31
+Praia Cape_Verde,131,35,24,29,19,21,0,63,11,Africa,14.93,-23.51
+Comodoro_Rivadavia Argentina,117,46,13.1,26,2.8,21,0,51.2,25.1,South America,-45.87,-67.48
+Ahvaz Iran,1137,21,25,42,8,20.9,0,43.5,16,Middle East,31.32,48.67
+Qarshi Uzbekistan,223,385,16.1,37,0,20.7,0,52.7,9.6,Asia,38.86,65.78
+Navoiy Uzbekistan,126,390,14.8,37,-2,20.6,0,52.6,10.6,Asia,40.10,65.37
+Phoenix AZ USA,1513,338,23.9,41.2,7.1,20.3,0,40,9.8,North America,33.45,-112.07
+Cabo_San_Lucas BS Mexico,68,15,23,33.7,12.7,20.3,0,50,7.9,Latin America,22.89,-109.91
+Turkestan Kazakhstan,227,209,12,36,-9,20,5,53,9,Asia,43.31,68.23
+Farmington NM USA,45,1677,10,33,-7,20,37,49,13.7,North America,36.73,-108.22
+Moab UT USA,5,1503,11,33,-8,20,72,45,10.3,North America,38.57,-109.55
+Sfax Tunisia,330,22,18,31,6,20,0,65.5,14,Africa,34.74,10.76
+Yakutsk Russia,282,103,-10.1,25.5,-41.5,20,5,69,6.1,Asia,62.04,129.68
+Ashgabat Turkmenistan,1032,236,17.1,38.3,-0.4,19.9,0,55,9,Asia,37.96,58.33
+Almeria Spain,192,21,18.7,30.7,8.2,19.6,0,66,17,Europe,36.83,-2.46
+Burao Somalia,288,1032,22,31,12,19.5,0,56,11.8,Africa,9.53,45.53
+Lancaster CA USA,160,713,16.3,35.8,-1.5,19.2,8.6,40.2,17.6,North America,34.69,-118.15
+Damascus Syria,1711,610,16,35,0,19,0,54.2,14,Middle East,33.51,36.28
+Kennewick WA USA,77,123,12.2,33,-3.4,19,24.1,60,10.3,North America,46.21,-119.14
+Kayenta AZ USA,5,1731,11,33,-8,19,32,37,7,North America,36.73,-110.25
+Gabas Tunisia,374,4,20,31,8,19,0,64.5,14,Africa,33.89,10.10
+Tiksi Russia,5,7,-13,11.8,-33.4,19,13.1,82,17.3,Asia,71.64,128.86
+Pond_Inlet NU Canada,2,4,-14.6,10.5,-37.1,18.9,131.9,72,10,North America,72.70,-77.96
+Reno NV USA,233,1342,12.1,33.4,-3.9,18.8,55.4,45.6,10.6,North America,39.53,-119.81
+Hail Saudi_Arabia,701,1012,22,37,4,18.6,0,35.5,12,Middle East,27.51,41.72
+Alamosa CO USA,10,2299,5.3,27.9,-18.7,18.5,70.1,54.6,13,North America,37.47,-105.87
+Hyderabad Pakistan,3429,41,27,42,10,18.1,0,54.5,9.5,Asia,25.40,68.36
+Kandahar Afghanistan,492,1014,18,40,-1,18,0,36,6.1,Middle East,31.63,65.74
+Massawa Eritrea,53,10,31,37,25,18,0,67,19,Africa,15.61,39.46
+Delta UT USA,4,1452,10,34,-10,18,54,52,10.6,North America,39.35,-112.58
+Sirte Libya,80,13,20,29,10,18,0,70.5,19,Africa,31.19,16.57
+General_Roca Argentina,89,236,14.6,32,1,17.8,0,55.9,9.8,South America,-39.03,-67.59
+Balkanabat Turkmenistan,121,9,14.3,42,-3,17.7,0,51.4,15.2,Asia,39.52,54.34
+Kut Iraq,374,22,23.8,46,7,17.5,0,46.9,13.1,Middle East,32.52,45.85
+Atyrau Kazakhstan,168,-22,9.9,33.4,-9.9,17.5,7,63,14.8,Asia,47.09,51.92
+Las_Cruces NM USA,101,1232,16.9,35.8,-2,17.3,10.2,43.5,12.5,North America,32.32,-106.76
+Bandari_Abbas Iran,436,10,27,37,13,17.1,0,68,17,Middle East,27.18,56.27
+Multan Pakistan,3117,122,25,40,7,17,0,58,8,Asia,30.16,71.52
+Laghouat Algeria,477,765,17,38,1,17,1,51,8.5,Africa,33.80,2.87
+Kerman Iran,534,1753,18,33,1,17,0,32.5,25,Middle East,30.28,57.08
+Beersheba Israel,197,206,20,32.8,7.5,17,0,55,12,Middle East,31.25,34.79
+Birjand Iran,178,1490,18,34,1,16.9,0,34,14,Middle East,32.86,59.23
+Exeter England UK,118,29,10,21,2,16.8,0,80,15,Europe,50.72,-3.53
+Bakersfield CA USA,364,150,18.4,36.2,3.9,16.5,0.8,54.1,10.1,North America,35.37,-119.02
+Djibouti Djibouti,219,18,30,38,23,16.4,0,64.5,14,Africa,11.83,42.59
+Maspalomas Canary_Islands,36,32,20.4,26.1,13.9,16.4,0,63.9,13.7,Africa,27.76,-15.59
+Resolute NU Canada,0,67,-15.7,7.3,-35.8,16.1,111.2,75.5,20.3,North America,74.70,-94.83
+Dubai UAE,2753,4,27,39,14,16,0,58.8,14,Middle East,25.20,55.27
+Ciudad_Constitucion BS Mexico,44,50,22.2,37.1,7.7,16,0,66,7.6,Latin America,25.04,-111.66
+Tejen Turkmenistan,52,188,17.2,40,0,15.9,0,49.9,9.7,Asia,37.37,60.50
+Alert NU Canada,0,65,-17.7,6.1,-37,15.8,184.6,75.8,9.5,North America,82.50,-62.35
+Bukhara Uzbekistan,263,229,15.7,37,-2,15.3,0,51.7,11.4,Asia,39.77,64.46
+Fallon NV USA,8,120,12.4,35.6,-5.6,15.2,17.8,43.7,9,North America,39.47,-118.78
+Kyzylorda Kazakhstan,170,138,10.8,34.3,-10.3,15.1,2,54,9.4,Asia,44.85,65.48
+Taif Saudi_Arabia,1200,1981,23.3,33,8,15.1,0,44.8,13.1,Middle East,21.44,40.51
+Baghdad Iraq,7181,34,22,43,3,15,0,42.5,14,Middle East,33.31,44.36
+Basrah Iraq,2750,2,25,42,7,15,0,49.5,14,Middle East,30.51,47.78
+Khartoum Sudan,5185,379,30,38,19,15,0,28.5,14,Africa,15.50,32.56
+Muscat Oman,25,14,28,38,18,15,0,61.7,12,Middle East,23.59,58.41
+Gafsa Tunisia,337,313,19,38,3,15,0,56,7.7,Africa,34.43,8.78
+Mesquite NV USA,16,591,19.2,42.1,-1.4,14.9,0,37.5,11.3,North America,36.81,-114.07
+Palm_Springs CA USA,46,136,23.3,41.8,6.9,14.5,0,67.5,12.4,North America,33.83,-116.55
+Nawabshah Pakistan,1135,38,26,43,5,14.2,0,52,8.2,Asia,26.24,68.39
+Mary Turkmenistan,1480,225,17,39,0,14,0,47.7,10.5,Asia,37.61,61.86
+Tataouine Tunisia,96,238,20.1,37.2,5,13.9,0,55,8.3,Africa,32.92,10.45
+Liberia Costa_Rica,57,172,27.6,35.9,20.7,13.8,0,72,7.5,South America,10.63,-85.44
+Las_Palmas Canary_Islands,382,24,20.7,27.1,14.7,13.4,0,68,13.2,Africa,28.12,-15.44
+Ras_Al_Khaimah UAE,263,31,27,41,14,13.3,0,57,9,Middle East,25.67,55.98
+Al_Amarah Iraq,512,14,25,43,7,13,0,43,19,Middle East,31.85,47.15
+Biskra Algeria,730,86,22,38,7,13,0,41.5,19,Africa,34.84,5.75
+Turkmenabat Turkmenistan,235,192,15.5,36.4,-3.3,13,0,54.7,11,Asia,39.00,63.57
+Ovalle Chile,113,381,15,28,4,13,0,75,5.5,South America,-30.60,-71.20
+Dakhla Morocco,70,10,20,25,15,13,0,79.2,27,Africa,23.72,-15.93
+Upernavik Greenland,1,63,-7,8,-23.2,13,12,84,9,North America,72.79,-56.14
+Pahrump NV USA,37,858,16.7,38.7,-3,12.1,1.3,41.5,15.3,North America,36.21,-115.98
+Ramadi Iraq,375,80,22,43,3,12,0,48,8.4,Middle East,33.44,43.28
+Lake_Havasu_City AZ USA,53,146,21,42,1,12,0.5,34.5,15,North America,34.48,-114.32
+Aqaba Jordan,188,50,24,37,10,12,0,49.6,20,Middle East,29.53,35.01
+Wendover UT USA,2,1291,11,33,-6,12,20,42.1,10.2,North America,40.74,-114.04
+Chabahar Iran,120,18,26.1,35.3,14.6,11.7,0,68.9,9.9,Middle East,25.30,60.65
+Kuwait_City Kuwait,2400,54,26,44,7,11.6,0,37,19,Middle East,29.38,47.98
+Puerto_del_Rosario Canary_Islands,37,30,19,27.2,14.2,11.6,0,70,12.7,Africa,28.50,-13.86
+Barrow AK USA,4,9,-11.2,8.3,-28.6,11.4,95.8,82.7,20.3,North America,71.29,-156.79
+Mecca Saudi_Arabia,2000,161,31,42,18,11.2,0,46.5,8,Middle East,21.39,39.86
+Nukus Uzbekistan,304,78,12.3,36,-8.8,11.1,1,50.9,8.6,Asia,42.46,59.62
+Victorville CA USA,121,875,16,36,1,11,7,45.5,17,North America,34.54,-117.29
+Esfahan Iran,1756,1589,16,35,-1,11,0,37,14,Middle East,32.65,51.67
+Hawthorne NV USA,3,1296,11,33,-7,11,24,50,9,North America,38.52,-118.62
+Arrecife Canary_Islands,57,14,20.7,28.8,13.7,11,0,71,12.9,Africa,28.97,-13.56
+Tantan Morocco,75,49,20.6,28,10,11,0,63.2,12.1,Middle East,28.44,-11.10
+La_Serena Chile,210,145,14,21,8,11,0,80,14,South America,-29.90,-71.25
+Sohar Oman,222,3,27,37,15,10.9,0,72,14,Middle East,24.35,56.71
+Las_Vegas NV USA,603,658,20.8,40.1,3.7,10.7,0.8,37.5,14.2,North America,36.17,-115.14
+Oskemen Kazakhstan,287,291,2,27,-20,10.5,2,69.5,8.5,Asia,49.97,82.60
+Dasoguz Turkmenistan,167,86,12.9,36,-6,10.2,0,57.7,12.2,Asia,41.84,59.97
+Prudhoe_Bay AK USA,2,2,-11.1,11.7,-30.2,10.2,85.6,82.7,24.1,North America,70.26,-148.34
+Riyadh Saudi_Arabia,5677,611,26,42,8,10,0,29.2,14,Middle East,24.71,46.68
+Twentynine_Palms CA USA,26,615,20,40,1,10,0,48.5,14,North America,34.14,-116.05
+Arequipa Peru,785,2520,15,21,7,10,0,45.4,17,South America,-16.41,-71.54
+Urgench Uzbekistan,150,104,13.4,35,-6,9.5,0,55.2,12.3,Asia,41.53,60.62
+Nouakchott Mauritania,968,3,26,35,15,9.4,0,52,19,Africa,18.07,-15.96
+Al_Ain UAE,650,299,28,43,13,9,0,45,12,Middle East,24.13,55.80
+Ridgecrest CA USA,29,68,18,39,-1,8.9,2.8,50,9.7,North America,35.62,-117.67
+Dammam Saudi_Arabia,1034,11,26.3,43,11,8.8,0,55.1,16.2,Middle East,26.39,49.98
+Puerto_Penasco SO Mexico,57,10,22.1,35.9,7.5,8.8,0,72,7.4,Latin America,31.33,-113.53
+El_Centro CA USA,43,-2,22.8,41.9,4.7,8.6,0,51.5,11.8,North America,32.79,-115.56
+Hofuf Saudi_Arabia,1500,171,27,44,10,8.3,0,38,19,Middle East,25.31,49.63
+Zahedan Iran,561,1369,20,35,2,8.2,0,32.5,19,Middle East,29.45,60.88
+Blythe CA USA,20,121,23,42,5,8,0,40.5,12.3,North America,33.62,-114.59
+Mecca CA USA,9,-5,22.3,41.7,3.3,8,0,47.5,10.8,North America,33.57,-116.08
+Doha Qatar,797,10,27,40,13,8,0,68.8,19,Middle East,25.29,51.53
+San_Juan Argentina,739,597,17.9,34.6,1.1,8,0,52.8,11.7,South America,-31.54,-68.54
+Tumbes Peru,112,27,25,30,20,8,0,76.5,14,South America,-3.56,-80.43
+Port_Said Egypt,571,6,21,29,11,8,0,72,22,Africa,31.27,32.30
+Abu_Arish Saudi_Arabia,221,67,30.4,40,21,7.9,0,66.9,11.5,Middle East,16.97,42.84
+Salalah Oman,197,20,25,32.8,17.8,7.9,0,70.8,9.7,Middle East,17.05,54.11
+Eureka NU Canada,0,10,-18.8,9.3,-41.1,7.9,60.3,70.1,11,North America,79.99,-85.94
+Sukkur Pakistan,905,67,26,42,7,7.8,0,49,7,Asia,27.72,68.82
+Port_Sudan Sudan,490,2,28,37,21,7.6,0,63,14,Africa,19.59,37.19
+El_Oued Algeria,135,84,21.6,40,5,7.4,0,57.2,7.9,Africa,33.37,6.85
+Mexicali BN Mexico,690,3,24,41,5,7,0,43,6.5,Latin America,32.62,-115.45
+Manama Bahrain,157,2,26,37,14,7,0,63.5,20,Middle East,26.23,50.59
+Yuma AZ USA,92,63,22,40.6,4.7,6.7,0,34.5,12,North America,32.69,-114.63
+Qurayyat Saudi_Arabia,145,500,20.2,38,3,6.1,0,43.1,12.2,Middle East,31.33,37.36
+Najaf Iraq,1390,32,24,42,6,6,0,37,16,Middle East,32.03,44.33
+Abu_Dhabi UAE,2784,27,27,41,13,5.7,0,58.8,16,Middle East,24.45,54.38
+Sullana Peru,182,62,24,33,18,5.1,0,64.9,15.8,South America,-4.90,-80.69
+Medina Saudi_Arabia,1183,630,27,41,12,5,0,24,16,Middle East,24.52,39.57
+Assab Eritrea,101,8,30,40,19,5,0,60,11.6,Africa,13.01,42.74
+Yanbu_Al_Bahr Saudi_Arabia,188,1,27,37,15,5,0,56.5,19,Middle East,24.02,38.19
+Yazd Iran,486,1221,18.2,39.5,-0.8,4.8,0,32.3,6.4,Middle East,31.90,54.36
+Laayoune Morocco,196,4,21.6,31,12,4.8,0,63.3,13.1,Africa,27.15,-13.20
+Jeddah Saudi_Arabia,3456,11,28,37,18,4.5,0,61.7,12,Middle East,21.29,39.24
+El_Menia Algeria,41,396,21,40,3,4,0,39,14,Africa,30.60,2.89
+Al_Hudaydah Yemen,400,7,30,35,25,4,0,63,30,Middle East,14.79,42.97
+Aden Yemen,1761,3,29,35,24,4,0,70,30,Middle East,12.79,45.02
+Ismailia Egypt,367,13,21,34,8,4,0,62.5,12,Africa,30.60,32.27
+Qaanaaq Greenland,1,16,-11.2,7.4,-28.4,4,8,67,10.4,North America,77.47,-69.23
+Tacna Peru,242,696,18.2,28,9.9,3.6,0,63.9,5.3,South America,-18.01,-70.25
+Vallenar Chile,52,449,16,27,7,3.2,0,73,5.2,South America,-28.58,-70.76
+Hun Libya,31,207,21,38,2,3,0,48,8.3,Africa,28.64,15.97
+Tabuk Saudi_Arabia,535,769,22,37,4,3,0,34.5,12,Middle East,28.38,36.57
+Giza Egypt,4240,149,21,35,8,3,0,56,7.9,Africa,30.01,31.21
+Cairo Egypt,10230,74,21,33,9,2,0,59.2,12,Africa,30.04,31.24
+Chiclayo Peru,524,33,22,30,16,2,0,75.5,19,South America,-6.78,-79.84
+North_Pole Arctic_Ocean,0,3,-17.5,2,-35,2,2,86,25,North America,65.25,-60.46
+Nouadhibou Mauritania,140,3,22,28,15,1.8,0,69.5,30,Africa,20.94,-17.04
+Siwa_Oasis Egypt,23,-15,21.5,38,6,1.2,0,45.1,12.1,Africa,29.20,25.52
+Reggane Algeria,34,291,26,45,7,1,0,32,8.9,Africa,25.28,-1.52
+Luxor Egypt,507,88,25,40,7,1,0,42.1,9,Africa,25.69,32.64
+Al_Jawf Libya,17,382,23,38,5,1,0,38,7.5,Africa,24.21,23.33
+Suez Egypt,566,6,22,36,9,1,0,44,7.6,Africa,29.97,32.55
+Copiapo Chile,203,370,17,29,5,1,0,68,5.1,South America,-27.37,-70.33
+Chimbote Peru,335,10,21,26,16,1,0,82,20,South America,-9.06,-78.59
+Arica Chile,158,54,19,26,13,1,0,74.5,17,South America,-18.48,-70.31
+Iquique Chile,182,47,18,25,12,1,0,71.5,19,South America,-20.23,-70.14
+Antofagasta Chile,391,120,17,23,11,1,0,77,17,South America,-23.65,-70.40
+Walvis_Bay Namibia,100,0,15,19,11,1,0,89.5,27,Africa,-22.94,14.52
+Chincha_Alta Peru,154,110,19.1,28,16,0.8,0,79.8,13.7,South America,-13.43,-76.14
+Sharm_El_Sheikh Egypt,73,35,25.6,37.5,13.3,0.7,0,68,8.7,Africa,27.92,34.33
+Ica Peru,220,409,18.7,28,15,0.6,0,76.7,15.2,South America,-14.08,-75.73
+Lima Peru,8473,13,20,26,15,0.6,0,84.2,14,South America,-12.05,-77.04
+Murzuq Libya,13,449,23.5,39,6,0.5,0,41.7,10.6,Africa,25.92,13.93
+Trujillo Peru,683,29,20,25,16,0.3,0,83.5,16,South America,-8.11,-79.02
+Aswan Egypt,290,193,26,39,11,0.1,0,27.5,17,Africa,24.09,32.90
+Mut Egypt,25,111,22,39,4,0.1,0,30,7.4,Africa,25.48,28.98
+Kharga Egypt,67,72,25,37,9,0.1,0,39,19,Africa,25.44,30.56
+Bawiti Egypt,30,128,21,36,4,0.1,0,48,8.1,Africa,28.35,28.85
+Atar Mauritania,25,224,28,40,15,0,0,29,17,Africa,20.51,-13.05
+Lake_Bull Antarctica,0,226,-19.8,4.7,-42.6,0,10,37.8,17.4,Antarctica,-77.53,161.72
+San_Martin_Base Antarctica,0,8,-5.1,4.2,-17.1,0,31,78,19.9,Antarctica,-68.13,-67.10
+Oasis_Antarctica,0,28,-8.5,4,-24,0,21,55,16.1,Antarctica,-82.86,135.00
+Esperanza_Base Antarctica,0,13,-5.3,3.2,-15.1,0,50,80,28.2,Antarctica,-63.40,-56.99
+Deception_Island Antarctica,0,7,-3,2,-11,0,56,86,46,Antarctica,-62.94,-60.56
+Vernadsky_Station Antarctica,0,3,-5,2,-15,0,45,85,20,Antarctica,-82.86,135.00
+Casey_Base Antarctica,0,40,-8,2,-18,0,28,72.5,43,Antarctica,-66.28,110.53
+Davis_Station Antarctica,0,12,-10,2,-20,0,8,62,20,Antarctica,-68.58,77.97
+Mawson_Station Antarctica,0,8,-11,2,-21,0,25,57,49,Antarctica,-67.60,62.87
+Mirny Antarctica,0,29,-10.5,1,-21,0,62,69,54,Antarctica,-66.55,93.01
+Cape_Denison Antarctica,0,1,-12.5,1,-22,0,25,73,71,Antarctica,-67.01,142.66
+Marambio_Base Antarctica,0,-5,-8.9,0.5,-18.8,0,70.9,72,35.3,Antarctica,-64.24,-56.63
+McMurdo_Station Antarctica,0,7,-16.9,-1,-31,0,20.3,63.5,22,Antarctica,-77.84,166.69
+Scott_Base Antarctica,0,16,-20.2,-1.4,-37.4,0,18.5,35,20,Antarctica,-77.85,166.76
+Little_America Antarctica,0,42,-22,-2,-41,0,26.3,83,54,Antarctica,-77.50,-162.00
+Ellsworth_Station Antarctica,0,42,-22,-5,-37,0,8,50,14.8,Antarctica,-82.86,135.00
+South_Pole Antarctica,0,2834,-48,-25,-63,0,1,35,22,Antarctica,-90.00,0.00
+Komsomolskaya Antarctica,0,3539,-52,-27,-71,0,4,71,27.6,Antarctica,-82.86,135.00
+Vostok Antarctica,0,3419,-55.5,-28,-75,0,5,74,12,Antarctica,-78.46,106.83
