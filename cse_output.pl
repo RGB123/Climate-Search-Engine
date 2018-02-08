@@ -1,3 +1,18 @@
+#------------------------------------------------------------------------------
+# CLIMATE SEARCH ENGINE - OUTPUT GENERATOR
+#
+# By: Richard Bekeris
+# GitHub Repository: https://github.com/RGB123/cse
+# Last Modified: 8 Feb 2018
+#
+# This script generates a world map w/ markers corresponding
+# to the user's Climate Search Engine results
+#
+# Map source: https://upload.wikimedia.org/wikipedia/commons/8/83/Equirectangular_projection_SW.jpg
+# Dependencies: GD::Simple
+#
+#------------------------------------------------------------------------------
+
 use strict;
 use warnings;
 use GD::Simple;

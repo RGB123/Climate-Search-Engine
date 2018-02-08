@@ -1,15 +1,38 @@
-#-----------------------------------------------------------------------------#
-# Climate Search Engine
+#------------------------------------------------------------------------------
+# CLIMATE SEARCH ENGINE
 # 
-# Richard Bekeris
-# BIO 59500-033
-# Final Project
-# 30 April 2017
+# By: Richard Bekeris
+# GitHub Repository: https://github.com/RGB123/cse
+# Last Modified: 8 Feb 2018
 # 
-# All climate data sourced from Weatherbase.com, WeatherSpark.com, and/or
-# Wikipedia.org
+# This program contains 4 modules:
+# * DATA FILE PARSER
+# * RECORD LOOKUP
+# * DEFAULT SEARCH
+# * CUSTOM SEARCH
+#
+# DATA FILE PARSER: Opens CSV file, parses and stores climate data in memory,
+# and returns average/standard deviation for each category.
+#
+# RECORD LOOKUP: Allows user to search climate data records, check for any
+# missing/erroneous data.
+#
+# DEFAULT SEARCH: Allows user to specify a city name, and search engine will
+# attempt to find a unique match. If found, the engine will calculate a
+# ranked list of cities whose climate is most similar to the search input. The 
+# user can then generate a PNG map displaying the locations of the top 10 
+# results.
+#
+# CUSTOM SEARCH: Allows user to specify their own search criteria for the 
+# various climate data categories (temperature, rainfall, humidity, etc.)
+# and assign weights to each category. The search engine will then calculate
+# a ranked list of cities whose climate is most similar to the search input.
+# Map-generating capabilities have not been added yet.
+#
+# Data Sources: Weatherbase.com, Wikipedia.org, Weatherspark.com
+# Dependencies: None
 # 
-#-----------------------------------------------------------------------------#
+#------------------------------------------------------------------------------
 # OPENING CSV DATA FILE
 
 use warnings;
