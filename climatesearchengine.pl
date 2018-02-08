@@ -5,7 +5,7 @@
 # GitHub Repository: https://github.com/RGB123/cse
 # Last Modified: 8 Feb 2018
 # 
-# Optimized for: ActivePerl 5.22.2 Build 2203
+# Optimized for: ActivePerl 5.22.4
 #
 # This program contains 4 modules:
 # * STARTUP
@@ -31,9 +31,9 @@
 # a ranked list of cities whose climate is most similar to the search input.
 # Map-generating capabilities have not been added yet.
 #
-# Data Sources (for CSV file): Weatherbase.com, Wikipedia.org, Weatherspark.com
-# 
+# Climate Data Source(s): Weatherbase.com, Weatherspark.com, Wikipedia.org
 # Dependencies: climatedataworld-stats.csv, cse_output.pl
+#
 
 use warnings;
 use strict;

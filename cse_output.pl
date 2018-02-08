@@ -5,12 +5,16 @@
 # GitHub Repository: https://github.com/RGB123/cse
 # Last Modified: 8 Feb 2018
 #
-# Optimized for: ActivePerl 5.22.2 Build 2203
+# Optimized for: ActivePerl 5.22.4
 #
-# This script generates a world map w/ markers corresponding
-# to the user's Climate Search Engine results
+# This is a separate script (cse_output.pl) that is invoked
+# when the user chooses to map their search results in the main program
+# (climatesearchengine.pl). It uses GD::Simple to open the world map JPEG file 
+# (equi-world-map.jpg), draws the locations of the search results, saves the 
+# output as a PNG file, and displays it on the screen. Control is reverted back
+# to the main script after this.
 #
-# Map source: https://upload.wikimedia.org/wikipedia/commons/8/83/Equirectangular_projection_SW.jpg
+# Map Source: https://upload.wikimedia.org/wikipedia/commons/8/83/Equirectangular_projection_SW.jpg
 # 
 # Dependencies: GD::Simple, climatesearchengine.pl (and coord file generated
 # by it), equi-world-map.jpg
