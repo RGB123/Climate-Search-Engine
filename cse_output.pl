@@ -5,11 +5,15 @@
 # GitHub Repository: https://github.com/RGB123/cse
 # Last Modified: 8 Feb 2018
 #
+# Optimized for: ActivePerl 5.22.2 Build 2203
+#
 # This script generates a world map w/ markers corresponding
 # to the user's Climate Search Engine results
 #
 # Map source: https://upload.wikimedia.org/wikipedia/commons/8/83/Equirectangular_projection_SW.jpg
-# Dependencies: GD::Simple
+# 
+# Dependencies: GD::Simple, climatesearchengine.pl (and coord file generated
+# by it), equi-world-map.jpg
 #
 #------------------------------------------------------------------------------
 

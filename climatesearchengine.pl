@@ -5,13 +5,15 @@
 # GitHub Repository: https://github.com/RGB123/cse
 # Last Modified: 8 Feb 2018
 # 
+# Optimized for: ActivePerl 5.22.2 Build 2203
+#
 # This program contains 4 modules:
-# * DATA FILE PARSER
+# * STARTUP
 # * RECORD LOOKUP
 # * DEFAULT SEARCH
 # * CUSTOM SEARCH
 #
-# DATA FILE PARSER: Opens CSV file, parses and stores climate data in memory,
+# STARTUP: Opens CSV file, parses and stores climate data in memory,
 # and returns average/standard deviation for each category.
 #
 # RECORD LOOKUP: Allows user to search climate data records, check for any
@@ -21,7 +23,7 @@
 # attempt to find a unique match. If found, the engine will calculate a
 # ranked list of cities whose climate is most similar to the search input. The 
 # user can then generate a PNG map displaying the locations of the top 10 
-# results.
+# results (this is performed by CSE Output Generator program).
 #
 # CUSTOM SEARCH: Allows user to specify their own search criteria for the 
 # various climate data categories (temperature, rainfall, humidity, etc.)
@@ -29,17 +31,17 @@
 # a ranked list of cities whose climate is most similar to the search input.
 # Map-generating capabilities have not been added yet.
 #
-# Data Sources: Weatherbase.com, Wikipedia.org, Weatherspark.com
-# Dependencies: None
+# Data Sources (for CSV file): Weatherbase.com, Wikipedia.org, Weatherspark.com
 # 
-#------------------------------------------------------------------------------
-# OPENING CSV DATA FILE
+# Dependencies: climatedataworld-stats.csv, cse_output.pl
 
 use warnings;
 use strict;
 
-sleep(1);
-print "\nCLIMATE SEARCH ENGINE - STARTUP CHECK\n";
+#------------------------------------------------------------------------------
+# OPENING CSV DATA FILE
+
+print "\nCLIMATE SEARCH ENGINE - STARTUP\n";
 print "-------------------------------------\n";
 sleep(1);
 
@@ -118,7 +120,6 @@ if ($entry_count == 0)
 	exit 0;
 }
 close $climate_data;
-sleep(1);
 
 # Report number of entries compiled:
 print "* Data for $entry_count locations was compiled.\n\n";
@@ -204,8 +205,6 @@ foreach my $city (keys %climate_profiles)
 	$humid_sq_diff		= ( ($humid_ref - $climate_avgs[7]) ** 2 );
 	$wind_sq_diff		= ( ($wind_ref - $climate_avgs[8]) ** 2 );
 	
-	# Maybe condense RH side above with LH side below:
-	
 	$climate_stdevs[0] += $pop_sq_diff;
 	$climate_stdevs[1] += $elev_sq_diff;
 	$climate_stdevs[2] += $avg_temp_sq_diff;
@@ -238,7 +237,7 @@ printf "%-25s %10.2f %10.2f %10.2f %10.2f %10.2f %10.2f %10.2f %10.2f %10.2f\n",
 sleep(1);
 
 print "\n* Startup complete! Initializing Record Lookup module...\n\n";
-sleep(2);
+sleep(1);
 
 #------------------------------------------------------------------------------#
 # Instructions and tips for Climate Record Search module:
@@ -247,20 +246,6 @@ print "CLIMATE SEARCH ENGINE - RECORD LOOKUP\n";
 print "-------------------------------------\n\n";
 sleep(1);
 
-print "Instructions:\n\n";
-
-print "This module allows the user to search through the climate record database by\n";
-print "entering a full or partial location name. All results which contain an\n";
-print "exact match for the user search input will be displayed, along with their\n";
-print "corresponding climate data.\n\n";
-
-print "For certain countries (USA, Canada, Mexico, Brazil, India, China, Australia), the\n";
-print "states/provinces are also included. To search for a certain state/province, type in\n";
-print "its initials, using capital letters only (e.g. NY, AB, NSW).\n\n";
-
-print "For convenience, some countries with lengthy names are also represented by their\n";
-print "initials (e.g. USA, UK, UAE, NZ, CAR, DRC, RD). If you use the full name, the program\n";
-print "will do its best to interpret it, but for best results, stick with using the initials!\n\n";
 #---------------------------------------------------------------------------------------------#
 
 # RECORD LOOKUP PROMPT AND LOOP
@@ -377,15 +362,6 @@ sleep(2);
 
 print "\nCLIMATE SEARCH ENGINE - DEFAULT SEARCH\n";
 print "--------------------------------------\n\n";
-sleep(1);
-
-print "Instructions:\n\n";
-
-print "When prompted, enter the name of a location. The search engine will attempt\n";
-print "to find other cities whose climates are most similar to your selection. This is done\n";
-print "by calculating the weighted difference between your city's climate data and every\n";
-print "other city in the database, and sorting them based on the 'difference score.' The\n";
-print "lowest-scoring (most similar) cities will be displayed in ascending order.\n\n";
 sleep(1);
 
 print "Options:\n\n";
@@ -601,7 +577,7 @@ while ($done_default == 0)
 		print "\n* Found matching record: $cities_found[0]. Calculating difference scores...\n";
 		sleep(1);
 		
-		# Loop activated when '/' modifier is included in user input:
+		# activated when '/' modifier is included in user input:
 		if ($exclude_continent == 1)
 		{
 			# Retrieve continent from climate_profiles hash:
@@ -610,7 +586,7 @@ while ($done_default == 0)
 			sleep(1);
 		}
 		
-		# Loop activated when '\' modifier is included in user input:
+		# activated when '\' modifier is included in user input:
 		if ($continent_only == 1)
 		{
 			# Retrieve continent from climate_profiles hash
@@ -629,7 +605,7 @@ while ($done_default == 0)
 			sleep(1);
 		}
 		
-		# Loop activated when '<' modifier is included in user input:
+		# activated when '<' modifier is included in user input:
 		if ($country_only == 1)
 		{
 			# Split user-selected city's name into words, save the last word as the country name:
@@ -802,19 +778,61 @@ while ($done_default == 0)
 			delete $def_diff_scores{$city};
 		}			
 	}
-	
+	#--------------------------------------------------------------------------
+	# HANDLING SEARCH MISTAKES
+
 	# If more than one matching record is found:
 	if ($keyword_match_count > 1)
 	{
 		# List the matching records:
 		print "\n* Your search criteria matched more than one city:\n\n";
 		
+		my $found_counter = 0;
 		foreach my $found_city (@cities_found)
 		{
-			print "* $found_city\n";
+			$found_counter += 1;
+			print "* $found_counter - $found_city\n";
 		}
-		# Print error statement:
-		print "\n* Please refine your search and try again!\n\n";
+		
+		# Flag that determines if user has made a valid selection:
+		my $city_chosen = 0;
+		
+		while ($city_chosen == 0)
+		{
+			# Print error statement:
+			print "\n* Type in the number corresponding to your desired result to proceed: ";
+			my $city_choice = <STDIN>;
+			exit 0 if ($city_choice =~ m/^quit$/i);
+			
+			# If user specifies number corresponding to a city:
+			if ($city_choice =~ m/^[0-9]+$/ && $city_choice <= $found_counter)
+			{
+				# Assign matching city as the search criteria:
+				@cities_found = $cities_found[$city_choice - 1];
+				my $city_match = $cities_found[0];
+			
+				# Assign city attributes to the search profile:
+				(	$def_city, $def_pop, $def_elev, $def_avg_temp, 
+					$def_high_temp, $def_low_temp, $def_rain, 
+					$def_snow, $def_humid, $def_wind	) = 
+				(	$city_match, $climate_profiles{$city_match}->[0], 
+					$climate_profiles{$city_match}->[1], $climate_profiles{$city_match}->[2], 
+					$climate_profiles{$city_match}->[3], $climate_profiles{$city_match}->[4], 
+					$climate_profiles{$city_match}->[5], $climate_profiles{$city_match}->[6], 
+					$climate_profiles{$city_match}->[7], $climate_profiles{$city_match}->[8] 	);
+			
+				# Proceed to calculating difference scores:
+				$keyword_match_count = 1;
+				goto CALCDIFF;
+			}
+			# If user makes mistake in choosing city to search with:
+			else
+			{
+				print "\n* Error: select a number that matches one of the options above.\n";
+				sleep(1);
+				next;
+			}
+		}
 	}
 	# If no exact matching records are found:
 	elsif ($keyword_match_count == 0)
