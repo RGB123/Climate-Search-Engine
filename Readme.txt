@@ -54,7 +54,7 @@
 # various climate data categories (temperature, rainfall, humidity, etc.)
 # and assign weights to each category. The search engine will then calculate
 # a ranked list of cities whose climate is most similar to the search input.
-# Map-generating capabilities have not been added yet.
+# Note: Map-generating capabilities have not been added to this module yet.
 #
 # 5. OUTPUT GENERATOR: This is a separate script (cse_output.pl) that is invoked
 # when the user chooses to map their search results in the main program
@@ -62,6 +62,34 @@
 # (equi-world-map.jpg), draws the locations of the search results, saves the 
 # output as a PNG file, and displays it on the screen. Control is reverted back
 # to the main script after this.
+#
+# CUSTOM DATA FILES
+# -----------------
+#
+# Although a CSV data file is provided (climatedataworld-stats.csv), you may
+# choose to provide your own custom data source. This can be accomplished as
+# long as you keep the following in mind:
+#
+# 1. Only CSV files are compatible.
+#
+# 2. To get the Climate Search Engine to use your data file, run it from
+#    the command line, and pass in the CSV file name as an argument.
+#
+# 3. The CSV file must include a header line with the following categories,
+#    and data entries must adhere to the metric/SI units provided:
+#    a. Name
+#    b. Population (k)
+#    c. Elevation (m)
+#    d. Average Annual Temperature (C)
+#    e. Highest Average Monthly High Temperature (C)
+#    f. Lowest Average Monthly Low Temperature (C)
+#    g. Average Annual Rainfall (cm)
+#    h. Average Annual Snowfall (cm)
+#    i. Average Annual Relative Humidity (%)
+#    j. Average Annual Windspeed (kmh)
+#    k. Continent/Region
+#    l. Latitude (+/-)
+#    m. Longitude (+/-)
 #
 # SOURCES & DEPENDENCIES
 # ----------------------
