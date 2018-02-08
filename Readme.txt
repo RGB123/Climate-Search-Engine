@@ -69,3 +69,9 @@
 # Climate Data Sources: Weatherbase.com, Weatherspark.com, Wikipedia.org
 # World Map Source: https://upload.wikimedia.org/wikipedia/commons/8/83/Equirectangular_projection_SW.jpg
 # Dependencies: ActivePerl Community Edition, GD::Simple
+#
+# LICENSING
+# ---------
+#
+# TBD soon
+#
