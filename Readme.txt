@@ -18,6 +18,7 @@
 #    * cse_output.pl
 #    * climatedataworld-stats.csv
 #    * equi-world-map.jpg
+#	 * Readme.txt
 #
 # EXECUTION
 # ---------
