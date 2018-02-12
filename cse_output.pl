@@ -128,7 +128,3 @@ if ($save_map =~ m/^[Nn]$/)
 	unlink "cse_map_$timestamp-$ARGV[1].png";
 	unlink $ARGV[0];
 }
-else
-{
-	next;
-}

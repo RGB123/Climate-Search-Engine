@@ -1511,8 +1511,7 @@ while ($done_custom == 0)
 	# STARTING ANOTHER CUSTOM SEARCH
 	
 	# Ask user to perform another custom search, or quit the program:
-	print "\nTo perform another custom search, type in 'custom'. To plot this data";
-	print "\non a map, type in 'plot'. Otherwise, program will quit: ";
+	print "\nTo perform another custom search, type in 'custom'. Otherwise, program will quit: ";
 	my $search_again = <STDIN>;
 	chomp $search_again;
 	
