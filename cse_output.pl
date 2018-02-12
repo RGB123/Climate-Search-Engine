@@ -109,7 +109,7 @@ my $timestamp = localtime();
 $timestamp =~ s/[\W]//g;
 
 # Create the timestamped output file to save the map:
-open ($out_file, '>', "cse_map_$timestamp-$ARGV[1].png") or die "Could not create JPG output file!\n";
+open ($out_file, '>', "cse_map_$timestamp-$ARGV[1].png") or die "* Could not create JPG output file!\n";
 binmode $out_file;
 
 # Save world map w/ markers to new PNG file:
@@ -139,7 +139,8 @@ else
 	# Close and move the map and CSV file to the 'results' folder:
 	close $map;
 	
-	system "move $map %cd%/results";
-	system "move $csv %cd%/results";
+	system "if not exist results mkdir results";
+	system "move $map %cd%/results" || die "* Could not move the map file!\n";
+	system "move $csv %cd%/results" || die "* Could not move the CSV file!\n";
 	
 }
