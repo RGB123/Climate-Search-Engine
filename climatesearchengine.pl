@@ -836,6 +836,7 @@ while ($done_default == 0)
 			}
 		}
 	}
+	
 	# If no exact matching records are found:
 	elsif ($keyword_match_count == 0)
 	{
