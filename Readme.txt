@@ -106,6 +106,6 @@
 # LICENSING
 # ---------
 #
-# No license added for the time being. All Rights Reserved to Author (Richard Bekeris). Commercial/Private use
-# or modification without the Author's consent is prohibited.
+# No license added for the time being. All Rights Reserved to Author (Richard Bekeris). 
+# Commercial/Private use or modification without the Author's consent is prohibited.
 #
