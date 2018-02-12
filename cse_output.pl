@@ -142,5 +142,4 @@ else
 	system "if not exist results mkdir results";
 	system "move $map %cd%/results" || die "* Could not move the map file!\n";
 	system "move $csv %cd%/results" || die "* Could not move the CSV file!\n";
-	
 }
