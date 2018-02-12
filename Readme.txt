@@ -27,7 +27,8 @@
 # Initiate the 'climatesearchengine.pl' script by double-clicking it, or by
 # running it from the command line (CMD.exe).
 #
-# This program has not been tested on systems other than Windows 10, and makes use of Windows-specific system calls.
+# This program has not been tested on systems other than Windows 10, 
+# and makes use of Windows-specific system calls.
 #
 # DESCRIPTION
 # -----------
