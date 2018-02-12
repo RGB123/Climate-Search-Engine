@@ -379,6 +379,7 @@ print "* If you want to specify your own parameters and weights, use the Custom 
 
 # Used in error statement if user finds more than one matching city:
 my @cities_found;
+my @map_locations;
 
 # Initialize hashes to hold diff-scores and residuals for each city:
 my %def_diff_scores;
@@ -388,23 +389,21 @@ my %removed_profiles;
 # Initialize variables here to prevent compile errors:
 my $done_default = 0;
 
-my $def_city = 0;
-my $def_diff_score = 0;
-my $keyword_match_count = 0;
-
+my $def_city;
 my $def_country;
 my $def_continent;
+my $def_diff_score;
 
-# Control variables for country/continent search modifiers:
+# Pre-defined display limit for search results:
+my $def_result_limit = 40;
+
+# Flags for country/continent search modifiers:
 my $exclude_country = 0;
 my $country_only = 0;
 my $exclude_continent = 0;
 my $continent_only = 0;
 
-# Pre-defined display limit for search results:
-my $def_result_limit = 30;
-
-my @map_locations;
+my $keyword_match_count;
 
 # Default Search Prompt and Loop:
 while ($done_default == 0)
@@ -481,7 +480,7 @@ while ($done_default == 0)
 		print "  Remove one of the modifiers from your input and try again!\n";
 	}
 	
-	# Regex: Error statement if user includes both '<' and '>':
+	# Regex: Error statement if user includes both '\' and '/':
 	if ($def_search =~ m/[\/]/ && $def_search =~ m/[\\]/)
 	{
 		# Clear user input so that it cannot proceed with matching:
@@ -504,6 +503,7 @@ while ($done_default == 0)
 	# Convert common alternative place names here, so that they match the database format:
 	$def_search =~ s/\bnyc\b/New York/i;
 	$def_search =~ s/bay area/San Francisco/i;
+	$def_search =~ s/united states of america/USA/i;
 	$def_search =~ s/united states/USA/i;
 	$def_search =~ s/\bUS\b/USA/i;
 	$def_search =~ s/new zealand/NZ/i;
@@ -589,7 +589,7 @@ while ($done_default == 0)
 		# activated when '\' modifier is included in user input:
 		if ($continent_only == 1)
 		{
-			# Retrieve continent from climate_profiles hash
+			# Retrieve continent from climate_profiles hash:
 			$def_continent = $climate_profiles{$cities_found[0]}->[9];
 			print "\n* Limiting search scope to $def_continent...\n";
 			sleep(1);
@@ -670,15 +670,42 @@ while ($done_default == 0)
 			$def_diff_profiles{$city} = [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ];
 			
 			# Calculate standardized/weighted residual for each category (residual between user input and each entry):
-			$def_diff_profiles{$city}->[0] = log( abs( $def_pop - $climate_profiles{$city}->[0] ) / $climate_stdevs[0] + 1 ) * $def_weight_pop;
-			$def_diff_profiles{$city}->[1] = log( abs( $def_elev - $climate_profiles{$city}->[1] ) / $climate_stdevs[1] + 1 ) * $def_weight_elev;
-			$def_diff_profiles{$city}->[2] = abs( $def_avg_temp - $climate_profiles{$city}->[2] ) / $climate_stdevs[2] * $def_weight_avg_temp;
-			$def_diff_profiles{$city}->[3] = abs( $def_high_temp - $climate_profiles{$city}->[3] ) / $climate_stdevs[3] * $def_weight_high_temp;
-			$def_diff_profiles{$city}->[4] = abs( $def_low_temp - $climate_profiles{$city}->[4] ) / $climate_stdevs[4] * $def_weight_low_temp;
-			$def_diff_profiles{$city}->[5] = log( abs( $def_rain - $climate_profiles{$city}->[5] ) / $climate_stdevs[5] + 1 ) * $def_weight_rain;
-			$def_diff_profiles{$city}->[6] = log( abs( $def_snow - $climate_profiles{$city}->[6] ) / $climate_stdevs[6] + 1 ) * $def_weight_snow;
-			$def_diff_profiles{$city}->[7] = abs( $def_humid - $climate_profiles{$city}->[7] ) / $climate_stdevs[7] * $def_weight_humid;
-			$def_diff_profiles{$city}->[8] = abs( $def_wind - $climate_profiles{$city}->[8] ) / $climate_stdevs[8] * $def_weight_wind;
+			$def_diff_profiles{$city}->[0] = 
+			log( abs( $def_pop - $climate_profiles{$city}->[0] ) 
+			/ $climate_stdevs[0] + 1 ) * $def_weight_pop;
+			
+			$def_diff_profiles{$city}->[1] = 
+			log( abs( $def_elev - $climate_profiles{$city}->[1] ) 
+			/ $climate_stdevs[1] + 1 ) * $def_weight_elev;
+			
+			$def_diff_profiles{$city}->[2] = 
+			abs( $def_avg_temp - $climate_profiles{$city}->[2] ) 
+			/ $climate_stdevs[2] * $def_weight_avg_temp;
+			
+			$def_diff_profiles{$city}->[3] = 
+			abs( $def_high_temp - $climate_profiles{$city}->[3] ) 
+			/ $climate_stdevs[3] * $def_weight_high_temp;
+			
+			$def_diff_profiles{$city}->[4] = 
+			abs( $def_low_temp - $climate_profiles{$city}->[4] ) 
+			/ $climate_stdevs[4] * $def_weight_low_temp;
+			
+			$def_diff_profiles{$city}->[5] = 
+			log( abs( $def_rain - $climate_profiles{$city}->[5] ) 
+			/ $climate_stdevs[5] + 1 ) * $def_weight_rain;
+			
+			$def_diff_profiles{$city}->[6] = 
+			log( abs( $def_snow - $climate_profiles{$city}->[6] ) 
+			/ $climate_stdevs[6] + 1 ) * $def_weight_snow;
+			
+			$def_diff_profiles{$city}->[7] = 
+			abs( $def_humid - $climate_profiles{$city}->[7] ) 
+			/ $climate_stdevs[7] * $def_weight_humid;
+			
+			$def_diff_profiles{$city}->[8] = 
+			abs( $def_wind - $climate_profiles{$city}->[8] ) 
+			/ $climate_stdevs[8] * $def_weight_wind;
+			
 			# Note: By default, Population is weighted per thousand people.
 			# Pop, Elev, Rain, and Snowfall are also weighted logarithmically. 
 			# All the rest are weighted normally.
@@ -1402,7 +1429,7 @@ while ($done_custom == 0)
 		else
 		{
 			print "\n* Input not recognized, default limit will be used...\n";
-			$display_limit = 30;
+			$display_limit = 40;
 		}
 		# Exit loop:
 		$display_limit_set = 1;
