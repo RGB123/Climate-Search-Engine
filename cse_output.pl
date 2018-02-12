@@ -139,7 +139,7 @@ else
 	# Close and move the map and CSV file to the 'results' folder:
 	close $map;
 	
-	system "move $map /results";
-	system "move $csv /results";
+	system "move $map %cd%/results";
+	system "move $csv %cd%/results";
 	
 }
