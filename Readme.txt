@@ -12,6 +12,7 @@
 # 1. Download/Install ActivePerl Community Edition 5.22.4: https://www.activestate.com/activeperl/downloads
 #
 # 2. Download/Install GD::Simple from CPAN: http://search.cpan.org/~lds/GD-2.49/GD/Simple.pm
+#    (easy way: type 'ppm install GD::Simple' at the command line once Step 1 is completed)
 #
 # 3. Create a new directory, and download/save the following resources to it:
 #    * climatesearchengine.pl
