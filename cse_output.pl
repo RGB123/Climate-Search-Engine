@@ -24,7 +24,6 @@
 use strict;
 use warnings;
 use GD::Simple;
-use File::Copy;
 
 my $coords;
 my $coord_file = $ARGV[0];
