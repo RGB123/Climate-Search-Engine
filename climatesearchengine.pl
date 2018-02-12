@@ -395,7 +395,7 @@ my $def_continent;
 my $def_diff_score;
 
 # Pre-defined display limit for search results:
-my $def_result_limit = 40;
+my $def_result_limit = 30;
 
 # Flags for country/continent search modifiers:
 my $exclude_country = 0;
@@ -1429,7 +1429,7 @@ while ($done_custom == 0)
 		else
 		{
 			print "\n* Input not recognized, default limit will be used...\n";
-			$display_limit = 40;
+			$display_limit = 30;
 		}
 		# Exit loop:
 		$display_limit_set = 1;
