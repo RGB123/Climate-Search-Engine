@@ -2,8 +2,8 @@
 # CLIMATE SEARCH ENGINE
 # 
 # Author: Richard Bekeris
-# GitHub Repository: https://github.com/RGB123/cse
-# Last Modified: 8 Feb 2018
+# GitHub Repository: https://github.com/RGB123/Climate-Search-Engine
+# Last Modified: 12 Feb 2018
 # Optimized for: ActivePerl 5.22.4
 #
 # INSTALLATION
@@ -26,7 +26,7 @@
 # Initiate the 'climatesearchengine.pl' script by double-clicking it, or by
 # running it from the command line (CMD.exe).
 #
-# This program has not been tested on systems other than Windows 10.
+# This program has not been tested on systems other than Windows 10, and makes use of Windows-specific system calls.
 #
 # DESCRIPTION
 # -----------
@@ -94,12 +94,16 @@
 # SOURCES & DEPENDENCIES
 # ----------------------
 #
+# I do not take credit for the data gathered or generated through use of this program. All rights
+# reserved for the respective owners:
+#
 # Climate Data Sources: Weatherbase.com, Weatherspark.com, Wikipedia.org
 # World Map Source: https://upload.wikimedia.org/wikipedia/commons/8/83/Equirectangular_projection_SW.jpg
-# Dependencies: ActivePerl Community Edition, GD::Simple
+# Dependencies: ActivePerl Community Edition, GD::Simple, Windows OS
 #
 # LICENSING
 # ---------
 #
-# TBD soon
+# No license added for the time being. All Rights Reserved to Author (Richard Bekeris). Commercial/Private use
+# or modification without the Author's consent is prohibited.
 #
