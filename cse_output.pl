@@ -24,13 +24,13 @@
 use strict;
 use warnings;
 use GD::Simple;
+use File::Copy;
 
 my $coords;
 my $coord_file = $ARGV[0];
 
 my $city_profile = $ARGV[1];
 
-my $map;
 my $map_file = "equi-world-map.jpg";
 
 my %coord_profiles;
@@ -104,18 +104,24 @@ foreach my $city (keys %coord_profiles)
 
 my $out_file;
 
+# Create timestamp to add onto file name:
 my $timestamp = localtime();
 $timestamp =~ s/[\W]//g;
 
 # Create the timestamped output file to save the map:
 open ($out_file, '>', "cse_map_$timestamp-$ARGV[1].png") or die "Could not create JPG output file!\n";
 binmode $out_file;
+
 # Save world map w/ markers to new PNG file:
 print $out_file $world_map->png;
 
 close $out_file;
 
-system "cse_map_$timestamp-$ARGV[1].png";
+my $map = "cse_map_$timestamp-$ARGV[1].png";
+my $csv = $ARGV[0];
+
+# Print edited map to console:
+system $map;
 
 # Ask user if they want to save map and its associated data file:
 print "\nDo you want to save the map and associated data? [Y/N]: ";
@@ -124,7 +130,16 @@ my $save_map = <STDIN>;
 # If user says 'No', close map file and delete it along with output file:
 if ($save_map =~ m/^[Nn]$/)
 {
-	close "cse_map_$timestamp-$ARGV[1].png";
-	unlink "cse_map_$timestamp-$ARGV[1].png";
-	unlink $ARGV[0];
+	# Close and delete the map and CSV file:
+	close $map;
+	unlink $map, $coords;
+}
+else
+{	
+	# Close and move the map and CSV file to the 'results' folder:
+	close $map;
+	
+	system "move $map /results";
+	system "move $csv /results";
+	
 }

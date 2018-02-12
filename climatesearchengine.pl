@@ -754,6 +754,7 @@ while ($done_default == 0)
 			
 			open( $loc_file, ">", "cse_matches_$timestamp-$cities_found[0].csv" ) || die "* Could not create output file!\n";
 			
+			# Sends city/state/country name and lat/long coordinates to output CSV file:
 			foreach my $city (@map_locations)
 			{
 				print $loc_file "$$city[0],$$city[1],$$city[2]\n";
@@ -762,6 +763,7 @@ while ($done_default == 0)
 			# Close the completed output file:
 			close( $loc_file );
 			
+			# Execute Output generator script, with CSV file and full city name as arguments:
 			system "cse_output.pl cse_matches_$timestamp-$cities_found[0].csv $cities_found[0]";
 		}
 		
