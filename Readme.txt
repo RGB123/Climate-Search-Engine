@@ -10,6 +10,8 @@
 # ------------
 #
 # 1. Download/Install ActivePerl Community Edition 5.22.4: https://www.activestate.com/activeperl/downloads
+#    (make sure to enable the option for associating '.pl' extension with Perl files, 
+#     so you can execute the script directly)
 #
 # 2. Download/Install GD::Simple from CPAN: http://search.cpan.org/~lds/GD-2.49/GD/Simple.pm
 #    (easy way: type 'ppm install GD::Simple' at the command line once Step 1 is completed)

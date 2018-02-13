@@ -105,7 +105,8 @@ while (my $in = <$climate_data>)
 										$low_temp_C, $rainfall_cm, 
 										$snowfall_cm, $rel_humidity,
 										$wind_kmh, $continent, $lat,
-										$long ];
+										$long 
+									];
 	
 		# Count the number of entries and number of lines:
 		$entry_count += 1;
@@ -128,41 +129,23 @@ sleep(1);
 #-------------------------------------------------------------------------------------
 # CALCULATING AVERAGES AND STANDARD DEVIATIONS
 
-# Declare variable names for references to access climate data:
-my ($pop_ref, $elev_ref, $avg_temp_ref, $high_temp_ref, $low_temp_ref,
-	$rain_ref, $snow_ref, $humid_ref, $wind_ref, $cont_ref);
-
-# Declare variables and array for storing averages:
-my ($avg_pop, $avg_elev, $avg_avg_temp, 
-	$avg_high_temp, $avg_low_temp, $avg_rain, 
-	$avg_snow, $avg_humid, $avg_wind) = (0, 0, 0, 0, 0, 0, 0, 0, 0);
-	
-my @climate_avgs = ($avg_pop, $avg_elev, $avg_avg_temp, $avg_high_temp, $avg_low_temp,
+# Declare variables and array for storing averages:	
+my @climate_avgs = my ($avg_pop, $avg_elev, $avg_avg_temp, $avg_high_temp, $avg_low_temp,
 					$avg_rain, $avg_snow, $avg_humid, $avg_wind);
 
 # Loop through all climate records, calculate totals for each variable, then
 # divide by number of records to obtain the average:
 foreach my $city (keys %climate_profiles)
-{
-	$pop_ref 			= $climate_profiles{$city}->[0];
-	$elev_ref 			= $climate_profiles{$city}->[1];
-	$avg_temp_ref 		= $climate_profiles{$city}->[2];
-	$high_temp_ref 		= $climate_profiles{$city}->[3];
-	$low_temp_ref 		= $climate_profiles{$city}->[4];
-	$rain_ref 			= $climate_profiles{$city}->[5];
-	$snow_ref 			= $climate_profiles{$city}->[6];
-	$humid_ref 			= $climate_profiles{$city}->[7];
-	$wind_ref 			= $climate_profiles{$city}->[8];
-	
-	$climate_avgs[0] 	+= $pop_ref;
-	$climate_avgs[1] 	+= $elev_ref;
-	$climate_avgs[2] 	+= $avg_temp_ref;
-	$climate_avgs[3] 	+= $high_temp_ref;
-	$climate_avgs[4] 	+= $low_temp_ref;
-	$climate_avgs[5]	+= $rain_ref;
-	$climate_avgs[6]	+= $snow_ref;
-	$climate_avgs[7] 	+= $humid_ref;
-	$climate_avgs[8]	+= $wind_ref;
+{	
+	$climate_avgs[0] += $climate_profiles{$city}->[0];
+	$climate_avgs[1] += $climate_profiles{$city}->[1];
+	$climate_avgs[2] += $climate_profiles{$city}->[2];
+	$climate_avgs[3] += $climate_profiles{$city}->[3];
+	$climate_avgs[4] += $climate_profiles{$city}->[4];
+	$climate_avgs[5] += $climate_profiles{$city}->[5];
+	$climate_avgs[6] += $climate_profiles{$city}->[6];
+	$climate_avgs[7] += $climate_profiles{$city}->[7];
+	$climate_avgs[8] += $climate_profiles{$city}->[8];
 }
 
 foreach my $avg (@climate_avgs)
@@ -171,49 +154,22 @@ foreach my $avg (@climate_avgs)
 }
 
 # Declare variables and array for storing standard deviations:
-my ($sd_pop, $sd_elev, $sd_avg_temp, 
-	$sd_high_temp, $sd_low_temp, $sd_rain, 
-	$sd_snow, $sd_humid, $sd_wind) = (0, 0, 0, 0, 0, 0, 0, 0, 0);
-
-my @climate_stdevs = (	$sd_pop, $sd_elev, $sd_avg_temp, 
+my @climate_stdevs = my (	$sd_pop, $sd_elev, $sd_avg_temp, 
 						$sd_high_temp, $sd_low_temp, $sd_rain, 
 						$sd_snow, $sd_humid, $sd_wind);
-
-my ($pop_sq_diff, $elev_sq_diff, $avg_temp_sq_diff, $high_temp_sq_diff,
-	$low_temp_sq_diff, $rain_sq_diff, $snow_sq_diff, $humid_sq_diff, $wind_sq_diff);
 						
 # Loop through all city records to calculate standard deviations:
 foreach my $city (keys %climate_profiles)
-{
-	$pop_ref 			= $climate_profiles{$city}->[0];
-	$elev_ref 			= $climate_profiles{$city}->[1];
-	$avg_temp_ref 		= $climate_profiles{$city}->[2];
-	$high_temp_ref 		= $climate_profiles{$city}->[3];
-	$low_temp_ref 		= $climate_profiles{$city}->[4];
-	$rain_ref 			= $climate_profiles{$city}->[5];
-	$snow_ref 			= $climate_profiles{$city}->[6];
-	$humid_ref 			= $climate_profiles{$city}->[7];
-	$wind_ref 			= $climate_profiles{$city}->[8];
-	
-	$pop_sq_diff 		= ( ($pop_ref - $climate_avgs[0]) ** 2 );
-	$elev_sq_diff		= ( ($elev_ref - $climate_avgs[1]) ** 2 );
-	$avg_temp_sq_diff	= ( ($avg_temp_ref - $climate_avgs[2]) ** 2 );
-	$high_temp_sq_diff 	= ( ($high_temp_ref - $climate_avgs[3]) ** 2 );
-	$low_temp_sq_diff	= ( ($low_temp_ref - $climate_avgs[4]) ** 2 );
-	$rain_sq_diff		= ( ($rain_ref - $climate_avgs[5]) ** 2 );
-	$snow_sq_diff		= ( ($snow_ref - $climate_avgs[6]) ** 2 );
-	$humid_sq_diff		= ( ($humid_ref - $climate_avgs[7]) ** 2 );
-	$wind_sq_diff		= ( ($wind_ref - $climate_avgs[8]) ** 2 );
-	
-	$climate_stdevs[0] += $pop_sq_diff;
-	$climate_stdevs[1] += $elev_sq_diff;
-	$climate_stdevs[2] += $avg_temp_sq_diff;
-	$climate_stdevs[3] += $high_temp_sq_diff;
-	$climate_stdevs[4] += $low_temp_sq_diff;
-	$climate_stdevs[5] += $rain_sq_diff;
-	$climate_stdevs[6] += $snow_sq_diff;
-	$climate_stdevs[7] += $humid_sq_diff;
-	$climate_stdevs[8] += $wind_sq_diff;
+{	
+	$climate_stdevs[0] += ( ($climate_profiles{$city}->[0] - $climate_avgs[0]) ** 2 );
+	$climate_stdevs[1] += ( ($climate_profiles{$city}->[1] - $climate_avgs[1]) ** 2 );
+	$climate_stdevs[2] += ( ($climate_profiles{$city}->[2] - $climate_avgs[2]) ** 2 );
+	$climate_stdevs[3] += ( ($climate_profiles{$city}->[3] - $climate_avgs[3]) ** 2 );
+	$climate_stdevs[4] += ( ($climate_profiles{$city}->[4] - $climate_avgs[4]) ** 2 );
+	$climate_stdevs[5] += ( ($climate_profiles{$city}->[5] - $climate_avgs[5]) ** 2 );
+	$climate_stdevs[6] += ( ($climate_profiles{$city}->[6] - $climate_avgs[6]) ** 2 );
+	$climate_stdevs[7] += ( ($climate_profiles{$city}->[7] - $climate_avgs[7]) ** 2 );
+	$climate_stdevs[8] += ( ($climate_profiles{$city}->[8] - $climate_avgs[8]) ** 2 );
 }
 
 foreach my $stdev (@climate_stdevs)
@@ -225,11 +181,13 @@ foreach my $stdev (@climate_stdevs)
 printf "\n%-25s %10s %10s %10s %10s %10s %10s %10s %10s %10s\n",
 "STATISTIC", "Population", "Elevation", "Avg Temp", "High Temp",
 "Low Temp", "Rainfall", "Snowfall", "Humidity", "Windspeed";
+
 # Print out the averages and standard deviations for each attribute:
 printf "%-25s %10.2f %10.2f %10.2f %10.2f %10.2f %10.2f %10.2f %10.2f %10.2f\n",
 "Average:", "$climate_avgs[0]", "$climate_avgs[1]", "$climate_avgs[2]", 
 "$climate_avgs[3]", "$climate_avgs[4]", "$climate_avgs[5]", "$climate_avgs[6]", 
 "$climate_avgs[7]", "$climate_avgs[8]";
+
 printf "%-25s %10.2f %10.2f %10.2f %10.2f %10.2f %10.2f %10.2f %10.2f %10.2f\n",
 "Standard Deviation:", "$climate_stdevs[0]", "$climate_stdevs[1]", "$climate_stdevs[2]", 
 "$climate_stdevs[3]", "$climate_stdevs[4]", "$climate_stdevs[5]", "$climate_stdevs[6]", 
@@ -250,10 +208,13 @@ sleep(1);
 
 # RECORD LOOKUP PROMPT AND LOOP
 
-my $record_lookup = 0;
+# Initialize key variables:
+my $record_lookup;
+my $found_count;
+my $keyword_count;
+
+# Used for Record Lookup loop control:
 my $done_lookup = 0;
-my $found_count = 0;
-my $keyword_count = 0;
 
 # Loop for performing Record Lookup:
 while ($done_lookup == 0)
@@ -402,6 +363,7 @@ my $exclude_country = 0;
 my $country_only = 0;
 my $exclude_continent = 0;
 my $continent_only = 0;
+my $find_dissimilar = 0;
 
 my $keyword_match_count;
 
@@ -413,6 +375,7 @@ while ($done_default == 0)
 	$country_only = 0;
 	$exclude_continent = 0;
 	$continent_only = 0;
+	$find_dissimilar = 0;
 	
 	# Empty the match count at the beginning of each loop:
 	$keyword_match_count = 0;
@@ -448,17 +411,6 @@ while ($done_default == 0)
 		last;
 	}
 	
-	# Regex: if user input includes a minus sign:
-	if ($def_search =~ m/[-]/)
-	{
-		# Change all default weights to negative values to search
-		# for most dissimilar results:
-		($def_weight_pop, $def_weight_elev, $def_weight_avg_temp,
-		$def_weight_high_temp, $def_weight_low_temp, $def_weight_rain,
-		$def_weight_snow, $def_weight_humid, $def_weight_wind) = 
-		(0, -1, -1, -1, -1, -1, -1, -1, -1);
-	}
-	
 	# Records from the same country will be excluded:
 	($exclude_country = 1) if ($def_search =~ m/[>]/);
 	
@@ -470,6 +422,9 @@ while ($done_default == 0)
 	
 	# Records not from the same continent will be excluded:
 	($continent_only = 1) if ($def_search =~ m/[\/]/);
+	
+	# Most dissimilar results will be displayed:
+	($find_dissimilar = 1) if ($def_search =~ m/[-]/);
 	
 	# Regex: Error statement if user includes both '<' and '>':
 	if ($def_search =~ m/[>]/ && $def_search =~ m/[<]/)
@@ -616,8 +571,14 @@ while ($done_default == 0)
 		}
 		
 		# Print message if user specifies to use negative weights:
-		if ($def_weight_elev < 0)
+		if ($find_dissimilar == 1)
 		{
+			# Change all default weights to negative values to search
+			# for most dissimilar results:
+			($def_weight_pop, $def_weight_elev, $def_weight_avg_temp,
+			$def_weight_high_temp, $def_weight_low_temp, $def_weight_rain,
+			$def_weight_snow, $def_weight_humid, $def_weight_wind) = 
+			(-1, -1, -1, -1, -1, -1, -1, -1, -1);
 			print "\n* Using negative weights to find most dissimilar results...\n";
 			sleep(1);
 		}
@@ -723,7 +684,6 @@ while ($done_default == 0)
 		}
 		
 		#-----------------------------------------------------------------------------------#
-		
 		# PRINTING DEFAULT SEARCH RESULTS
 		
 		print "\nSEARCH CRITERIA:\n\n";
@@ -744,13 +704,13 @@ while ($done_default == 0)
 		# Print headers for search result categories:
 		printf "%35s %10s %10s %10s %10s %10s %10s %10s %10s %10s %10s\n\n",
 		"City ST Country", "Population", "Elevation", "Avg Temp", "High Temp",
-		"Low Temp", "Rainfall", "Snowfall", "Humidity", "Windspeed", "DIFF-SCORE";
+		"Low Temp", "Rainfall", "Snowfall", "Humidity", "Windspeed", "DIFF SCORE";
 		
 		# Print out sorted climate data for each city (up to display limit), along with difference score:
 		my $def_result_count = 0;
 		foreach my $profile ( 	sort { $def_diff_scores{$a} <=> $def_diff_scores{$b} } keys %def_diff_scores)
 		{
-			push @map_locations, [$profile, $climate_profiles{$profile}->[10], $climate_profiles{$profile}->[11]];
+			push @map_locations, [ $profile, $climate_profiles{$profile}->[10], $climate_profiles{$profile}->[11] ];
 			
 			printf "%35s %10d %10d %10.1f %10.1f %10.1f %10.1f %10.1f %10.1f %10.1f %10.2f\n",
 			$profile, "$climate_profiles{$profile}->[0]000", $climate_profiles{$profile}->[1], 
@@ -765,6 +725,9 @@ while ($done_default == 0)
 			# Stops printing once the display limit is reached:
 			last if ($def_result_count == $def_result_limit);
 		}
+		
+		#------------------------------------------------------------------------------------#
+		# SEND DATA TO OUTPUT GENERATOR
 		
 		print "Do you want to plot your top 10 matches on a map? [Y/N]: ";
 		my $plot_data = <STDIN>;
@@ -992,9 +955,15 @@ while ($done_custom == 0)
 		 = split " ", $user_inputs;
 			
 		# Error statement when one of the search parameters is not assigned a value:
-		if (!defined $user_pop || !defined $user_elev || !defined $user_avg_temp || 
-			!defined $user_high_temp || !defined $user_low_temp || !defined $user_rain ||
-			!defined $user_snow || !defined $user_humid || !defined $user_wind)
+		if (!defined $user_pop || 
+			!defined $user_elev || 
+			!defined $user_avg_temp || 
+			!defined $user_high_temp || 
+			!defined $user_low_temp || 
+			!defined $user_rain ||
+			!defined $user_snow || 
+			!defined $user_humid || 
+			!defined $user_wind)
 		{
 			print "\n* Error: one or more parameters were not defined. Please check your input and try again!\n";
 			$params_undef = 1;
@@ -1136,11 +1105,17 @@ while ($done_custom == 0)
 		 = split " ", $user_weights;
 		
 		# Error statement when one of the search parameters is not assigned a value:
-		if (!defined $weight_pop || !defined $weight_elev || !defined $weight_avg_temp || 
-			!defined $weight_high_temp || !defined $weight_low_temp || !defined $weight_rain ||
-			!defined $weight_snow || !defined $weight_humid || !defined $weight_wind)
+		if (!defined $weight_pop || 
+			!defined $weight_elev || 
+			!defined $weight_avg_temp || 
+			!defined $weight_high_temp || 
+			!defined $weight_low_temp || 
+			!defined $weight_rain ||
+			!defined $weight_snow || 
+			!defined $weight_humid || 
+			!defined $weight_wind)
 		{
-			print "One or more parameters were not defined. Please check your input and try again!\n";
+			print "\n* Error: One or more parameters were not defined. Please check your input and try again!\n";
 			$weights_undef = 1;
 		}
 		
@@ -1245,9 +1220,6 @@ while ($done_custom == 0)
 	# CONTINENT/REGION FILTER
 	
 	my $done_regions_filtered = 0;
-	my $moved_count = 0;
-	my $remain_count = 0;
-	my $regions_delete_count = 0;
 	
 	# Loop for continent/region filter:
 	while ($done_regions_filtered == 0)
@@ -1308,136 +1280,21 @@ while ($done_custom == 0)
 				{
 					$removed_profiles{$city} = $climate_profiles{$city};
 					delete $climate_profiles{$city};
-					
-					# Increment count of deleted records:
-					$regions_delete_count += 1;
 				}
 			}
 			# Done filtering, exit loop:
 			$done_regions_filtered = 1;
 		}
 	}
-	# Calculate number of remaining climate entries:
-	$remain_count = scalar keys %climate_profiles;
+	# Calculate number of remaining/removed climate entries:
+	my $remain_count = scalar keys %climate_profiles;
+	my $regions_delete_count = scalar keys %removed_profiles;
 	sleep(1);
 	
 	print "\n* $regions_delete_count climate records were removed from search results, $remain_count climate records remaining.\n";
 	sleep(1);
-	
-	#----------------------------------------------------------------------------------------#
-	
-	# MIN/MAX POPULATION FILTER
-	
-	# Default population range (which will include all possible populations):
-	my @pop_range = (0, 99999);
-	my $pop_filtered = 0;
-	my $pop_delete_count = 0;
-	
-	# While loop for population filter:
-	while ($pop_filtered == 0)
-	{
-		# Population filter prompt:
-		print "\nSet minimum/maximum population (format: #####,#####), or leave blank: ";
-		my $min_max_pop = <STDIN>;
-		chomp $min_max_pop;
-		
-		# Exit statement:
-		exit 0 if ($min_max_pop =~ m/^quit$/i);
-		
-		# Split user input on comma:
-		@pop_range = split ',', $min_max_pop;
-		
-		# Regex: Make sure user input matches format (#####,#####), and 1st number is smaller than 2nd:
-		if ($min_max_pop =~ m/^([0-9]{1,5}),([0-9]{1,5})$/ && $1 < $2)
-		{
-			# Loop through all climate entries:
-			foreach my $city (keys %climate_profiles)
-			{
-				# Remove any entry with a population below the minimum or above the maximum,
-				# but also store them in another hash so that they can be restored for the next loop:
-				if ( 	$climate_profiles{$city}->[0] < $pop_range[0]	|| 
-						$climate_profiles{$city}->[0] > $pop_range[1] 	)
-				{
-					$removed_profiles{$city} = $climate_profiles{$city};
-					delete $climate_profiles{$city};
-					
-					# Increment count of deleted records:
-					$pop_delete_count += 1;
-				}
-			}
-			# Filtering complete, exit loop:
-			$pop_filtered = 1;
-		}
-		# If user input is blank:
-		elsif ($min_max_pop =~ m/^(?![\s\S])$/)
-		{
-			# Don't filter any results, exit loop:
-			$pop_filtered = 1;
-		}
-		# Error statement if numbers are not in order, or are equal:
-		elsif ($pop_range[0] >= $pop_range[1])
-		{
-			print "\n* Incorrect format! First number must be smaller than second number.\n";
-		}
-		# General error statement:
-		else
-		{
-			print "\n* Incorrect format! Please enter two numbers separated by a comma.\n";
-		}
-	}
-	
-	# Calculate number of remaining climate entries:
-	$remain_count = scalar keys %climate_profiles;
-	sleep(1);
-	
-	print "\n* $pop_delete_count climate records were removed from search results, $remain_count climate records remaining.\n";
-	sleep(1);
-	
-	#-------------------------------------------------------------------------------#
-	
-	# SETTING DISPLAY LIMIT
-	
-	# By default, the number of results to be displayed is 
-	# equal to the number of entries compiled:
-	my $display_limit = $entry_count;
-	my $display_limit_set = 0;
-	
-	# While loop for setting display limit:
-	while ($display_limit_set == 0)
-	{
-		# Display limit prompt:
-		print "\nEnter a limit for the number of results to display: ";
-		my $user_limit = <STDIN>;
-		chomp $user_limit;
-		
-		# Exit statement:
-		exit 0 if ($user_limit =~ m/^quit$/i);
-		
-		# Regex: user input must be a whole positive number:
-		if ($user_limit =~ m/^[0-9]+$/)
-		{
-			# Set display limit equal to user input:
-			$display_limit = $user_limit;
-		}
-		# Regex: if user input is left blank or set to zero:
-		elsif ($user_limit =~ m/\A\z/ || $user_limit =~ m/^0$/)
-		{
-			# Result limit remains equal to number of entries:
-			$display_limit = $entry_count;
-		}
-		# If user input cannot be interpreted, default display limit will be used:
-		else
-		{
-			print "\n* Input not recognized, default limit will be used...\n";
-			$display_limit = 30;
-		}
-		# Exit loop:
-		$display_limit_set = 1;
-	}
-	sleep(1);
 
 	#--------------------------------------------------------------------------#
-	
 	# CALCULATING DIFFERENCE SCORES
 	
 	# Initialize hash for containing residuals for each climate record:
@@ -1455,15 +1312,41 @@ while ($done_custom == 0)
 	foreach my $city (keys %climate_profiles)
 	{
 		# Calculate standardized/weighted residual for each category (diff. between user input and each entry):
-		$diff_profiles{$city}->[0] = log( abs( $user_pop - $climate_profiles{$city}->[0] ) / $climate_stdevs[0] + 1 ) * $weight_pop;
-		$diff_profiles{$city}->[1] = log( abs( $user_elev - $climate_profiles{$city}->[1] ) / $climate_stdevs[1] + 1 )* $weight_elev;
-		$diff_profiles{$city}->[2] = abs( $user_avg_temp - $climate_profiles{$city}->[2] ) / $climate_stdevs[2] * $weight_avg_temp;
-		$diff_profiles{$city}->[3] = abs( $user_high_temp - $climate_profiles{$city}->[3] ) / $climate_stdevs[3] * $weight_high_temp;
-		$diff_profiles{$city}->[4] = abs( $user_low_temp - $climate_profiles{$city}->[4] ) / $climate_stdevs[4] * $weight_low_temp;
-		$diff_profiles{$city}->[5] = log( abs( $user_rain - $climate_profiles{$city}->[5] ) / $climate_stdevs[5] + 1 ) * $weight_rain;
-		$diff_profiles{$city}->[6] = log( abs( $user_snow - $climate_profiles{$city}->[6] ) / $climate_stdevs[6] + 1 ) * $weight_snow;
-		$diff_profiles{$city}->[7] = abs( $user_humid - $climate_profiles{$city}->[7] ) / $climate_stdevs[7] * $weight_humid;
-		$diff_profiles{$city}->[8] = abs( $user_wind - $climate_profiles{$city}->[8] ) / $climate_stdevs[8] * $weight_wind;
+		$diff_profiles{$city}->[0] = 
+		log( abs( $user_pop - $climate_profiles{$city}->[0] )
+		/ $climate_stdevs[0] + 1 ) * $weight_pop;
+		
+		$diff_profiles{$city}->[1] = 
+		log( abs( $user_elev - $climate_profiles{$city}->[1] )
+		/ $climate_stdevs[1] + 1 )* $weight_elev;
+		
+		$diff_profiles{$city}->[2] = 
+		abs( $user_avg_temp - $climate_profiles{$city}->[2] )
+		/ $climate_stdevs[2] * $weight_avg_temp;
+		
+		$diff_profiles{$city}->[3] = 
+		abs( $user_high_temp - $climate_profiles{$city}->[3] )
+		/ $climate_stdevs[3] * $weight_high_temp;
+		
+		$diff_profiles{$city}->[4] = 
+		abs( $user_low_temp - $climate_profiles{$city}->[4] )
+		/ $climate_stdevs[4] * $weight_low_temp;
+		
+		$diff_profiles{$city}->[5] = 
+		log( abs( $user_rain - $climate_profiles{$city}->[5] )
+		/ $climate_stdevs[5] + 1 ) * $weight_rain;
+		
+		$diff_profiles{$city}->[6] = 
+		log( abs( $user_snow - $climate_profiles{$city}->[6] )
+		/ $climate_stdevs[6] + 1 ) * $weight_snow;
+		
+		$diff_profiles{$city}->[7] = 
+		abs( $user_humid - $climate_profiles{$city}->[7] )
+		/ $climate_stdevs[7] * $weight_humid;
+		
+		$diff_profiles{$city}->[8] = 
+		abs( $user_wind - $climate_profiles{$city}->[8] )
+		/ $climate_stdevs[8] * $weight_wind;
 		# Note: By default, Population is weighted per thousand people. 
 		# Pop, Elev, Rain, and Snowfall are also weighted logarithmically to reduce impact of outliers. 
 		# All the rest are weighted normally.
@@ -1489,16 +1372,18 @@ while ($done_custom == 0)
 	printf "%35s %10s %10s %10s %10s %10s %10s %10s %10s %10s\n\n",
 	"Attributes:", "Population", "Elevation", "Avg Temp", "High Temp", "Low Temp", 
 	"Rainfall", "Snowfall", "Humidity", "Windspeed";
+	
 	# Print out user-defined search criteria:
 	printf "%35s %10s %10s %10.10s %10.10s %10.10s %10.10s %10.10s %10.10s %10.10s\n",
 	"Input:", 	"$user_pop k", "$user_elev m", "$user_avg_temp C", "$user_high_temp C", 
 				"$user_low_temp C", "$user_rain cm", "$user_snow cm", "$user_humid \%", 
 				"$user_wind km/h";
+				
 	# Print user-defined weights for each category:
 	printf "%35s %10.2f %10.2f %10.2f %10.2f %10.2f %10.2f %10.2f %10.2f %10.2f\n\n", 
-	"Weights:", 	$weight_pop, $weight_elev, $weight_avg_temp, $weight_high_temp, 
-					$weight_low_temp, $weight_rain, $weight_snow, $weight_humid, 
-					$weight_wind;
+	"Weights:", 	"$weight_pop", "$weight_elev", "$weight_avg_temp", "$weight_high_temp", 
+					"$weight_low_temp", "$weight_rain", "$weight_snow", "$weight_humid", 
+					"$weight_wind";
 	sleep(2);
 	
 	print "\nSEARCH RESULTS:\n\n";
@@ -1509,9 +1394,13 @@ while ($done_custom == 0)
 	"Low Temp", "Rainfall", "Snowfall", "Humidity", "Windspeed", "DIFFSCORE";
 	
 	# Print out sorted climate data for each city (up to display limit), along with difference score:
+	my $display_limit = 30;
 	my $result_count = 0;
-	foreach my $profile ( 	sort { $diff_scores{$a} <=> $diff_scores{$b} } keys %diff_scores)
+	
+	foreach my $profile ( sort { $diff_scores{$a} <=> $diff_scores{$b} } keys %diff_scores)
 	{
+		push @map_locations, [ $profile, $climate_profiles{$profile}->[10], $climate_profiles{$profile}->[11] ];
+		
 		printf "%35s %10d %10d %10.1f %10.1f %10.1f %10.1f %10.1f %10.1f %10.1f %10.2f\n",
 		$profile, "$climate_profiles{$profile}->[0]000", $climate_profiles{$profile}->[1], 
 		$climate_profiles{$profile}->[2], $climate_profiles{$profile}->[3], 
@@ -1523,8 +1412,36 @@ while ($done_custom == 0)
 		
 		# Print carriage return every 10 results:
 		print "\n" if ($result_count % 10 == 0);
+		
 		# Stop printing once display limit has been reached:
 		last if ($result_count == $display_limit);
+	}
+	
+	print "Do you want to plot your top 10 matches on a map? [Y/N]: ";
+	my $plot_data = <STDIN>;
+		
+	# Write city/lat/long data to a CSV file, open a Python script
+	# to plot the data on a map:
+	if ($plot_data =~ m/^[yY]$/)
+	{	
+		# Open/write the locations to be mapped to output file :
+		my $loc_file;
+		my $timestamp = localtime();
+		$timestamp =~ s/[\W]//g;
+			
+		open( $loc_file, ">", "cse_matches_$timestamp-CustomSearch.csv" ) || die "* Could not create output file!\n";
+			
+		# Sends city/state/country name and lat/long coordinates to output CSV file:
+		foreach my $city (@map_locations)
+		{
+			print $loc_file "$$city[0],$$city[1],$$city[2]\n";
+		}
+			
+		# Close the completed output file:
+		close( $loc_file );
+			
+		# Execute Output generator script, with CSV file and full city name as arguments:
+		system "cse_output.pl cse_matches_$timestamp-CustomSearch.csv CustomSearch";
 	}
 	
 	# Restore records that were removed during the population filtering,
@@ -1541,11 +1458,9 @@ while ($done_custom == 0)
 	# STARTING ANOTHER CUSTOM SEARCH
 	
 	# Ask user to perform another custom search, or quit the program:
-	print "\nTo perform another custom search, type in 'custom'. Otherwise, program will quit: ";
+	print "\nTo perform another custom search, type in 'custom'. Otherwise, press 'Enter' to quit: ";
 	my $search_again = <STDIN>;
 	chomp $search_again;
 	
-	# Exit statements:
-	exit 0 if ($search_again =~ m/^quit$/i);
 	exit 0 if ($search_again !~ m/^custom$/i);
 }

@@ -26,13 +26,29 @@ use warnings;
 use GD::Simple;
 
 my $coords;
-my $coord_file = $ARGV[0];
-
-my $city_profile = $ARGV[1];
-
+my $coord_file;
+my $city_profile;
 my $map_file = "equi-world-map.jpg";
 
 my %coord_profiles;
+
+if ($ARGV[0])
+{
+	$coord_file = $ARGV[0];
+}
+else
+{
+	print "\n * Error: no coordinate file provided!";
+}
+
+if ($ARGV[1])
+{
+	$city_profile = $ARGV[1];
+}
+else
+{
+	$city_profile = "CustomSearch";
+}
 
 if ($ARGV[0])
 {
@@ -87,7 +103,7 @@ foreach my $city (keys %coord_profiles)
 	$match_city =~ s/[\W]//g;
 	
 	# Draw top 10 matches, with original city colored blue:
-	if ($match_city eq $ARGV[1])
+	if ($match_city eq $city_profile)
 	{
 		$world_map->bgcolor('white');
 		$world_map->fgcolor('black');
@@ -95,9 +111,9 @@ foreach my $city (keys %coord_profiles)
 	}
 	else
 	{
-		$world_map->bgcolor('gray');
+		$world_map->bgcolor('red');
 		$world_map->fgcolor('black');
-		$world_map->ellipse(25,25);
+		$world_map->ellipse(20,20);
 	}
 }
 
@@ -108,7 +124,7 @@ my $timestamp = localtime();
 $timestamp =~ s/[\W]//g;
 
 # Create the timestamped output file to save the map:
-open ($out_file, '>', "cse_map_$timestamp-$ARGV[1].png") or die "* Could not create JPG output file!\n";
+open ($out_file, '>', "cse_map_$timestamp-$city_profile.png") or die "* Could not create JPG output file!\n";
 binmode $out_file;
 
 # Save world map w/ markers to new PNG file:
@@ -116,7 +132,7 @@ print $out_file $world_map->png;
 
 close $out_file;
 
-my $map = "cse_map_$timestamp-$ARGV[1].png";
+my $map = "cse_map_$timestamp-$city_profile.png";
 my $csv = $ARGV[0];
 
 # Print edited map to console:
